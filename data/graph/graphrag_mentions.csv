@@ -1,0 +1,3936 @@
+doc_id,entity_key
+0,PERSON::bela lugosi
+0,PERSON::johnny depp
+0,PERSON::sarah jessica parker
+0,PERSON::tim burton
+0,WORK::ed wood (film)
+1,OTHER::deliver us from evil
+1,OTHER::the exorcism of emily rose
+1,PERSON::scott derrickson
+1,"PLACE::los angeles, california"
+1,WORK::sinister
+2,PLACE::pulaski county
+2,PLACE::woodson
+2,WORK::little rock–north little rock–conway metropolitan statistical area
+2,WORK::wood hollow
+2,WORK::woodson lake
+3,OTHER::marilyn manson
+3,OTHER::zack snyder
+3,PERSON::james gunn
+3,PERSON::tyler bates
+4,DATE::1924-10-10
+4,DATE::1978-12-10
+4,NATIONALITY::american
+4,PERSON::edward davis wood jr.
+4,PLACE::united states
+5,PERSON::eric bana
+5,PERSON::jerry bruckheimer
+5,PERSON::scott derrickson
+5,PERSON::édgar ramírez
+5,WORK::deliver us from evil (2014 film)
+6,NATIONALITY::american
+6,OTHER::crankshaft
+6,PERSON::adam collis
+6,PERSON::scott derrickson
+6,PLACE::united states
+7,PERSON::c. robert cargill
+7,PERSON::ethan hawke
+7,PERSON::scott derrickson
+7,WORK::sinister
+8,ORGANIZATION::ed wood
+8,PERSON::conrad brooks
+8,"PLACE::baltimore, maryland"
+8,"PLACE::hollywood, california"
+9,OTHER::marvel studios
+9,OTHER::walt disney studios motion pictures
+9,PERSON::benedict cumberbatch
+9,PERSON::chiwetel ejiofor
+9,PERSON::rachel mcadams
+9,PERSON::scott derrickson
+9,WORK::doctor strange (2016 film)
+10,OTHER::cbs
+10,OTHER::golden age
+10,WORK::corliss archer
+11,OTHER::hollywood's number one box-office draw as a child actress from 1935 to 1938
+11,OTHER::served as chief of protocol of the united states
+11,"OTHER::works as an actress, singer, dancer, businesswoman, and diplomat"
+11,PERSON::shirley temple black
+11,PLACE::united states
+12,PERSON::janet waldo
+12,WORK::josie
+12,WORK::judy jetson
+12,WORK::nancy
+12,WORK::penelope pitstop
+13,OTHER::united states
+13,OTHER::ziv company
+13,PERSON::f. hugh herbert
+13,WORK::meet corliss archer (tv series)
+14,OTHER::acts of union of 1707
+14,OTHER::british government position
+14,OTHER::english government position
+14,WORK::lord high treasurer
+15,ORGANIZATION::united artists
+15,PERSON::richard wallace
+15,PERSON::shirley temple
+15,WORK::a kiss for corliss
+16,PERSON::shirley temple
+16,WORK::corliss archer
+16,WORK::kiss and tell
+17,OTHER::british government
+17,WORK::secretary of state for constitutional affairs
+18,OTHER::administrative government position
+18,OTHER::indian sub-continent
+18,OTHER::rural parts of the indian sub-continent
+18,WORK::village accountant
+19,"DATE::september 19, 1968"
+19,PERSON::charles craft
+19,PLACE::california
+19,PLACE::hampshire
+19,PLACE::los angeles
+20,ORGANIZATION::science fiction and fantasy writers of america (sfwa)
+20,OTHER::science fiction and fantasy
+20,OTHER::united states
+20,PERSON::catherine asaro
+20,WORK::andre norton award
+20,WORK::nebula awards
+21,NATIONALITY::american
+21,OTHER::cotton wood press
+21,OTHER::egmont usa
+21,PERSON::victoria hanley
+22,OTHER::animorphs series
+22,PERSON::k. a. applegate
+22,WORK::the hork-bajir chronicles
+23,DATE::2015
+23,OTHER::shadowshaping
+23,PERSON::daniel josé older
+23,PERSON::sierra santiago
+23,PLACE::brooklyn
+23,WORK::shadowshaper
+24,OTHER::tyndale house publishing
+24,OTHER::united states
+24,PERSON::chris fabry
+24,PERSON::jerry b. jenkins
+24,PERSON::tim lahaye
+24,WORK::left behind: the kids
+25,ORGANIZATION::digicube
+25,ORGANIZATION::square enix
+25,ORGANIZATION::studio bentstuff
+25,PLACE::japan
+26,OTHER::alternate universe
+26,OTHER::chicken house (now a division of scholastic)
+26,OTHER::fantasy young adult novel
+26,PERSON::elizabeth kay
+26,WORK::the divide trilogy
+27,ORGANIZATION::nova publications
+27,ORGANIZATION::roberts & vinter
+27,OTHER::british
+27,OTHER::impulse
+27,OTHER::john carnell
+27,PERSON::kyril bonfiglioli
+27,WORK::new worlds
+27,WORK::science fantasy
+28,ORGANIZATION::scholastic
+28,PERSON::k. a. applegate
+28,PERSON::katherine applegate
+28,PERSON::michael grant
+28,WORK::animorphs
+29,OTHER::parasol protectorate adult series
+29,OTHER::same universe
+29,OTHER::steampunk
+29,PERSON::gail carriger
+29,WORK::etiquette & espionage
+30,DATE::21 march 1873
+30,DATE::7 may 1899
+30,PERSON::abdülaziz
+30,PERSON::abdülmecid ii
+30,PERSON::esma sultan
+30,PERSON::gevheri kadın
+30,PERSON::salih bey svatnba
+30,PLACE::ottoman
+31,OTHER::almoravid architecture
+31,PLACE::algeria
+31,PLACE::algiers
+31,WORK::djamaâ el kebir
+31,WORK::great mosque of algiers
+32,NATIONALITY::ottoman
+32,OTHER::ottoman dynasty
+32,PERSON::esma sultan
+32,PERSON::küçük hüseyin pasha
+33,DATE::4 june 1848
+33,NATIONALITY::ottoman
+33,PERSON::abdul hamid i
+33,PERSON::bezmiâlem sultan
+33,PERSON::esma sultan
+33,PERSON::rahime perestu sultan
+33,PLACE::ottoman empire
+34,PLACE::istanbul
+34,PLACE::turkey
+34,WORK::sultan ahmed mosque
+35,PLACE::fatih
+35,PLACE::istanbul
+35,PLACE::turkey
+35,WORK::laleli mosque
+36,PLACE::istanbul
+36,PLACE::ortaköy neighborhood
+36,PLACE::turkey
+36,WORK::esma sultan mansion
+37,PERSON::esma sultan
+38,DATE::6 september 1884
+38,DATE::8 july 1856
+38,NATIONALITY::ottoman empire
+38,PERSON::abdülaziz
+38,PERSON::gevheri kadın
+39,DATE::13 august 1788
+39,DATE::14 march 1726
+39,NATIONALITY::ottoman
+39,OTHER::ottoman princess
+39,PERSON::abdul hamid i
+39,PERSON::ahmed iii
+39,PERSON::esma sultan
+39,PERSON::mustafa iii
+39,PERSON::zeynep kadın
+40,PERSON::april hunter
+40,PERSON::joanie laurer
+40,WORK::just another romantic wrestling comedy
+41,"OTHER::big stone gap, virginia"
+41,"OTHER::brooklyn, new york"
+41,"OTHER::kingston, jamaica"
+41,PERSON::dave eggar
+41,WORK::kingston morning
+42,OTHER::alan hruska
+42,OTHER::nola (character)
+42,PLACE::new york city
+42,WORK::nola (film)
+43,NATIONALITY::american
+43,PERSON::adriana trigiani
+43,"PLACE::greenwich village, new york city"
+44,"ORGANIZATION::great eastern conventions, inc."
+44,OTHER::comic book conventions
+44,PLACE::jacob k. javits convention center
+44,PLACE::new york city
+45,ORGANIZATION::lackawanna railroad
+45,ORGANIZATION::new york society of model engineers
+45,"OTHER::carlstadt, new jersey"
+45,"OTHER::hoboken,nj"
+45,PLACE::astor building
+45,PLACE::central park
+46,NATIONALITY::american
+46,PERSON::dewitt clinton
+46,PLACE::big stone county
+46,PLACE::clinton
+46,PLACE::minnesota
+46,PLACE::united states
+47,OTHER::andy lee
+47,OTHER::east london
+47,OTHER::hamish blake
+47,PLACE::new york city
+47,WORK::hamish & andy's gap year
+48,PERSON::kangana ranaut
+48,PERSON::radhika rao
+48,PERSON::sunny deol
+48,PERSON::vinay sapru
+48,WORK::i love ny (2015 film)
+49,ORGANIZATION::altar identity studios
+49,ORGANIZATION::media society
+49,PERSON::adriana trigiani
+49,PERSON::donna gigliotti
+49,WORK::big stone gap (film)
+50,ORGANIZATION::s.m. entertainment
+50,ORGANIZATION::shinee
+50,WORK::lucifer
+50,WORK::sherlock
+50,WORK::the shinee world
+51,"DATE::february 3, 1988"
+51,NATIONALITY::south korean
+51,OTHER::s.m. the ballad
+51,OTHER::super junior
+51,PERSON::kyuhyun
+52,ORGANIZATION::winner
+52,ORGANIZATION::yg entertainment
+52,"OTHER::august 12, 2014"
+52,OTHER::south korea
+52,WORK::2014 s/s
+53,ORGANIZATION::loen entertainment
+53,"OTHER::april 26, 2013"
+53,"OTHER::may 12, 2017"
+53,WORK::history (band)
+54,ORGANIZATION::yg entertainment
+54,OTHER::south korea
+54,PERSON::jinwoo
+54,PERSON::mino
+54,PERSON::seunghoon
+54,PERSON::seungyoon
+54,WORK::winner (band)
+55,ORGANIZATION::j. tune camp
+55,"OTHER::october 6, 2014"
+55,PERSON::daewon
+55,PERSON::lee geon
+55,PERSON::moos
+55,WORK::madtown
+56,ORGANIZATION::jellyfish entertainment
+56,OTHER::vixx
+56,OTHER::vixx lr
+56,PERSON::ravi
+57,ORGANIZATION::fnc entertainment
+57,ORGANIZATION::sf9
+57,OTHER::first single album 'feeling sensation'
+57,"OTHER::october 5, 2016"
+58,ORGANIZATION::pledis entertainment
+58,ORGANIZATION::seventeen
+58,OTHER::south korea
+59,ORGANIZATION::bts
+60,OTHER::comer school development program
+60,OTHER::sesame street
+60,PERSON::james p. comer
+60,"PLACE::east chicago, indiana"
+60,WORK::maurice falk professor of child psychiatry
+60,WORK::yale child study center
+60,WORK::yale school of medicine
+61,NATIONALITY::american
+61,PERSON::clifford smith
+61,PERSON::method man
+61,WORK::method man & redman
+61,WORK::wu-tang clan
+62,DATE::9 june 1942
+62,NATIONALITY::indonesian
+62,"OTHER::actress, psychologist, marketer"
+62,OTHER::indri makki
+62,OTHER::indriati iskak
+62,PERSON::indriati gerald bernardina
+62,PLACE::surabaya
+63,DATE::3 april 1959
+63,NATIONALITY::bangladeshi-british
+63,OTHER::aladin
+63,PERSON::eenasul fateh
+64,NATIONALITY::american
+64,OTHER::dj and entrepreneur
+64,OTHER::mick
+64,OTHER::mick boogie
+64,PERSON::mick batyske
+65,OTHER::cirque du soleil
+65,OTHER::criss angel mindfreak
+65,PERSON::criss angel
+65,PLACE::las vegas valley
+66,NATIONALITY::american
+66,OTHER::masters degree in architecture
+66,PERSON::eldee
+66,PLACE::lagos island
+66,PLACE::united_states
+66,WORK::trybesmen
+66,WORK::university of lagos
+67,OTHER::practice
+67,WORK::management consulting
+68,ORGANIZATION::def jam recordings
+68,PERSON::lil ru
+68,"PLACE::ridgeway, south carolina"
+69,NATIONALITY::ecuadorian
+69,PERSON::amaruk kayshapanta
+69,PLACE::quito
+70,OTHER::billings
+70,PLACE::centennial ice arena
+70,PLACE::metrapark
+70,WORK::billings bulls
+71,PERSON::e. claiborne robins sr
+71,"PLACE::richmond, virginia"
+71,WORK::robins center
+71,WORK::university of richmond spiders
+72,ORGANIZATION::blainville-boisbriand armada
+72,OTHER::quebec major junior hockey league (qmjhl)
+72,PLACE::boisbriain
+72,WORK::2011–12 qmjhl season
+74,ORGANIZATION::boston university
+74,WORK::agganis arena
+74,WORK::case gym
+74,WORK::harold case physical education center
+74,WORK::walter brown arena
+75,OTHER::1958
+75,PLACE::lewiston
+75,WORK::androscoggin bank colisée
+76,OTHER::canadian hockey league (chl)
+76,"PLACE::vancouver, british columbia"
+76,WORK::2007 mastercard memorial cup
+76,WORK::lewiston maineiacs
+76,WORK::medicine hat tigers
+76,WORK::plymouth whalers
+76,WORK::vancouver giants
+77,"OTHER::lewiston, maine"
+77,OTHER::quebec major junior hockey league
+77,PLACE::androscoggin bank colisée
+77,WORK::lewiston maineiacs
+78,ORGANIZATION::niagara university
+78,PLACE::lewiston
+78,PLACE::new york
+78,PLACE::united states
+78,WORK::robert and concetta dwyer arena
+79,OTHER::18
+79,"OTHER::march 18, 2007"
+79,OTHER::quebec major junior hockey league
+79,"OTHER::september 14, 2006"
+79,WORK::2006–07 qmjhl season
+80,"DATE::october 8, 1970"
+80,NATIONALITY::american
+80,PERSON::annie morton
+80,PLACE::pennsylvania
+81,ORGANIZATION::michael o'mara books
+81,ORGANIZATION::st. martin's press
+81,OTHER::april 2001
+81,OTHER::madonna (book)
+81,OTHER::united states
+81,PERSON::andrew morton
+81,PERSON::sally richardson
+81,PLACE::united kingdom
+82,"DATE::august 14, 1965"
+82,NATIONALITY::american
+82,PERSON::terry richardson
+83,ORGANIZATION::grand central publishing
+83,OTHER::united states
+83,PERSON::lady gaga
+83,PERSON::terry richardson
+84,NATIONALITY::american
+84,PERSON::pj morton
+84,WORK::gumbo
+85,"DATE::november 21, 1967"
+85,NATIONALITY::american
+85,PERSON::amanda lepore
+86,PERSON::murat saraçoğlu
+86,PERSON::tarık akan
+86,PERSON::şerif sezer
+86,WORK::piano girl
+87,PERSON::bob nickas
+87,PERSON::peter halley
+87,WORK::index magazine
+88,PLACE::belgium
+88,WORK::snoecks
+89,PERSON::kenton terry richardson
+89,PLACE::england
+90,ORGANIZATION::gmo free mendocino
+90,OTHER::local farmers and environmental groups
+90,OTHER::mendocino county gmo ban
+90,PLACE::california
+90,PLACE::mendocino county
+90,WORK::measure h
+91,NATIONALITY::american
+91,ORGANIZATION::charles h. percy
+91,PERSON::alex seith
+91,PLACE::illinois
+91,"WORK::united states senate election in illinois, 1978"
+92,"OTHER::jerome, idaho"
+92,OTHER::united states
+92,WORK::william h. cook water tank house
+93,PLACE::amherst
+93,PLACE::connecticut river valley
+93,PLACE::hampshire county
+93,PLACE::massachusetts
+94,ORGANIZATION::local h
+94,PERSON::joe daniels
+94,PERSON::john sparkman
+94,PERSON::matt garcia
+94,PERSON::scott lucas
+95,NATIONALITY::american
+95,ORGANIZATION::fawcett publications
+95,OTHER::wilford h. fawcett
+95,PERSON::captain billy
+95,"PLACE::breezy point, minnesota"
+95,WORK::wilford h. fawcett house
+96,PLACE::lincoln
+96,PLACE::united states
+96,WORK::for against
+97,ORGANIZATION::ophur
+97,OTHER::chicago suburbs
+97,OTHER::dupage county
+98,ORGANIZATION::suffrajett
+98,OTHER::black glitter
+98,PERSON::danny severson
+98,PERSON::jason chasko
+98,PERSON::kevin roberts
+98,PERSON::simi sernaker
+99,ORGANIZATION::local h
+99,PLACE::chicago
+99,WORK::hallelujah! i'm a bum
+100,"OTHER::missouri, united states"
+100,PLACE::avondale
+100,"PLACE::clay county, missouri"
+100,"PLACE::kansas city, missouri"
+100,"PLACE::north kansas city, missouri"
+101,ORGANIZATION::university of missouri–kansas city
+101,"OTHER::truman medical center, children's mercy hospital, the missouri health department, the jackson county medical examiners office, and the missouri department of mental health behavioral medicine"
+101,"PLACE::kansas city, missouri"
+102,OTHER::jazz
+102,PLACE::chicago
+102,PLACE::kansas city
+102,PLACE::new orleans
+102,PLACE::new york city
+102,PLACE::philadelphia
+102,PLACE::st. louis
+102,WORK::kansas city jazz
+103,ORGANIZATION::kansas department of transportation
+103,ORGANIZATION::missouri department of transportation
+103,PLACE::kansas city metropolitan area
+103,WORK::kansas city scout
+104,ORGANIZATION::university of kansas
+104,WORK::kansas song
+105,PLACE::31st street
+105,PLACE::kansas city metropolitan area
+105,"PLACE::kansas city, missouri"
+105,PLACE::kansas–missouri state line
+105,PLACE::missouri river
+105,PLACE::north kansas city
+105,PLACE::woodland avenue
+105,WORK::downtown kansas city
+106,"PLACE::independence, missouri"
+106,PLACE::kansas
+106,PLACE::kansas city metropolitan area
+106,"PLACE::kansas city, kansas"
+106,PLACE::missouri
+106,"PLACE::olathe, kansas"
+106,"PLACE::overland park, kansas"
+107,ORGANIZATION::university of the incarnate word
+107,PLACE::alamo heights
+107,PLACE::san antonio
+107,PLACE::texas
+107,PLACE::united states
+108,PLACE::kansas
+108,PLACE::kansas city metropolitan area
+108,PLACE::missouri
+108,PLACE::st. louis
+109,ORGANIZATION::university of kansas
+109,OTHER::lawrence
+109,OTHER::overland park
+109,OTHER::wichita
+109,PLACE::kansas
+110,ORGANIZATION::columbia records
+110,ORGANIZATION::stabbing westward
+110,"OTHER::chiswick, england"
+110,"OTHER::february 15, 1994"
+110,WORK::ungod
+111,PERSON::brett ratner
+111,PERSON::dominic sena
+111,PERSON::nicolas cage
+111,PERSON::ron perlman
+111,WORK::season of the witch (2011 film)
+112,PERSON::giancarlo giannini
+112,PERSON::giuliano montaldo
+112,PERSON::nicolas cage
+112,PERSON::ricky tognazzi
+112,WORK::time to kill (1989 film)
+113,OTHER::evolution (2001)
+113,OTHER::the family man (2000)
+113,OTHER::when in rome (2010)
+113,PERSON::david weissman
+115,PERSON::angelina jolie
+115,PERSON::christopher eccleston
+115,PERSON::dominic sena
+115,PERSON::jerry bruckheimer
+115,PERSON::nicolas cage
+115,PERSON::robert duvall
+115,WORK::gone in 60 seconds (2000 film)
+116,PERSON::amber heard
+116,PERSON::nicolas cage
+116,PERSON::patrick lussier
+116,WORK::drive angry
+117,PERSON::bridget fonda
+117,PERSON::nicolas cage
+117,WORK::it could happen to you
+118,PERSON::brad silberling
+118,PERSON::meg ryan
+118,PERSON::nicolas cage
+118,"PLACE::los angeles, california"
+118,WORK::city of angels (film)
+119,PERSON::brett ratner
+119,PERSON::nicolas cage
+119,PERSON::téa leoni
+119,WORK::the family man
+120,OTHER::films and television
+120,OTHER::music videos
+120,PERSON::arnold schwarzenegger
+121,ORGANIZATION::guns n' roses
+121,OTHER::geffen records
+121,"PLACE::los angeles, california"
+121,WORK::appetite for destruction
+122,OTHER::downtown baltimore
+122,PERSON::louis j. principio iii
+122,WORK::hammerjacks concert hall and nightclub
+123,OTHER::adler
+123,OTHER::adler's appetite
+123,PERSON::steven adler
+123,WORK::guns n' roses
+124,OTHER::jason ellis
+124,OTHER::sirius xm satellite radio
+124,WORK::faction with jason ellis
+125,PERSON::arnold schwarzenegger
+125,PERSON::james cameron
+125,PERSON::jamie lee curtis
+125,WORK::true lies
+126,PERSON::arnold schwarzenegger
+126,PERSON::charles dance
+126,PERSON::john mctiernan
+126,WORK::last action hero
+127,PERSON::arnold schwarzenegger
+127,PERSON::gabriel byrne
+127,PERSON::peter hyams
+127,PERSON::robin tunney
+127,WORK::end of days (film)
+128,ORGANIZATION::guns n' roses
+128,OTHER::end of days
+128,WORK::oh my god
+129,PERSON::teresa graves
+129,WORK::get christie love!
+130,OTHER::comparison of potential real estate investment properties
+130,OTHER::standard of measurement
+130,WORK::real estate benchmarking
+131,PLACE::alberta
+131,PLACE::calgary
+131,PLACE::canada
+131,PLACE::hounsfield heights/briar hill
+132,ORGANIZATION::ballantine books
+132,ORGANIZATION::random house
+132,ORGANIZATION::villard
+132,PLACE::madison avenue
+133,ORGANIZATION::vornado realty trust
+133,OTHER::emery roth & sons
+133,OTHER::midtown manhattan
+133,WORK::888 7th avenue
+133,WORK::red eye grill
+134,ORGANIZATION::random house
+134,OTHER::book publisher random house
+134,OTHER::luxury apartment complex
+134,PLACE::new york city
+134,PLACE::united states
+134,WORK::park imperial apartments
+134,WORK::random house tower
+135,NATIONALITY::american
+135,ORGANIZATION::pershing square capital management
+135,PERSON::bill ackman
+135,PLACE::new york
+136,"PLACE::cleveland, ohio"
+136,WORK::carl b. stokes federal court house building
+138,PLACE::gila river indian community
+138,PLACE::phoenix
+138,PLACE::salt river
+138,WORK::south phoenix
+139,NATIONALITY::english
+139,OTHER::manchester city
+139,PERSON::joshua parlby
+139,"PLACE::longton, staffordshire"
+140,ORGANIZATION::manchester united
+140,ORGANIZATION::newcastle united
+140,OTHER::david beckham
+140,OTHER::eric cantona
+140,OTHER::nicky butt
+140,OTHER::roy keane
+140,PLACE::wembley stadium
+141,PLACE::bellshill
+141,PLACE::north lanarkshire
+141,PLACE::scotland
+141,WORK::sir matt busby sports complex
+142,OTHER::manchester city
+142,OTHER::manchester united
+142,PERSON::james ernest mangnall
+142,PLACE::england
+143,PLACE::london
+143,PLACE::los angeles
+143,WORK::david beckham academy
+145,ORGANIZATION::manchester united
+145,OTHER::1992
+145,WORK::the class of '92
+146,ORGANIZATION::five
+146,ORGANIZATION::fox soccer channel
+146,OTHER::major league soccer
+146,PERSON::tim lovejoy
+146,PLACE::united kingdom
+146,WORK::david beckham's soccer usa
+147,PERSON::matt busby
+147,PERSON::sir alexander matthew busby
+147,PLACE::scotland
+147,WORK::manchester united
+148,NATIONALITY::scottish
+148,PERSON::alex ferguson
+148,PLACE::manchester united
+149,PLACE::canadian province of saskatchewan
+149,PLACE::foam lake
+149,PLACE::wadena
+149,WORK::fishing lake
+150,"OTHER::northern osage county, kansas"
+150,OTHER::state of kansas
+150,OTHER::us 75
+150,PLACE::kansas
+150,"PLACE::overbrook, kansas"
+150,"PLACE::scranton, kansas"
+150,WORK::osage state fishing lake
+151,"PLACE::brown county, kansas"
+151,"PLACE::hiawatha, kansas"
+151,WORK::brown county state park
+151,WORK::brown state fishing lake
+152,OTHER::kansas department of wildlife and parks
+152,PLACE::kansas
+152,WORK::neosho state fishing lake
+153,PLACE::canada
+153,PLACE::saskatchewan
+153,WORK::narrow hills provincial park
+154,"PLACE::northern shawnee county, kansas"
+154,"PLACE::topeka, kansas"
+154,WORK::shawnee state fishing lake
+155,PLACE::higgins lake
+155,PLACE::michigan
+155,PLACE::roscommon county
+156,ORGANIZATION::michigan geological survey
+156,OTHER::12.5 years
+156,PERSON::sylvester higgins
+156,PLACE::michigan
+156,PLACE::roscommon county
+156,WORK::higgins lake
+157,OTHER::almaguin highlands
+157,OTHER::district of parry sound
+157,OTHER::ontario
+157,PLACE::canada
+157,PLACE::restoule
+157,WORK::commanda lake
+157,WORK::largemouth bass
+157,WORK::northern pike
+157,WORK::smallmouth bass
+157,WORK::walleye
+158,PLACE::brown county
+158,PLACE::hiawatha
+158,PLACE::kansas
+158,WORK::iowa reservation of kansas and nebraska
+158,WORK::kickapoo indian reservation of kansas
+158,WORK::sac and fox reservation
+159,ORGANIZATION::university of vermont
+159,OTHER::america east conference regular season championship
+159,OTHER::national invitation tournament
+159,OTHER::ncaa division i men's basketball season
+159,WORK::2010–11 vermont catamounts men's basketball team
+160,ORGANIZATION::albany
+160,ORGANIZATION::america east conference
+160,ORGANIZATION::university of vermont
+160,PERSON::john becker
+160,PLACE::patrick gym
+160,WORK::2012–13 vermont catamounts men's basketball team
+161,ORGANIZATION::albany
+161,ORGANIZATION::america east conference
+161,ORGANIZATION::university of vermont
+161,PERSON::john becker
+161,PLACE::patrick gym
+161,WORK::2013–14 vermont catamounts men's basketball team
+162,ORGANIZATION::america east conference
+162,OTHER::northeastern united states
+163,ORGANIZATION::university of vermont
+163,WORK::vermont catamounts men's soccer
+164,ORGANIZATION::university of vermont
+164,"OTHER::burlington, vermont"
+164,OTHER::hockey east
+164,WORK::vermont catamounts men's ice hockey
+165,ORGANIZATION::america east conference
+165,ORGANIZATION::stony brook
+165,ORGANIZATION::university of vermont
+165,PERSON::john becker
+165,PLACE::patrick gym
+165,WORK::2015–16 vermont catamounts men's basketball team
+166,ORGANIZATION::america east conference
+166,ORGANIZATION::university of vermont
+166,"OTHER::burlington, vermont"
+166,PERSON::john becker
+166,PLACE::patrick gym
+166,WORK::2016–17 vermont catamounts men's basketball team
+167,ORGANIZATION::america east conference
+167,ORGANIZATION::university of vermont
+167,OTHER::america east basketball tournament
+167,PERSON::john becker
+167,PLACE::patrick gym
+167,WORK::2011–12 vermont catamounts men's basketball team
+168,ORGANIZATION::university of vermont
+168,PERSON::john becker
+168,PLACE::patrick gym
+168,WORK::vermont catamounts men's basketball
+169,"OTHER::belmonte, chapelou, count almaviva, daniel, duke of mantua, gabriel von eisenstein, indigo, jeník, paolino, pâris, pietro, wilhelm meister"
+169,"OTHER::his master's voice, odeon records, polydor records, tri-ergon, vox records"
+169,OTHER::operatic tenor and actor
+169,PERSON::bernhard bötel
+169,PLACE::germany and austria
+170,PERSON::carmine gallone
+170,PERSON::fosco giachetti
+170,PERSON::gaby morlay
+170,PERSON::germana paolieri
+170,WORK::giuseppe verdi (film)
+171,PLACE::emilia-romagna
+171,PLACE::italy
+171,PLACE::parma
+171,WORK::parma airport
+172,NATIONALITY::italian
+172,PERSON::giuseppe verdi
+172,PLACE::italy
+173,PERSON::giuseppe verdi
+173,PLACE::busseto
+173,PLACE::piazza giuseppe verdi
+173,PLACE::rocca dei marchesi pallavicino
+173,WORK::teatro giuseppe verdi
+174,OTHER::conservatoire de paris
+174,PERSON::ambroise thomas
+174,PLACE::france
+175,DATE::10 february 1897
+175,PERSON::armand castelmary
+175,PERSON::comte armand de castan
+175,PLACE::new york city
+175,PLACE::toulouse
+175,WORK::paris opera
+176,NATIONALITY::italian
+176,PERSON::ferdinando provesi
+176,PLACE::parma
+178,PERSON::giuseppe verdi
+178,PERSON::pierre cressoy
+178,PERSON::raffaello matarazzo
+178,"WORK::verdi, the king of melody"
+179,OTHER::united states department of state
+179,WORK::assistant secretary of state
+180,OTHER::national public radio
+180,OTHER::wesleyan university
+180,"PERSON::douglas joseph bennet, jr."
+180,PLACE::middletown
+181,"DATE::april 22, 1994"
+181,"DATE::january 9, 1913"
+181,NATIONALITY::american
+181,PERSON::richard nixon
+181,PLACE::united states
+182,NATIONALITY::american
+182,ORGANIZATION::amgen
+182,ORGANIZATION::food and drug administration
+182,ORGANIZATION::keck graduate institute for applied life sciences
+182,ORGANIZATION::united states public health service commissioned corps
+182,PERSON::steven kenneth galson
+182,"PLACE::clarmont, california"
+183,NATIONALITY::american
+183,PERSON::robert r. hood
+183,PLACE::united states
+184,OTHER::goldman sachs (international)
+184,OTHER::henry kissinger
+184,OTHER::united states national security council
+184,"PERSON::robert d. ""bob"" hormats"
+184,"PLACE::baltimore, maryland"
+185,OTHER::employee benefits security administration (ebsa)
+185,OTHER::united states department of labor (dol)
+185,PERSON::bradford p. campbell
+186,ORGANIZATION::office of public health and science
+186,ORGANIZATION::united states department of health and human services
+186,PERSON::deputy assistant secretary of population affairs
+186,WORK::office of population affairs
+187,NATIONALITY::american
+187,"OTHER::department of health, education, and welfare"
+187,PERSON::general douglas macarthur
+187,PERSON::roger olaf egeberg
+187,"PLACE::washington, d.c."
+188,OTHER::military health system (mhs)
+188,OTHER::navy
+188,OTHER::office of the assistant secretary of defense (health affairs)
+188,PERSON::edward dana martin
+188,WORK::army
+189,NATIONALITY::english
+189,PERSON::erskine childers
+189,PERSON::molly childers
+189,WORK::asgard
+190,"DATE::february 8, 1906"
+190,"DATE::october 13, 1995"
+190,NATIONALITY::american
+190,PERSON::henry roth
+190,PLACE::united states
+191,PLACE::limerick city
+191,WORK::r509 road
+192,NATIONALITY::american
+192,PERSON::erskine hamilton childers
+192,PERSON::gretchen osgood warren
+192,PERSON::mary alden osgood childers
+192,PERSON::robert erskine childers
+192,"PLACE::beacon hill, boston, massachusetts"
+193,NATIONALITY::american
+193,PERSON::dr. hamilton osgood
+193,PERSON::erskine hamilton childers
+193,PERSON::fiske warren
+193,PERSON::gretchen osgood warren
+193,PERSON::margaret cushing osgood
+193,PERSON::mary alden childers
+193,PERSON::robert erskine childers
+193,"PLACE::beacon hill, boston, massachusetts"
+194,DATE::1876
+194,NATIONALITY::british
+194,PERSON::anna barton
+194,PERSON::erskine hamilton childers
+194,PERSON::irish nationalist robert erskine childers
+194,PERSON::robert caesar childers
+195,NATIONALITY::british
+195,OTHER::fenian revolutionaries
+195,OTHER::the riddle of the sands
+195,PERSON::erskine hamilton childers
+195,PERSON::hugh childers
+195,PERSON::robert barton
+195,PERSON::robert erskine childers
+195,PLACE::ireland
+196,ORGANIZATION::department of propaganda
+196,OTHER::dublin
+196,PERSON::desmond fitzgerald
+196,PERSON::robert erskine childers
+196,WORK::irish bulletin
+197,NATIONALITY::irish
+197,PERSON::erskine barton childers
+197,PERSON::erskine hamilton childers
+197,PERSON::mary alden childers
+197,PERSON::robert erskine childers
+197,PERSON::ruth ellen dow childers
+197,PLACE::ireland
+198,NATIONALITY::irish
+198,PERSON::agnes childers
+198,PERSON::charles william barton
+198,PERSON::rachel warren
+198,PERSON::robert childers barton
+199,PERSON::fernando alonso
+199,PERSON::lewis hamilton
+199,PERSON::timo glock
+199,PLACE::marina bay street circuit
+199,WORK::2009 singapore grand prix
+200,NATIONALITY::german
+200,PERSON::catharina felser
+200,PLACE::north rhine-westphalia
+200,PLACE::siegburg
+201,NATIONALITY::american
+201,PERSON::loretta lewis
+201,PERSON::michael james lewis
+201,PERSON::steve lewis
+201,"PLACE::laguna beach, california"
+202,ORGANIZATION::force india
+202,PERSON::sergio pérez mendoza
+202,PLACE::mexico
+203,NATIONALITY::mexican
+203,PERSON::eduardo troconis
+203,"PLACE::veracruz, veracruz"
+204,NATIONALITY::american
+204,PERSON::mike shank
+204,"PLACE::columbus, ohio"
+205,ORGANIZATION::force india
+205,PERSON::adrian sutil
+205,PERSON::paul di resta
+205,WORK::force india vjm04
+206,"DATE::november 10, 1968"
+206,NATIONALITY::american
+206,PERSON::tony ave
+206,PLACE::hurley
+207,OTHER::finishing on the podium
+207,OTHER::winning a grand prix
+207,PERSON::pedro rodríguez
+207,PERSON::sergio pérez
+208,ORGANIZATION::mercedes
+208,OTHER::2014 formula one season
+208,OTHER::bahrain
+208,OTHER::bahrain international circuit
+208,PERSON::lewis hamilton
+208,PERSON::nico rosberg
+208,PERSON::sergio pérez
+208,WORK::2014 bahrain grand prix
+209,OTHER::saving piglet's life and giving owl his grand home in the beech tree
+209,WORK::hip hip pooh-ray
+209,WORK::the many adventures of winnie the pooh
+209,WORK::winnie the pooh and the blustery day
+210,OTHER::the sherman brothers
+210,PERSON::the mellomen
+210,WORK::heffalumps and woozles
+210,WORK::the many adventures of winnie the pooh
+210,WORK::winnie the pooh and the blustery day
+211,PERSON::ron tunis
+211,PERSON::wolf koenig
+211,WORK::the house that jack built (film)
+212,NATIONALITY::american
+212,PERSON::kate higgins
+212,"PLACE::charlottesville, virginia, u.s."
+213,OTHER::the tigger movie
+213,PERSON::tigger
+213,WORK::the wonderful thing about tiggers
+213,WORK::winnie the pooh and the blustery day
+214,NATIONALITY::american
+214,PERSON::jim cummings
+214,PLACE::united states
+215,OTHER::the sherman brothers
+215,PERSON::sterling holloway
+215,WORK::the many adventures of winnie the pooh
+215,WORK::the rain rain rain came down down down
+215,WORK::winnie the pooh
+215,WORK::winnie the pooh and the blustery day
+216,ORGANIZATION::buena vista distribution company
+216,ORGANIZATION::walt disney productions
+216,OTHER::united states
+216,PERSON::richard m. sherman and robert b. sherman
+216,WORK::winnie the pooh and the blustery day
+217,PERSON::jim cummings
+217,PERSON::robert & richard sherman
+217,WORK::a rather blustery day
+217,WORK::winnie the pooh and the blustery day
+218,WORK::little black rain cloud
+218,WORK::the many adventures of winnie the pooh
+218,WORK::winnie the pooh and the blustery day
+218,WORK::winnie the pooh and the honey tree
+219,OTHER::consumer electronics devices
+219,OTHER::remote control
+219,WORK::universal remote
+221,ORGANIZATION::apple inc.
+221,OTHER::front row media program
+221,OTHER::isight imac g5
+221,OTHER::some later desktop and portable macintosh computers
+221,WORK::apple remote
+222,WORK::apple tv 4k
+222,WORK::siri remote
+223,DATE::1989
+223,OTHER::netsupport
+223,OTHER::remote control software
+223,"OTHER::windows, mac, linux, solaris and mobile devices"
+223,WORK::netsupport manager
+224,OTHER::apple remote or the keyboard function keys
+224,OTHER::apple's macintosh computers and apple tv
+224,OTHER::itunes and iphoto
+224,OTHER::media center software application
+224,WORK::front row
+225,ORGANIZATION::apple inc.
+225,PERSON::tim cook
+225,PLACE::united states
+225,WORK::apple watch
+226,ORGANIZATION::securemac
+226,WORK::macscan
+227,ORGANIZATION::lionel
+227,ORGANIZATION::mth corporation
+227,OTHER::o scale 3-rail model trains and toy trains
+227,OTHER::united states
+227,WORK::tmcc
+227,WORK::trainmaster command control
+228,ORGANIZATION::apple inc.
+228,OTHER::macintosh
+228,WORK::apple remote desktop
+229,ORGANIZATION::wolf alice
+229,OTHER::north london
+229,PERSON::ellie rowsell
+229,PERSON::joel amey
+229,PERSON::joff oddie
+229,PERSON::theo ellis
+230,OTHER::bong load records
+230,OTHER::foo fighters
+230,OTHER::james blunt
+230,OTHER::moby
+230,PERSON::tom rothrock
+231,OTHER::mike d
+231,OTHER::richard ashcroft
+231,OTHER::thom yorke
+231,OTHER::xl recordings
+231,PERSON::andy votel
+231,PERSON::damon gough
+231,WORK::badly drawn boy
+232,PERSON::badly drawn boy
+232,WORK::something to talk about
+233,OTHER::brad epstein
+233,OTHER::eric fellner
+233,OTHER::jane rosenthal
+233,OTHER::robert de niro
+233,OTHER::tim bevan
+233,PERSON::hugh grant
+233,PERSON::nicholas hoult
+233,PERSON::rachel weisz
+233,PERSON::toni collette
+233,WORK::about a boy (film)
+234,OTHER::about a boy
+234,OTHER::number 16
+234,OTHER::soundtrack
+234,OTHER::uk singles chart
+234,PERSON::badly drawn boy
+234,WORK::silent sigh
+235,NATIONALITY::english
+235,PERSON::damon michael gough
+235,"PLACE::dunstable, bedfordshire"
+235,WORK::badly drawn boy
+236,PERSON::badly drawn boy
+236,WORK::the hour of bewilderbeast
+237,OTHER::film about a boy
+237,OTHER::gough
+237,PERSON::badly drawn boy
+237,WORK::about a boy (soundtrack)
+238,ORGANIZATION::menomena
+238,OTHER::experimental pop/rock group
+238,OTHER::portland
+238,WORK::under an hour
+239,PERSON::gus williams
+239,PERSON::warren h williams
+239,PLACE::alice springs
+239,PLACE::hermannsburg
+240,NATIONALITY::danish
+240,PERSON::kasper hvidt
+240,PLACE::copenhagen
+241,OTHER::uefa euro 1992 with denmark
+241,PERSON::peter schmeichel
+241,PLACE::denmark
+242,PERSON::kasper barfoed
+242,WORK::summer of '92 (sommeren '92)
+243,NATIONALITY::brazilian
+243,OTHER::greatest football player of all time
+243,OTHER::pelé
+243,PERSON::edson arantes do nascimento
+244,OTHER::association football award
+244,OTHER::international federation of football history & statistics (iffhs)
+244,WORK::iffhs world's best club coach
+245,OTHER::international federation of football history & statistics (iffhs)
+245,OTHER::most outstanding goalkeeper of the year
+245,PERSON::manuel neuer
+245,WORK::iffhs world's best goalkeeper
+246,NATIONALITY::german
+246,PERSON::hans leo hassler
+246,PERSON::isaak hassler
+246,PERSON::jakob hassler
+246,PERSON::kasper hassler
+246,PLACE::nuremberg
+247,NATIONALITY::danish
+247,OTHER::denmark national team
+247,OTHER::premier league club leicester city
+247,PERSON::kasper peter schmeichel
+247,PERSON::peter schmeichel
+247,PLACE::denmark
+248,OTHER::grand duchy of lithuania
+248,OTHER::lithuania
+248,OTHER::poland
+248,OTHER::vilnius
+248,PERSON::goštatas
+248,WORK::goštaitės
+248,WORK::kęsgailos
+248,WORK::radziwiłł
+249,"DATE::june 8, 1940"
+249,NATIONALITY::american
+249,OTHER::unknown
+249,PERSON::frank sinatra
+249,PERSON::nancy (barbato) sinatra
+249,PERSON::nancy sandra sinatra
+250,"OTHER::toronto, ontario"
+250,PERSON::barry harris
+250,WORK::kon kan
+251,"DATE::june 21, 2003"
+251,ORGANIZATION::us
+251,OTHER::abdul wali's death
+251,PERSON::abdul wali
+251,PERSON::david passaro
+251,PLACE::kunar province
+252,"DATE::may 13, 1928"
+252,NATIONALITY::english
+252,PERSON::james a. shoulders
+252,"PLACE::henryetta, oklahoma"
+252,"PLACE::tulsa, oklahoma"
+253,ORGANIZATION::the fixx
+253,WORK::the twenty-fifth anniversary anthology
+254,ORGANIZATION::kmfdm
+254,OTHER::ep
+254,WORK::boots
+255,PERSON::billy strange
+255,PERSON::lee hazlewood
+255,PERSON::nancy sinatra
+255,WORK::boots (album)
+256,PERSON::lee hazlewood
+256,PERSON::nancy sinatra
+256,WORK::these boots are made for walkin'
+257,ORGANIZATION::kon kan
+257,WORK::puss n' boots/these boots (are made for walkin')
+258,NATIONALITY::american
+258,PERSON::lee hazlewood
+258,PLACE::united states
+259,ORGANIZATION::virginia commonwealth university
+259,OTHER::2013 atlantic 10 tournament
+259,PERSON::shaka smart
+259,PLACE::michigan
+259,PLACE::stuart c. siegel center
+259,WORK::2012–13 vcu rams men's basketball team
+260,PERSON::shaka smart
+260,PLACE::stuart c. siegel center
+260,PLACE::virginia commonwealth university
+260,WORK::2009–10 vcu rams men's basketball team
+261,ORGANIZATION::virginia commonwealth university
+261,PERSON::sonny smith
+261,WORK::1995–96 vcu rams men's basketball team
+262,ORGANIZATION::virginia commonwealth university
+262,PLACE::richmond
+262,PLACE::virginia
+263,ORGANIZATION::atlantic 10 conference
+263,ORGANIZATION::saint joseph's
+263,ORGANIZATION::virginia commonwealth university
+263,PERSON::shaka smart
+263,PLACE::stuart c. siegel center
+263,WORK::2013–14 vcu rams men's basketball team
+264,ORGANIZATION::drexel
+264,ORGANIZATION::virginia commonwealth university
+264,PERSON::shaka smart
+264,WORK::2011–12 vcu rams men's basketball team
+265,ORGANIZATION::old dominion
+265,ORGANIZATION::virginia commonwealth university
+265,OTHER::12–6
+265,OTHER::championship game of the 2011 caa men's basketball tournament
+265,PERSON::shaka smart
+265,PLACE::stuart c. siegel center
+265,WORK::2010–11 vcu rams men's basketball team
+266,PERSON::shaka smart
+266,PERSON::will wade
+266,PLACE::virginia commonwealth university
+266,WORK::2015–16 vcu rams men's basketball team
+267,ORGANIZATION::atlantic 10 conference
+267,ORGANIZATION::virginia commonwealth university
+267,PERSON::shaka smart
+267,WORK::2014–15 vcu rams men's basketball team
+268,ORGANIZATION::atlantic 10 conference
+268,ORGANIZATION::old dominion
+268,ORGANIZATION::virginia commonwealth university
+268,OTHER::tie for second place
+268,PERSON::jeff capel iii
+268,WORK::2004–05 vcu rams men's basketball team
+269,NATIONALITY::indian ocean
+269,OTHER::hurricane palm
+269,OTHER::mascarene islands
+269,OTHER::princess palm
+269,WORK::dictyosperma
+270,PERSON::justin heurnius
+270,PLACE::eastern and southern africa
+270,WORK::apocynaceae
+270,WORK::asclepiadoideae
+270,WORK::huernia
+271,PERSON::edgar fosburgh kaiser jr.
+271,"PLACE::portland, oregon"
+271,WORK::harvard university
+271,WORK::stanford university
+272,ORGANIZATION::hulu kids
+272,ORGANIZATION::nutri ventures corporation
+272,OTHER::the quest for the 7 kingdoms
+272,OTHER::united states
+272,PLACE::portugal
+272,WORK::nutri ventures
+273,"ORGANIZATION::kaiser ventures, inc."
+273,OTHER::kaiser steel corporation
+273,PLACE::california
+273,"PLACE::ontario, california"
+273,WORK::eagle mountain railroad
+274,ORGANIZATION::neafie & levy
+274,PLACE::philadelphia
+275,OTHER::united states
+275,PERSON::henry j. kaiser
+275,WORK::kaiser shipyards
+276,ORGANIZATION::california shipbuilding corporation
+276,ORGANIZATION::kaiser ventures
+276,OTHER::henry kaiser
+276,PERSON::henry j. kaiser
+276,PLACE::california
+276,"PLACE::ontario, california"
+276,PLACE::utah
+277,NATIONALITY::american
+277,PERSON::henry j. kaiser
+277,PLACE::united states
+278,OTHER::united states
+278,PERSON::john roach
+278,WORK::john roach & sons
+279,ORGANIZATION::new york shipbuilding corporation
+279,OTHER::aircraft carrier
+279,OTHER::cruiser
+279,OTHER::destroyer
+279,OTHER::united states
+280,NATIONALITY::american
+280,PERSON::edgar fosburgh kaiser sr.
+280,PLACE::united states
+281,OTHER::goa
+281,PLACE::india
+281,PLACE::st. andre
+281,WORK::north goa lok sabha constituency
+281,WORK::st. andre vidhan sabha constituency
+282,ORGANIZATION::flying buffalo
+282,PERSON::ken st. andre
+282,WORK::tunnels & trolls
+283,OTHER::roman catholic diocese of portland
+283,PLACE::biddeford
+283,WORK::good shepherd parish
+283,WORK::st. andre's parish
+284,DATE::december 8
+284,NATIONALITY::american
+284,PERSON::jon st. andre
+284,PLACE::ishpeming
+285,DATE::april 28
+285,NATIONALITY::american
+285,PERSON::kenneth eugene st. andre
+285,PLACE::ogden
+285,"PLACE::ogden, utah"
+285,PLACE::utah
+285,WORK::tunnels & trolls
+285,WORK::wasteland
+286,"ORGANIZATION::flying buffalo, inc."
+286,ORGANIZATION::sleuth publications
+286,PERSON::michael a. stackpole
+286,"WORK::mercenaries, spies and private eyes"
+287,ORGANIZATION::flying buffalo
+287,PERSON::ken st. andre
+287,WORK::starfaring
+288,PLACE::merseyside
+288,PLACE::st. helens
+288,WORK::crank caverns
+288,WORK::rainford delph quarry
+289,ORGANIZATION::flying buffalo
+289,OTHER::1979
+289,WORK::arena of khazan
+289,WORK::tunnels & trolls
+290,ORGANIZATION::flying buffalo
+290,ORGANIZATION::new world computing
+290,WORK::crusaders of khazan
+290,WORK::tunnels and trolls
+291,ORGANIZATION::heart
+291,OTHER::brigade
+291,OTHER::robert john 'mutt' lange
+291,WORK::all i wanna do is make love to you
+292,ORGANIZATION::poison
+292,WORK::be the one
+293,OTHER::perry
+293,OTHER::polow da don
+293,PERSON::keri hilson
+293,WORK::in a perfect world...
+293,WORK::make love
+294,ORGANIZATION::cosmic nomads
+294,OTHER::russell pilling
+294,"OTHER::sydney, new south wales"
+294,WORK::make love not war
+295,OTHER::album
+295,PERSON::dan fogelberg
+295,WORK::greatest hits
+296,NATIONALITY::american
+296,ORGANIZATION::poison
+296,OTHER::flesh & blood
+296,OTHER::look what the cat dragged in
+296,OTHER::open up and say... ahh!
+297,OTHER::chess records
+297,PERSON::chuck berry
+297,WORK::chuck berry on stage
+298,OTHER::jack perry
+298,PERSON::barry white
+298,PERSON::chaka khan
+298,PERSON::lisa stansfield
+298,WORK::staying power
+298,WORK::the longer we make love
+299,ORGANIZATION::smile records
+299,OTHER::2002
+299,PERSON::wondermints
+299,WORK::mind if we make love to you
+300,ORGANIZATION::poison
+300,OTHER::crack a smile...
+300,PERSON::blues saraceno
+300,WORK::crack a smile...and more!
+300,"WORK::shut up, make love"
+301,"DATE::march 7, 1966"
+301,PERSON::atsushi sakurai
+301,PLACE::fujioka
+302,NATIONALITY::canadian
+302,PERSON::paul hayden desser
+302,"PLACE::thornhill, ontario"
+302,WORK::hayden
+303,ORGANIZATION::alberta research council
+303,ORGANIZATION::environment canada
+303,PLACE::red deer industrial airport
+303,WORK::alberta hail project
+304,ORGANIZATION::hardwood records
+304,ORGANIZATION::lunamoth
+304,PERSON::hayden
+304,PLACE::canada
+304,WORK::mild and hazy
+305,OTHER::bill nelson
+305,OTHER::ippu-do
+305,PERSON::masami tsuchiya
+305,PLACE::japan
+307,PLACE::alberta
+307,PLACE::calgary
+307,PLACE::canada
+307,PLACE::lacombe
+307,PLACE::red deer
+307,PLACE::rocky mountain house
+307,WORK::hailstorm alley
+308,NATIONALITY::american
+308,PERSON::chief iron hail
+308,PERSON::chief iron tail
+308,PERSON::george armstrong custer
+308,PERSON::sitting bull
+308,PERSON::wasú máza
+308,PLACE::cheyenne river indian reservation
+309,OTHER::dir en grey
+309,OTHER::la:sadie's
+309,OTHER::vocalist
+309,PERSON::kyo
+309,PLACE::japan
+310,ORGANIZATION::u.s.
+310,OTHER::u.k.
+310,PERSON::hayden
+310,PLACE::canada
+310,WORK::skyscraper national park
+311,PERSON::charles nungesser
+311,PERSON::françois coli
+311,PLACE::france
+311,WORK::l'oiseau blanc
+312,"DATE::november 11, 1924"
+312,PERSON::georges félix madon
+312,PLACE::france
+313,NATIONALITY::english
+313,PERSON::william earl johns
+313,PLACE::england
+313,WORK::biggles
+314,NATIONALITY::french
+314,PERSON::charles eugène jules marie nungesser
+314,PLACE::france
+315,OTHER::fighter pilot and flying ace
+315,PERSON::gervais raoul lufbery
+315,PLACE::france
+315,PLACE::united states
+315,WORK::world war i
+316,OTHER::city of paris
+316,OTHER::musée d'art moderne de la ville de paris
+316,PERSON::jean metzinger
+316,WORK::l'oiseau bleu
+317,OTHER::levasseur
+317,PERSON::charles nungesser
+317,PERSON::françois coli
+317,WORK::levasseur pl.8
+318,DATE::16 july 1916
+318,"DATE::january 7, 1917"
+318,OTHER::escadrille 65
+318,PERSON::paul joannes sauvage
+318,PLACE::france
+319,PERSON::lieutenant stanton hall wooster
+319,PERSON::noel guy davis
+319,PLACE::connecticut
+319,PLACE::salt lake city
+320,NATIONALITY::french
+320,PERSON::charles lindbergh
+320,PERSON::charles nungesser
+320,PERSON::françois coli
+320,WORK::l'oiseau blanc
+321,PERSON::angelina jolie
+321,PERSON::fisher stevens
+321,PERSON::iain softley
+321,PERSON::jesse bradford
+321,PERSON::jonny lee miller
+321,PERSON::lorraine bracco
+321,PERSON::matthew lillard
+321,PERSON::renoly santiago
+321,WORK::hackers (film)
+322,OTHER::public-radio stations around the country
+322,PERSON::stephen dubner
+322,PERSON::steven levitt
+322,PLACE::itunes
+322,WORK::freakonomics radio
+323,OTHER::12th & delaware
+323,OTHER::detropia
+323,OTHER::jesus camp
+323,OTHER::the boys of baraka
+323,PERSON::heidi ewing
+324,"DATE::december 5, 1978"
+324,NATIONALITY::american
+324,PERSON::shayne workman
+325,NATIONALITY::american
+325,PERSON::jason scott leiderman
+325,PLACE::ventura
+326,"DATE::may 14, 2017"
+326,NATIONALITY::american
+326,PERSON::peter w. smith
+326,PLACE::chicago
+327,PERSON::gustavo gonzalez
+327,PERSON::joaquin gonzalez
+327,WORK::cypress hill
+327,WORK::psycho realm
+328,PERSON::kevin anderson
+328,PLACE::australia
+328,PLACE::melbourne
+328,WORK::in the realm of the hackers
+329,PERSON::stephen j. dubner
+329,PERSON::steven d. levitt
+329,WORK::freakonomics: the movie
+330,NATIONALITY::american
+330,PERSON::robin goldstein
+330,"PLACE::oakland, california"
+331,PLACE::boston
+331,WORK::aurora gory alice
+331,WORK::letters to cleo
+332,PERSON::hiro yamamoto
+332,PERSON::mark pickerel
+332,PERSON::robert roth
+332,WORK::truly
+333,OTHER::sub pop
+333,PERSON::the screaming trees
+333,WORK::change has come
+334,ORGANIZATION::beat happening
+334,OTHER::steve fisk
+334,OTHER::united states
+334,WORK::jamboree
+335,PERSON::gary lee conner
+335,WORK::ether trippers
+335,WORK::microdot gnome
+336,ORGANIZATION::alice in chains
+336,ORGANIZATION::mad season
+336,ORGANIZATION::pearl jam
+336,ORGANIZATION::screaming trees
+336,OTHER::seattle
+336,PERSON::john baker saunders
+337,"ORGANIZATION::beat happening (from olympia, washington)"
+337,"ORGANIZATION::screaming trees (from ellensburg, washington)"
+337,WORK::beat happening/screaming trees
+338,ORGANIZATION::screaming trees
+338,PERSON::barrett martin
+338,PERSON::gary lee conner
+338,PERSON::mark lanegan
+338,PERSON::van conner
+339,ORGANIZATION::screaming trees
+339,PLACE::ellensburg
+339,PLACE::washington
+340,NATIONALITY::american
+340,OTHER::united states
+340,PERSON::van conner
+340,WORK::screaming trees
+341,NATIONALITY::russian
+341,ORGANIZATION::socialist revolutionary party
+341,OTHER::revolutionary socialism
+341,OTHER::russia
+342,PERSON::joseph stalin
+342,PERSON::vladimir lenin
+342,PLACE::soviet union
+342,WORK::communism in russia
+342,WORK::russian civil war
+343,NATIONALITY::russian
+343,PERSON::lavr georgiyevich kornilov
+343,PLACE::russia
+344,OTHER::1918
+344,OTHER::1924
+344,OTHER::russia
+344,WORK::left-wing uprisings against the bolsheviks
+345,NATIONALITY::american
+345,PERSON::john reed
+345,PERSON::louise bryant
+345,PLACE::united states
+346,ORGANIZATION::russian bolsheviks
+346,PERSON::yakov triapitsyn
+346,PLACE::vladivostok
+346,WORK::american army camp
+346,WORK::battle of romanovka
+347,OTHER::petrograd
+347,WORK::kerensky–krasnov uprising
+348,OTHER::russia
+348,WORK::russian civil war
+349,DATE::28 october 1955
+349,NATIONALITY::soviet
+349,PERSON::timofey petrovich samsonov
+349,PLACE::moscow
+350,PERSON::alexander fyodorovich kerensky
+350,PLACE::new york city
+350,PLACE::paris
+351,DATE::8 april 1967
+351,NATIONALITY::italian
+351,ORGANIZATION::imt school for advanced studies lucca
+351,PERSON::guido caldarelli
+351,PLACE::italy
+351,PLACE::lucca
+351,PLACE::rome
+352,OTHER::institute of advanced physics
+352,OTHER::italian physicist
+352,OTHER::university of milan
+352,PERSON::aldo pontremoli
+352,PLACE::milan
+353,DATE::28 november 1954
+353,DATE::29 september 1901
+353,NATIONALITY::italian
+353,PERSON::enrico fermi
+353,PLACE::italy
+354,OTHER::encyclopædia britannica (15th edition)
+354,WORK::micropædia
+355,ORGANIZATION::laboratori nazionali di frascati
+355,ORGANIZATION::sapienza university of rome
+355,OTHER::brookhaven national laboratory
+355,PERSON::claudio pellegrini
+355,PLACE::rome
+356,PERSON::carlo rovelli
+356,PLACE::france
+356,PLACE::italy
+357,NATIONALITY::italian
+357,PERSON::chiara r. nappi
+357,PLACE::italy
+358,ORGANIZATION::cern
+358,"ORGANIZATION::university of california, los angeles"
+358,PERSON::sergio ferrara
+359,ORGANIZATION::consiglio nazionale delle ricerche
+359,PERSON::antonino lo surdo
+359,PERSON::guglielmo marconi
+359,PLACE::rome
+359,WORK::istituto di fisica in rome
+359,WORK::istituto nazionale di geofisica
+360,NATIONALITY::italian
+360,PERSON::carlo rovelli
+360,WORK::seven brief lessons on physics
+361,OTHER::world war i and world war ii
+361,PERSON::sydney march
+361,PLACE::london
+361,WORK::livesey hall war memorial
+362,OTHER::el alamein
+362,PERSON::hubert worthington
+362,PERSON::viscount montgomery of alamein
+362,PLACE::el alamein war cemetery
+362,WORK::alamein memorial
+364,PLACE::clarence pier
+364,PLACE::southsea castle
+364,PLACE::southsea common
+364,WORK::portsmouth naval memorial
+365,PLACE::secretariate building
+365,PLACE::sierra leone
+365,WORK::freetown memorial
+366,OTHER::ba dinh square
+366,OTHER::hanoi citadel
+366,OTHER::ho chi minh mausoleum
+366,OTHER::second indochina war
+366,"WORK::vietnam war memorial, hanoi"
+367,ORGANIZATION::commonwealth war graves commission
+367,PERSON::edwin lutyens
+367,PERSON::william reid dick
+367,PLACE::trinity square gardens
+367,WORK::tower hill memorial
+368,ORGANIZATION::commonwealth war graves commission
+368,PERSON::edwin lutyens
+368,PERSON::william reid dick
+368,PLACE::faubourg d'amiens cemetery
+368,WORK::arras flying services memorial
+369,OTHER::first battle of cambrai
+369,PLACE::masnières
+369,WORK::masnières newfoundland memorial
+370,OTHER::famine
+370,OTHER::people
+370,OTHER::war-related disease and famine
+370,WORK::world war ii
+371,OTHER::christ church
+371,OTHER::liat
+371,OTHER::seawell
+371,OTHER::second hub for liat
+371,PLACE::barbados
+371,WORK::grantley adams international airport
+372,"ORGANIZATION::city of pensacola, florida, united states"
+372,"PLACE::escambia county, florida, united states"
+372,"PLACE::pensacola, florida, united states"
+372,WORK::pensacola international airport
+373,"PLACE::elko county, nevada"
+373,"PLACE::elko, nevada"
+373,WORK::elko regional airport
+374,OTHER::cascade township
+374,OTHER::kent county board of commissioners
+374,WORK::gerald r. ford international airport
+375,ORGANIZATION::united states navy
+375,WORK::gerald r. ford
+375,WORK::pre-commissioning unit
+376,OTHER::columbus regional airport authority
+376,"PLACE::columbus, ohio"
+376,WORK::john glenn columbus international airport
+377,ORGANIZATION::sanford-lee county regional airport authority
+377,"OTHER::sanford, lee county, north carolina, united states"
+377,"PLACE::lee county, north carolina, united states"
+377,PLACE::sanford
+377,WORK::raleigh executive jetport
+378,"PLACE::flint, michigan"
+378,WORK::bishop international airport
+379,PLACE::michigan
+379,PLACE::omaha
+379,WORK::gerald r. ford freeway
+380,ORGANIZATION::national archives and records administration
+380,OTHER::national archives and records administration's presidential library system
+380,PLACE::university of michigan
+380,WORK::gerald r. ford presidential library
+381,ORGANIZATION::princeton neuroscience institute
+381,ORGANIZATION::princeton university
+381,PERSON::david tank
+381,PERSON::jonathan cohen
+381,WORK::molecular biology
+381,WORK::psychology
+382,DATE::1942
+382,"OTHER::best selling and award-winning books regarding the intelligence, mental abilities and history of dogs"
+382,OTHER::university of british columbia
+382,PERSON::stanley coren
+382,"PLACE::vancouver, british columbia"
+383,OTHER::maslow's hierarchy of needs
+383,PERSON::abraham harold maslow
+383,PLACE::united states
+384,OTHER::new method of analyzing observational research
+384,OTHER::opening the field of psychology to women
+384,OTHER::university of virginia psychology department
+384,PERSON::e. mavis hetherington
+384,PLACE::university of virginia
+385,OTHER::american psychological association
+385,OTHER::center for internet addiction
+385,OTHER::pennsylvania psychological association
+385,OTHER::st. bonaventure university
+385,OTHER::university of pittsburgh at bradford
+385,PERSON::kimberly young
+386,PERSON::joseph coburn
+386,PERSON::katherine foronjy
+386,WORK::mathematically alive: a story of fandom
+387,NATIONALITY::american
+387,PERSON::frank l. schmidt
+387,PLACE::university of iowa
+388,DATE::15 february 1910
+388,DATE::16 march 1974
+388,NATIONALITY::american
+388,PERSON::ralph franklin hefferline
+388,"PLACE::muncie, indiana"
+389,OTHER::journal of personality and social psychology
+389,OTHER::journal of research and personality
+389,PERSON::david c. funder
+389,"PLACE::university of california, riverside"
+390,NATIONALITY::american
+390,PLACE::new york city
+390,WORK::columbia university
+391,NATIONALITY::american
+391,WORK::teddy roosevelt terrier
+392,WORK::manchester terrier
+393,OTHER::small hunting dog
+393,OTHER::terriers
+393,WORK::feist
+395,WORK::english toy terrier
+395,WORK::manchester terrier
+395,WORK::russian toy
+395,WORK::russian toy terrier
+395,WORK::russkiy toy
+396,OTHER::renaissance and baroque periods
+396,OTHER::violin family
+396,WORK::gamba
+396,WORK::viol
+396,WORK::viola da gamba
+397,OTHER::scotland and northern england
+397,WORK::collie
+397,WORK::herding dog
+398,OTHER::highland regions of scotland
+398,OTHER::landrace breed of dog
+398,WORK::scotch collie
+399,OTHER::dog
+399,OTHER::toy group
+399,WORK::toy manchester terrier
+400,NATIONALITY::british
+400,PERSON::florence nagle
+400,PLACE::united kingdom
+401,OTHER::lead programmer
+401,OTHER::one or more software projects
+401,OTHER::software engineer
+402,OTHER::flipkart
+402,PERSON::sachin bansal
+402,PLACE::chandigarh
+402,PLACE::indian institute of technology delhi
+403,DATE::12 april 1964
+403,PERSON::william connolley
+403,PLACE::british
+404,NATIONALITY::american
+404,OTHER::two sigma investments
+404,PERSON::wes mckinney
+405,OTHER::aanandam
+405,OTHER::malarvaadi arts club
+405,OTHER::muthuchippi poloru
+405,PERSON::sachin warrier
+405,WORK::thattathin marayathu
+406,PERSON::anu elizabeth jose
+406,PERSON::remya nambeesan
+406,PERSON::sachin warrier
+406,PERSON::shaan rahman
+406,WORK::muthuchippy poloru
+406,WORK::thattathin marayathu
+407,ORGANIZATION::tata consultancy services limited
+407,ORGANIZATION::tata group
+407,PLACE::maharashtra
+407,PLACE::mumbai
+408,ORGANIZATION::muzik247
+408,PERSON::abee joe
+408,PERSON::ashith wilson
+408,PERSON::deen shifaz
+408,PERSON::nidhinsha
+408,WORK::kanave kalayathe
+409,OTHER::crack
+409,OTHER::cracklib
+409,OTHER::open source software community
+409,PERSON::alec david edward muffett
+409,PLACE::anglo-american
+410,DATE::14 march 1987
+410,OTHER::gopi sunder
+410,PERSON::divya s. menon
+410,PERSON::shaan rahman
+410,PLACE::kerala
+411,ORGANIZATION::next
+411,PERSON::hidenori kumai
+411,PERSON::kozumi shinozawa
+411,WORK::manga bible (series)
+412,"DATE::december 10, 1962"
+412,PERSON::masakazu katsura
+412,PLACE::japan
+413,PERSON::yūsei matsui
+413,PLACE::japan
+413,WORK::neuro: supernatural detective
+414,PERSON::nami sano
+414,WORK::haven't you heard? i'm sakamoto
+415,ORGANIZATION::gonzo
+415,OTHER::seiji kishi
+415,PERSON::tahiko kimura
+415,PLACE::japan
+415,WORK::my bride is a mermaid
+416,PERSON::akira sugano
+416,PERSON::etsumi ninomiya
+416,WORK::clear skies!
+417,OTHER::hokkaido
+417,PERSON::hiromu arakawa
+417,WORK::silver spoon (manga)
+418,PERSON::takeshi konomi
+418,PLACE::japan
+418,WORK::the prince of tennis
+419,OTHER::crime solving adventures
+419,OTHER::mystery manga genre
+419,PERSON::hajime kindaichi
+419,PERSON::seimaru amagi
+419,PERSON::yōzaburō kanari
+419,WORK::the kindaichi case files
+420,PERSON::masakazu katsura
+420,PLACE::japan
+420,"WORK::izs (アイズ , aizu )"
+421,ORGANIZATION::italy
+421,ORGANIZATION::russia
+421,PERSON::menelik ii
+421,PLACE::ethiopia
+421,WORK::first italo-ethiopian war
+423,OTHER::djibouti
+423,OTHER::eritrea
+423,OTHER::horn of africa
+423,OTHER::kenya
+423,OTHER::somalia
+423,OTHER::south sudan
+423,OTHER::sudan
+423,PERSON::menelik i
+423,PERSON::tewodros ii
+423,PLACE::addis ababa
+423,PLACE::ethiopia
+424,OTHER::ancient armenia
+424,OTHER::mesopotamia
+424,WORK::ephigenia of ethiopia
+425,"DATE::may 8, 1934"
+425,NATIONALITY::american
+425,PERSON::herbert s. lewis
+425,PLACE::university of wisconsin-madison
+426,OTHER::tigray
+426,WORK::battle of adwa
+426,WORK::first italo-ethiopian war
+427,OTHER::protestant denomination
+427,PLACE::ethiopia
+427,WORK::amharic
+427,WORK::p'ent'ay
+427,WORK::tigrinya
+428,DATE::adwa
+428,NATIONALITY::italian
+428,PERSON::giuseppe arimondi
+428,PLACE::savigliano
+429,OTHER::asmara
+429,PERSON::colonel arimondi
+429,PERSON::emir ahmed ali
+429,WORK::second battle of agordat
+430,DATE::23 october 1896
+430,OTHER::first italo–ethiopian war
+430,PLACE::addis ababa
+430,WORK::treaty of addis ababa
+431,OTHER::apple
+431,OTHER::national football league
+431,OTHER::united states senate
+431,PERSON::cynthia c. hogan
+431,"PLACE::cincinnati, ohio"
+432,PERSON::gerald ford
+432,PLACE::united states
+433,NATIONALITY::american
+433,OTHER::dwight d. eisenhower
+433,OTHER::franklin d. roosevelt
+433,OTHER::harry s. truman
+433,PERSON::nelson rockefeller
+433,PLACE::new york
+434,NATIONALITY::american
+434,PERSON::robert e. nyce
+434,PLACE::east allen township
+434,PLACE::northampton county
+434,PLACE::pennsylvania
+436,OTHER::united states
+436,PERSON::arthur goldberg
+436,PERSON::john f. kennedy
+436,PERSON::lyndon johnson
+436,WORK::executive order 10925
+437,PERSON::al gore
+437,PERSON::bill clinton
+437,PERSON::boris yeltsin
+437,PERSON::victor chernomyrdin
+437,WORK::gore-chernomyrdin commission
+438,ORGANIZATION::toyota motor corporation
+438,"ORGANIZATION::toyota motor north america, inc."
+438,ORGANIZATION::toyota north america
+438,OTHER::the global automakers
+438,PERSON::jim lentz
+439,NATIONALITY::american
+439,OTHER::that the people shall know: the challenge of journalism
+439,PERSON::alfred balk
+439,PLACE::united states
+440,OTHER::lockheed martin
+440,OTHER::the boeing company
+440,PERSON::gordon johndroe
+440,PLACE::united states
+441,OTHER::city of edinburgh
+441,OTHER::midlothian
+441,OTHER::west lothian
+441,PLACE::east lothian
+441,PLACE::lothian and borders
+441,PLACE::scotland
+441,WORK::scottish borders
+442,OTHER::city of edinburgh
+442,OTHER::dumfries and galloway
+442,PLACE::east lothian
+442,PLACE::scotland
+442,WORK::scottish borders
+443,PLACE::dirleton
+443,PLACE::east lothian
+443,PLACE::scotland
+443,WORK::dirleton kirk
+444,PLACE::archerfield estate
+444,PLACE::dirleton
+444,PLACE::east lothian
+444,PLACE::edinburgh
+444,PLACE::fenton barns
+444,PLACE::firth of forth
+444,PLACE::gullane
+444,PLACE::north berwick
+444,PLACE::scotland
+444,PLACE::yellowcraigs nature reserve
+445,PLACE::east lothian
+445,PLACE::edinburgh
+445,PLACE::haddington
+445,PLACE::scotland
+446,PLACE::archerfield estate
+446,PLACE::dirleton
+446,PLACE::east lothian
+446,PLACE::firth of forth
+446,PLACE::scotland
+446,PLACE::yellowcraig
+446,WORK::north berwick west links
+447,PLACE::east lothian
+447,PLACE::scotland
+447,WORK::dirleton castle
+448,NATIONALITY::scottish
+448,PERSON::lord haliburton of dirleton
+448,PLACE::dirleton castle
+449,PERSON::donnchad i
+449,PLACE::east lothian
+449,PLACE::north berwick
+449,PLACE::scotland
+449,WORK::st. mary's priory
+450,DATE::5 december 1948
+450,NATIONALITY::british
+450,OTHER::labour politician
+450,PERSON::john david home robertson
+450,PLACE::scotland
+451,ORGANIZATION::aip records
+451,OTHER::mid-1960s garage rock and psychedelic rock recordings
+451,OTHER::united states
+451,WORK::trash box
+452,ORGANIZATION::zz top
+452,OTHER::2003
+452,"WORK::chrome, smoke & bbq"
+453,ORGANIZATION::abkco
+453,PERSON::phil spector
+453,WORK::back to mono (1958–1969)
+454,OTHER::impulse!
+454,OTHER::mca
+454,PERSON::john coltrane
+454,WORK::live in japan (album)
+455,OTHER::legacy recordings
+455,OTHER::rca records
+455,PERSON::waylon jennings
+455,WORK::nashville rebel (box set)
+456,ORGANIZATION::radiohead
+456,WORK::radiohead box set
+457,OTHER::uk
+457,WORK::mono masters
+457,WORK::the beatles in mono
+458,ORGANIZATION::atlantic records
+458,ORGANIZATION::led zeppelin
+458,OTHER::1993
+458,WORK::led zeppelin boxed set 2
+459,OTHER::12/8 time
+459,PERSON::phil spector
+459,WORK::to know him is to love him
+460,ORGANIZATION::the doors
+460,WORK::the doors: vinyl box set
+461,NATIONALITY::soviet
+461,PERSON::nikolai viktorovich podgorny
+461,PLACE::ukraine
+462,NATIONALITY::ukrainian
+462,OTHER::all-union communist party (bolsheviks)
+462,OTHER::leonid brezhnev
+462,PERSON::andrei pavlovich kirilenko
+462,PLACE::alexeyevka
+463,ORGANIZATION::veb mathias-thesen werft
+463,OTHER::mikhail kalinin series of ships
+463,PERSON::felix dzerzhinsky
+463,PLACE::wismar
+463,WORK::mikhail kalinin
+463,WORK::ms excelsior neptune
+464,DATE::21 november [o.s. 8 november] 1902
+464,DATE::25 january 1982
+464,NATIONALITY::russian
+464,PERSON::mikhail suslov
+464,PLACE::soviet union
+465,"DATE::august 27, 1925"
+465,NATIONALITY::soviet
+465,OTHER::boris bazhanov
+465,PERSON::ephraim markovich sklyansky
+465,PLACE::kiev
+466,OTHER::nobel peace laureates and the peace laureate organizations
+466,OTHER::permanent secretariat
+466,PERSON::mikhail gorbachev
+466,PLACE::bogota
+466,PLACE::rome
+466,WORK::world summit of nobel peace laureates
+467,NATIONALITY::russian
+467,PERSON::anastas ivanovich mikoyan
+467,PLACE::soviet union
+468,DATE::2 march 1931
+468,NATIONALITY::russian
+468,PERSON::mikhail gorbachev
+469,DATE::2007
+469,DATE::december 14
+469,NATIONALITY::american
+469,PERSON::david jonathan waksberg
+469,PLACE::new york city
+470,NATIONALITY::russian
+470,PERSON::anastas mikoyan
+470,PERSON::nikita khrushchev
+470,PERSON::sergo anastasi mikoyan
+470,PLACE::soviet union
+471,OTHER::europe
+471,OTHER::northern africa
+471,OTHER::western asia
+471,WORK::melandrium album
+471,WORK::silene latifolia
+471,WORK::white campion
+472,OTHER::family caryophyllaceae
+472,OTHER::genus 'silene'
+472,OTHER::gibraltar
+472,WORK::gibraltar campion
+472,WORK::silene tomentosa
+474,OTHER::700
+474,OTHER::caryophyllaceae
+474,WORK::silene
+475,OTHER::arctic tundra of far eastern siberia and the mountains of northern japan
+475,WORK::silene stenophylla
+476,NATIONALITY::american
+476,OTHER::western north america
+476,WORK::silene menziesii
+477,NATIONALITY::american
+477,OTHER::pacific northwest of the united states
+477,WORK::silene suksdorfii
+478,OTHER::cacti
+478,WORK::ferocactus
+480,OTHER::angiosperm
+480,OTHER::geneticists and biologists
+480,WORK::silene
+481,ORGANIZATION::royal australian air force (raaf)
+481,PLACE::new south wales
+481,PLACE::newcastle
+481,PLACE::raaf base williamtown
+481,WORK::no. 2 squadron raaf
+482,OTHER::borneo
+482,OTHER::dutch east indies (except for sumatra)
+482,OTHER::new guinea (including the bismarck archipelago)
+482,OTHER::the philippines
+482,OTHER::western part of the solomon islands
+482,PLACE::australia
+482,WORK::south west pacific theatre of world war ii
+483,OTHER::british
+483,OTHER::english electric
+483,WORK::english electric canberra
+484,ORGANIZATION::u.s.
+484,OTHER::1941-45
+484,OTHER::pacific war
+484,PERSON::admiral chester w. nimitz
+484,PERSON::general douglas macarthur
+484,WORK::asiatic-pacific theater
+484,WORK::united states strategic air forces in the pacific
+484,WORK::world war ii
+485,OTHER::italy
+485,OTHER::its distinctive fuselage dorsal 'hump'
+485,WORK::savoia-marchetti sm.79
+486,OTHER::pacific war
+486,OTHER::south west pacific theatre
+486,WORK::south west pacific area (command)
+487,PLACE::soviet union
+487,WORK::tupolev tu-12
+487,WORK::tupolev tu-2
+488,ORGANIZATION::royal australian air force (raaf)
+488,OTHER::western new guinea
+488,WORK::no. 12 squadron raaf
+489,OTHER::early warning network
+489,OTHER::south west pacific theatre
+489,WORK::coastwatchers
+489,WORK::guadalcanal campaign
+490,NATIONALITY::american
+490,OTHER::none
+490,PERSON::edwin a. doss
+490,PLACE::united states
+491,ORGANIZATION::pac-12 conference
+491,"OTHER::boulder, colorado"
+491,OTHER::ncaa division i men's basketball season
+491,PERSON::tad boyle
+491,PLACE::colorado
+491,WORK::2016–17 colorado buffaloes men's basketball team
+491,WORK::ucf
+491,WORK::washington state
+492,ORGANIZATION::pac-12 conference
+492,"OTHER::boulder, colorado"
+492,OTHER::fifth place
+492,PERSON::tad boyle
+492,WORK::arizona
+492,WORK::colorado buffaloes men's basketball team
+492,WORK::connecticut
+492,WORK::washington state
+493,ORGANIZATION::university of colorado
+493,PERSON::dan hawkins
+493,PLACE::folsom field
+493,WORK::2009 colorado buffaloes football team
+494,ORGANIZATION::pac-12 conference
+494,ORGANIZATION::university of colorado at boulder
+494,OTHER::mike macintyre
+494,PLACE::folsom field
+494,WORK::2015 colorado buffaloes football team
+495,ORGANIZATION::pac-12 conference
+495,ORGANIZATION::university of colorado boulder
+495,PERSON::jon embree
+495,PLACE::folsom field
+495,WORK::2012 colorado buffaloes football team
+496,OTHER::ncaa division i-a football season
+496,PLACE::colorado
+496,PLACE::notre dame
+496,PLACE::university of colorado at boulder
+496,WORK::1989 colorado buffaloes football team
+497,ORGANIZATION::pac-12 conference
+497,ORGANIZATION::university of colorado at boulder
+497,PERSON::jon embree
+497,PLACE::folsom field
+497,WORK::2011 colorado buffaloes football team
+498,ORGANIZATION::pac-12 conference
+498,ORGANIZATION::university of colorado at boulder
+498,OTHER::mike macintyre
+498,PLACE::folsom field
+498,WORK::2014 colorado buffaloes football team
+499,OTHER::2009 ncaa division i fbs football season
+499,OTHER::big 12
+499,WORK::2009 big 12 conference football season
+500,ORGANIZATION::oregon
+500,ORGANIZATION::pac-12 conference
+500,ORGANIZATION::university of colorado
+500,PERSON::tad boyle
+500,PLACE::coors events center
+500,WORK::2014–15 colorado buffaloes men's basketball team
+501,ORGANIZATION::selver
+501,ORGANIZATION::tallinna kaubamaja
+501,OTHER::1995
+501,PLACE::estonia
+501,PLACE::latvia
+502,OTHER::holiday inn
+502,PLACE::walt disney world resort
+502,WORK::holiday inn orlando - disney springs area
+503,ORGANIZATION::tesco
+503,PLACE::united kingdom
+503,WORK::tesco extra
+504,ORGANIZATION::tazweed center
+504,OTHER::syrian refugee camps
+505,ORGANIZATION::carrefour s.a.
+505,OTHER::french multinational retailer
+505,PLACE::france
+506,ORGANIZATION::dayton-hudson
+506,ORGANIZATION::dillard's
+506,PERSON::john a. brown
+506,PLACE::oklahoma
+507,OTHER::bhs
+507,OTHER::sainsbury's
+507,WORK::savacentre
+508,ORGANIZATION::burmah oil
+508,ORGANIZATION::norsk hydro
+508,ORGANIZATION::yx energi
+508,PLACE::denmark
+508,PLACE::norway
+508,WORK::uno-x
+509,ORGANIZATION::carrefour
+509,PLACE::france
+509,WORK::euromarché
+510,ORGANIZATION::vergo retail ltd
+510,OTHER::owen owen
+510,PLACE::liverpool
+510,PLACE::manchester
+510,WORK::lewis's
+511,OTHER::nascar winston cup series
+511,PLACE::north carolina speedway
+511,WORK::subway 400
+512,PLACE::darlington raceway
+512,"PLACE::darlington, south carolina, usa"
+512,WORK::carolina dodge dealers 400
+514,PLACE::indiana
+514,"PLACE::speedway, indiana"
+514,PLACE::united states
+514,WORK::indianapolis motor speedway
+515,DATE::2005
+515,OTHER::black hills of south dakota
+515,OTHER::one of the easiest hundred mile races in the country
+515,OTHER::united states
+515,WORK::lean horse ultramarathon
+516,PLACE::middletown
+516,PLACE::new york
+516,PLACE::orange county
+516,WORK::orange county fair speedway
+517,DATE::march 12
+517,NATIONALITY::american
+517,"PERSON::john sherman ""johnny"" rutherford iii"
+518,OTHER::1957 usac national championship trail
+518,OTHER::3
+518,WORK::1957 indianapolis 500
+518,WORK::indianapolis motor speedway
+519,PLACE::bathurst
+519,PLACE::mount panorama circuit
+519,PLACE::new south wales
+519,WORK::1964 armstrong 500
+520,PERSON::james a. allison
+520,WORK::allison transmission
+521,OTHER::marvin david levy
+521,OTHER::samuel barber
+521,PERSON::ron bottcher
+521,"PLACE::sandpoint, idaho"
+521,WORK::metropolitan opera
+521,WORK::new york city opera
+521,WORK::santa fe opera
+522,PERSON::luigi comencini
+522,WORK::la bohème (1988 film)
+523,NATIONALITY::italian
+523,PERSON::giacomo puccini
+523,PERSON::giovacchino forzano
+523,WORK::gianni schicchi
+524,NATIONALITY::italian
+524,PERSON::franco corelli
+524,PLACE::italy
+524,WORK::metropolitan opera
+525,OTHER::lauretta
+525,PERSON::giacomo puccini
+525,PERSON::giovacchino forzano
+525,WORK::gianni schicchi
+525,WORK::o mio babbino caro
+526,OTHER::the girl of the golden west
+526,PERSON::claude debussy
+526,PERSON::david belasco
+526,PERSON::giacomo puccini
+526,PERSON::richard strauss
+526,WORK::la fanciulla del west
+527,PERSON::afro poli
+527,PERSON::carmine gallone
+527,PERSON::franca duval
+527,PERSON::franco corelli
+527,WORK::tosca (1956 film)
+528,OTHER::july and august
+528,OTHER::operas of the famous italian composer giacomo puccini
+528,OTHER::summer opera festival
+528,WORK::festival puccini
+529,PERSON::cesira ferrani
+529,PLACE::pollone
+529,PLACE::turin
+530,NATIONALITY::italian
+530,PERSON::jacopo puccini
+530,PLACE::lucca
+531,ORGANIZATION::polydor records
+531,PERSON::ellie goulding
+531,WORK::halcyon
+532,OTHER::max martin
+532,PERSON::ellie goulding
+532,WORK::delirium (album)
+532,WORK::fifty shades of grey (soundtrack)
+532,WORK::love me like you do
+533,PERSON::calvin harris
+533,PERSON::ellie goulding
+533,WORK::outside
+534,OTHER::electropop and r&b
+534,PERSON::ellie goulding
+534,WORK::on my mind
+535,PERSON::ellie goulding
+535,WORK::army
+536,"OTHER::hamburg, germany"
+536,"OTHER::rabat, morocco"
+536,PERSON::ellie goulding
+536,WORK::delirium world tour
+537,OTHER::flashlight
+537,PERSON::dj fresh
+537,PERSON::ellie goulding
+538,ORGANIZATION::polydor records
+538,PERSON::ellie goulding
+538,WORK::delirium
+539,NATIONALITY::english
+539,PERSON::ellie goulding
+539,WORK::something in the way you move
+540,OTHER::bright lights (re-release)
+540,OTHER::jonny lattimer
+540,OTHER::lights (studio album)
+540,OTHER::starsmith
+540,PERSON::ellie goulding
+541,OTHER::sri lal bahadur shastri
+541,PLACE::jamnagar
+541,WORK::sainik school balachadi
+542,PERSON::kevin rudd
+542,PERSON::peter o'neill
+542,PLACE::australia
+542,PLACE::papua new guinea
+542,WORK::png solution
+543,ORGANIZATION::christian brothers of saint john baptist de la salle
+543,"PLACE::cotter, minnesota"
+543,"PLACE::winona, minnesota"
+543,"WORK::cotter high school (winona, minnesota)"
+544,ORGANIZATION::city of marion
+544,PLACE::adelaide
+544,PLACE::marion
+544,PLACE::sturt river
+545,OTHER::princeton
+545,WORK::princeton high school (illinois)
+546,OTHER::arapaho
+546,OTHER::cheyenne
+546,"OTHER::concho, oklahoma"
+546,"OTHER::el reno, oklahoma"
+546,PLACE::concho
+546,PLACE::el reno
+546,WORK::concho indian boarding school
+547,ORGANIZATION::grace church school
+547,PLACE::86 fourth avenue
+547,PLACE::east 10th street
+547,PLACE::east 12th street
+547,PLACE::east village
+547,PLACE::manhattan
+547,PLACE::new york city
+548,OTHER::a group of highly experienced professional in the field of education
+548,OTHER::higher secondary education board (h.s.e.b.)
+548,PLACE::nawalparasi
+548,WORK::nawal english boarding school
+548,WORK::vishwajyoti higher secondary school
+549,ORGANIZATION::stockholm university
+549,PLACE::gränna
+549,PLACE::jönköping county
+549,WORK::grennaskolan boarding school
+550,NATIONALITY::australian
+550,ORGANIZATION::westminster school
+550,PLACE::adelaide
+551,NATIONALITY::german
+551,OTHER::german tv mini series based on jack london's the sea-wolf
+551,PERSON::raimund harmstorf
+551,PLACE::hamburg
+551,PLACE::marktoberdorf
+552,ORGANIZATION::m6
+552,PLACE::france
+552,WORK::rising star
+553,OTHER::fantastic four (tv series)
+553,OTHER::marvel action hour
+553,OTHER::united states
+553,WORK::iron man (tv series)
+554,ORGANIZATION::ideas box entertainment
+554,OTHER::past life regression
+554,PERSON::ravi kishan
+554,PERSON::trupti jayin
+554,PLACE::mumbai
+554,WORK::raaz pichhle janm ka
+556,PERSON::cj daugherty
+556,PERSON::jack jewers
+556,WORK::night school
+557,OTHER::abc
+557,OTHER::jack palance
+557,OTHER::robert l. ripley
+557,OTHER::united states
+557,WORK::ripley's believe it or not! (tv series)
+558,OTHER::driving technique
+558,WORK::drifting
+559,OTHER::motorsport new zealand
+559,PLACE::new zealand
+559,WORK::d1nz
+560,OTHER::nippon animation
+560,PERSON::auni nuolivaara
+560,PLACE::japan
+560,"WORK::katri, girl of the meadows"
+562,ORGANIZATION::atlanta falcons
+562,PERSON::jerry glanville
+562,WORK::1990 atlanta falcons season
+563,ORGANIZATION::pittsburgh steelers
+563,OTHER::head coach of the oilers
+563,PERSON::jerry glanville
+564,NATIONALITY::american
+564,OTHER::software engineer
+564,PERSON::keith bostic
+565,"PERSON::darrel ""mouse"" davis"
+565,PLACE::oregon
+565,PLACE::washington
+565,WORK::portland state university
+565,WORK::university of hawaii at manoa
+566,OTHER::cbs's 'the nfl today'/'nfl on cbs'
+566,OTHER::fox's coverage of the nfl
+566,OTHER::hbo's 'inside the nfl'
+566,OTHER::head football coach at portland state university
+566,PERSON::jerry michael glanville
+566,PLACE::united states
+567,PERSON::jerry glanville
+567,WORK::portland state vikings football
+568,NATIONALITY::american
+568,ORGANIZATION::confederate railroad
+568,WORK::lucky to be alive
+569,ORGANIZATION::cincinnati bengals
+569,ORGANIZATION::houston oilers
+569,OTHER::houston
+569,PERSON::jerry glanville
+570,ORGANIZATION::houston oilers
+570,OTHER::cleveland browns
+570,PERSON::jerry glanville
+570,PERSON::william keith bostic
+570,PLACE::united states
+571,PLACE::saskatchewan
+571,PLACE::saskatoon
+571,WORK::blairmore suburban centre
+571,WORK::parkridge
+572,OTHER::west lindsey
+572,PLACE::england
+572,PLACE::lincolnshire
+572,PLACE::willoughton
+573,ORGANIZATION::bangladesh bureau of statistics
+573,OTHER::2001 bangladesh census
+573,PLACE::bangladesh
+574,PLACE::boston
+574,PLACE::lincolnshire
+575,PLACE::england
+575,PLACE::felixstowe
+575,PLACE::ipswich
+575,PLACE::kirton
+575,PLACE::suffolk
+575,PLACE::trimley
+575,WORK::a14
+575,WORK::river debben
+575,WORK::river orwell
+576,DATE::2011 census
+576,OTHER::united kingdom census 2001
+576,PLACE::kirton
+576,PLACE::nottinghamshire
+576,PLACE::ollerton
+577,ORGANIZATION::world bank
+577,OTHER::china
+577,OTHER::indonesia
+577,OTHER::nigeria
+577,OTHER::united states
+577,PLACE::india
+577,WORK::un state of the world population report
+578,PLACE::argentina
+578,PLACE::santa fe
+578,PLACE::sauce viejo
+579,NATIONALITY::english
+579,"PLACE::25,949"
+579,PLACE::berwick-upon-tweed
+579,PLACE::england
+579,PLACE::northumberland
+579,PLACE::scotland
+580,PLACE::boston
+580,PLACE::kirton
+580,PLACE::kirton end
+580,PLACE::lincolnshire
+581,OTHER::fokienia
+581,OTHER::fokienia hodginsii
+581,OTHER::fujian cypress
+582,OTHER::southern saskatchewan and the cypress hills of southeastern alberta
+582,OTHER::western canada sedimentary basin
+582,PERSON::g.m. furnival
+582,WORK::frenchman formation
+585,OTHER::essential oil
+585,OTHER::sesquiterpene alcohol
+585,WORK::cedrol
+587,OTHER::40 to 55°s
+587,OTHER::callitroideae
+587,OTHER::cupressaceae
+587,OTHER::valdivian temperate rain forests and magellanic subpolar forests of southern chile and southwestern argentina
+587,PLACE::tierra del fuego
+587,WORK::pilgerodendron
+587,WORK::pilgerodendron uviferum
+591,"OTHER::southeast division of the eastern conference, nba"
+591,"PLACE::charlotte, north carolina"
+591,WORK::charlotte bobcats
+591,WORK::charlotte hornets
+591,WORK::national basketball association (nba)
+591,WORK::new orleans pelicans
+592,ORGANIZATION::charlotte sting
+592,ORGANIZATION::texas tech lady raiders
+592,PERSON::angie braziel
+592,PERSON::jia perkins
+592,PERSON::michi atkins
+592,PERSON::sheryl swoopes
+593,ORGANIZATION::boston celtics
+593,ORGANIZATION::charlotte hornets
+593,ORGANIZATION::new york knicks
+593,OTHER::1992–93 nba season
+593,PERSON::alonzo mourning
+593,PERSON::larry johnson
+593,PERSON::muggsy bogues
+594,ORGANIZATION::charlotte bobcats
+594,ORGANIZATION::charlotte hornets
+594,"PLACE::charlotte, north carolina"
+594,PLACE::new orleans
+595,OTHER::detroit shock
+595,OTHER::los angeles sparks
+595,PERSON::ayana d'nay walker
+595,PLACE::united states
+596,OTHER::miami sol
+596,OTHER::orlando miracle
+596,OTHER::portland fire
+596,OTHER::united states
+596,OTHER::utah starzz
+596,PLACE::florida
+596,PLACE::utah
+596,WORK::2003 wnba season
+597,ORGANIZATION::charlotte hornets
+597,ORGANIZATION::new orleans hornets
+597,ORGANIZATION::new orleans pelicans
+597,OTHER::southeast division of the eastern conference
+597,PLACE::charlotte
+597,WORK::national basketball association (nba)
+598,OTHER::michael jordan
+598,OTHER::uptown charlotte
+598,"PLACE::charlotte, north carolina"
+598,WORK::charlotte hornets
+598,WORK::national basketball association (nba)
+599,ORGANIZATION::charlotte sting
+599,OTHER::charlotte hornets
+599,OTHER::wnba team charlotte sting
+599,PERSON::muggsy bogues
+599,PLACE::united states
+601,ORGANIZATION::california chamber symphony
+601,PERSON::jerry goldsmith
+601,PLACE::royce hall
+601,WORK::christus apollo
+602,PERSON::jerry goldsmith
+602,WORK::alien (soundtrack)
+603,OTHER::1997 academy award- and golden globe award-winning film
+603,OTHER::varèse sarabande records
+603,PERSON::jerry goldsmith
+603,WORK::l.a. confidential (soundtrack)
+604,PERSON::dennis quaid
+604,PERSON::joe dante
+604,PERSON::michael finnell
+604,PERSON::steven spielberg
+604,WORK::innerspace
+605,PERSON::james horner
+605,WORK::aliens (soundtrack)
+608,NATIONALITY::american
+608,OTHER::1986
+608,OTHER::film
+608,PERSON::jerry goldsmith
+608,WORK::legend (film score)
+610,OTHER::menno meyjes
+610,PERSON::franklin j. schaffner
+610,PERSON::jerry goldsmith
+610,PERSON::stanley o'toole
+610,PERSON::talia shire
+610,WORK::lionheart (1987 film)
+611,PERSON::leonard woolf
+611,PERSON::virginia woolf
+611,WORK::monday or tuesday
+611,WORK::the mark on the wall
+611,WORK::two stories
+612,NATIONALITY::american
+612,OTHER::cats laughing
+612,OTHER::the flash girls
+612,PERSON::emma bull
+612,PLACE::liavek
+613,PERSON::adeline virginia woolf
+613,PERSON::virginia woolf
+613,PLACE::kensington
+613,PLACE::london
+614,OTHER::feminist classic
+614,PERSON::virginia woolf
+614,PERSON::vita sackville-west
+614,WORK::orlando: a biography
+615,ORGANIZATION::london weekend television
+615,PERSON::alan bennett
+615,PERSON::stephen frears
+615,WORK::me! i'm afraid of virginia woolf
+616,NATIONALITY::british
+616,OTHER::expert on the life and works of virginia woolf
+616,PERSON::jane de gay
+617,OTHER::1929 comic play by virginia woolf
+617,OTHER::rarely seen earlier version of the text
+617,OTHER::several passages of the libretto
+617,PERSON::andy vores
+617,PERSON::quentin bell
+617,PERSON::virginia woolf
+617,WORK::freshwater
+618,OTHER::a haunted house and other short stories
+618,PERSON::virginia woolf
+618,WORK::the duchess and the jeweller
+619,OTHER::british library
+619,OTHER::sussex university
+619,PERSON::virginia woolf
+619,WORK::moments of being
+620,DATE::1938
+620,DATE::2015
+620,NATIONALITY::american
+620,PERSON::jane marcus
+620,PLACE::united states
+621,OTHER::orange order
+621,OTHER::ralph vaughan williams
+621,OTHER::traditional folk song and nursery rhyme
+621,OTHER::united states
+621,WORK::billy boy
+623,"OTHER::""through the looking-glass, and what alice found there"""
+623,OTHER::english nursery rhyme
+623,WORK::tweedledum and tweedledee
+625,OTHER::children's song
+625,OTHER::english language
+625,OTHER::nursery rhyme
+625,"WORK::row, row, row your boat"
+626,OTHER::mother goose
+626,PERSON::eliza lee cabot follen
+626,WORK::three little kittens
+628,OTHER::394
+628,OTHER::7734
+628,OTHER::english language
+628,WORK::a wise old owl
+630,PERSON::james goldstone
+630,PERSON::robert bloch
+630,WORK::what are little girls made of?
+631,DATE::23 april 1958
+631,NATIONALITY::british
+631,PERSON::yvonne ridley
+632,ORGANIZATION::exxonmobil
+632,ORGANIZATION::nigerian national petroleum corporation
+632,OTHER::nigeria
+632,WORK::mobil producing nigeria
+633,"OTHER::anti-war, environmental and global justice organizer"
+633,PERSON::scott parkin
+633,"PLACE::garland, texas"
+634,NATIONALITY::american
+634,ORGANIZATION::halliburton company
+634,PLACE::united states
+635,OTHER::another corporation
+635,OTHER::epix pharmaceuticals
+635,WORK::prx-07034
+636,NATIONALITY::american
+636,ORGANIZATION::exxon
+636,ORGANIZATION::exxon corporation
+636,ORGANIZATION::exxonmobil
+636,ORGANIZATION::standard oil company of new jersey
+637,OTHER::new jersey
+637,OTHER::oregon
+637,PERSON::henry villard
+637,WORK::north american company
+637,WORK::northern pacific railroad
+637,WORK::oregon and transcontinental company
+637,WORK::oregon railway and navigation company
+639,ORGANIZATION::church of scientology
+639,ORGANIZATION::church of spiritual technology
+639,ORGANIZATION::l. ron hubbard library
+639,ORGANIZATION::religious technology center
+639,"OTHER::los angeles county, california"
+641,PERSON::brenda hampton
+641,PLACE::the wb television network
+641,WORK::safe harbor (tv series)
+642,DATE::season three finale
+642,PERSON::paige matthews
+642,PERSON::phoebe (halliwell)
+642,PERSON::piper (halliwell)
+642,PERSON::prue (halliwell)
+642,WORK::charmed
+642,WORK::the power of three
+643,ORGANIZATION::abs-cbn
+643,ORGANIZATION::star cinema
+643,WORK::kay tagal kang hinintay
+644,"DATE::september 5, 1973"
+644,NATIONALITY::american
+644,PERSON::rose arianna mcgowan
+644,PLACE::italy
+644,PLACE::united states
+645,DATE::1972-03-09
+645,OTHER::axel palmer
+645,OTHER::carter horton
+645,OTHER::jack mcphee
+645,OTHER::kyle brody
+645,PERSON::kerr smith
+645,PLACE::united states
+646,PERSON::darren stein
+646,PERSON::julie benz
+646,PERSON::rebecca gayheart
+646,PERSON::rose mcgowan
+646,WORK::jawbreaker (film)
+647,"DATE::october 1, 1980"
+647,NATIONALITY::american
+647,OTHER::dr. april kepner
+647,OTHER::hannah rogers
+647,PERSON::sarah drew
+648,ORGANIZATION::the wb
+648,OTHER::paramount home entertainment
+648,WORK::charmed (season 4)
+649,ORGANIZATION::the wb
+649,OTHER::prue
+649,OTHER::shannen doherty
+649,PERSON::alyssa milano
+649,PERSON::holly marie combs
+649,PERSON::paige matthews
+649,PERSON::rose mcgowan
+649,PLACE::san francisco
+649,WORK::charmed
+650,ORGANIZATION::aaron spelling
+650,ORGANIZATION::the wb
+650,OTHER::constance m. burge
+650,OTHER::spelling television
+650,PERSON::brad kern
+650,PLACE::san francisco
+650,WORK::charmed
+651,OTHER::bingham & district abc
+651,OTHER::west ham abc
+651,PERSON::ralph charles
+651,PLACE::west ham boys & abc
+652,"PERSON::george leslie ""bunny"" grant"
+652,PERSON::harry wiley
+652,PERSON::jacques deschamps
+652,PERSON::pancho rankine
+653,DATE::july 23
+653,NATIONALITY::american
+653,PERSON::vince phillips
+654,OTHER::guyana amateur boxing board
+654,PERSON::andrew murray
+654,PERSON::emanuel steward
+654,PERSON::hugo lewis
+654,PLACE::georgetown
+655,OTHER::professional light welter/welterweight boxer
+655,PERSON::fatai onikeke
+655,PLACE::nigerian/australian
+656,NATIONALITY::australian
+656,PERSON::julian holland
+656,PLACE::bendigo
+657,DATE::9 may 1956
+657,NATIONALITY::australian
+657,OTHER::professional boxer
+657,PERSON::jeff malcolm
+657,PLACE::cowra
+658,DATE::october 27
+658,NATIONALITY::american
+658,PERSON::zabdiel judah
+659,ORGANIZATION::international boxing federation
+659,ORGANIZATION::international boxing hall of fame
+660,NATIONALITY::australian
+660,PERSON::lawrence austin
+660,PLACE::warrnambool
+661,OTHER::brian kierulf and joshua m. schwartz of kns productions
+661,PERSON::ricki-lee coulter
+661,WORK::can't touch it
+662,ORGANIZATION::london records
+662,ORGANIZATION::shakespears sister
+662,WORK::stay
+663,PERSON::darren lighty
+663,PERSON::donell jones
+663,PERSON::edward 'eddie f' ferrell
+663,PERSON::lisa lopes
+663,WORK::u know what's up
+664,OTHER::achy breaky heart
+664,OTHER::some gave all
+664,PERSON::billy ray cyrus
+665,PERSON::enya
+665,PERSON::mario winans
+665,PERSON::p. diddy
+665,WORK::i don't wanna know
+666,OTHER::as i am (album)
+666,OTHER::united states
+666,PERSON::alicia keys
+666,WORK::no one
+667,ORGANIZATION::de la soul
+667,ORGANIZATION::gorillaz
+667,WORK::feel good inc.
+668,ORGANIZATION::columbia records
+668,PERSON::godard lieberson
+668,PERSON::julie andrews
+668,PERSON::rex harrison
+668,WORK::my fair lady (broadway cast recording)
+669,OTHER::arista records
+669,OTHER::lil jon
+669,OTHER::ludacris
+669,PERSON::usher
+669,WORK::yeah!
+670,ORGANIZATION::sugarland
+670,OTHER::enjoy the ride
+670,WORK::stay
+671,PERSON::ari ryan
+671,PERSON::henry thomas
+671,PERSON::jon lindstrom
+671,PERSON::tom schanley
+671,WORK::the hard easy
+672,PERSON::andy buckley
+672,PERSON::bob odenkirk
+672,PERSON::collette wolfe
+672,PERSON::graham wagner
+672,PERSON::jon favreau
+672,PERSON::mary gillis
+672,PERSON::zach woods
+672,WORK::moving on
+673,OTHER::david hyde pierce
+673,OTHER::kelsey grammer
+673,PERSON::ken keeler
+673,PERSON::pete michels
+673,WORK::brother from another series
+673,WORK::the simpsons
+674,PERSON::ameenah kaplan
+674,PERSON::david denman
+674,PERSON::michael patrick mcgill
+674,PERSON::robert r. shafer
+674,WORK::roy's wedding
+674,WORK::the office
+675,NATIONALITY::american
+675,PERSON::bill murray
+675,PERSON::brian doyle-murray
+675,PLACE::united states
+676,PERSON::blake garrett rosenthal
+676,PERSON::majandra delfino
+676,PERSON::matt jones
+676,PERSON::thomas middleditch
+676,WORK::the farm
+677,WORK::adventure time
+677,WORK::the hard easy
+678,PERSON::finn
+678,PERSON::jake
+678,WORK::adventure time
+678,WORK::web weirdos
+679,PERSON::erik estrada
+679,WORK::adventure time
+679,WORK::evicted!
+679,WORK::marceline the vampire queen
+680,PERSON::david rogers
+680,PERSON::gabe miller
+680,PERSON::jonathan green
+680,WORK::andy's ancestry
+680,WORK::the office
+681,OTHER::efl trophy
+681,OTHER::fa cup
+681,OTHER::league one
+681,WORK::2017–18 wigan athletic f.c. season
+681,WORK::efl cup
+682,OTHER::football league
+682,OTHER::premier league
+682,WORK::2007–08 wigan athletic f.c. season
+683,OTHER::english football league
+683,WORK::carabao cup
+683,WORK::efl cup
+684,ORGANIZATION::wigan athletic f.c.
+684,PLACE::greater manchester
+684,PLACE::wigan
+684,WORK::springfield park
+685,ORGANIZATION::first citizens bank
+685,OTHER::trinidad and tobago
+685,OTHER::tt pro league
+685,WORK::trinidad and tobago league cup
+686,ORGANIZATION::wigan athletic f.c.
+686,OTHER::football league
+686,PLACE::wigan
+686,WORK::1979–80 wigan athletic f.c. season
+687,OTHER::wigan athletic
+687,PERSON::nick powell
+687,PLACE::england
+688,OTHER::football league
+688,OTHER::premier league
+688,WORK::2006–07 wigan athletic f.c. season
+689,OTHER::football league
+689,"OTHER::wigan, england"
+689,WORK::1978–79 wigan athletic f.c. season
+690,ORGANIZATION::wigan athletic f.c.
+690,ORGANIZATION::wigan borough f.c.
+690,OTHER::1931–32 season
+690,PLACE::wigan
+691,OTHER::dc comics
+691,OTHER::united states
+691,WORK::teen titans
+691,WORK::teen titans go!
+692,OTHER::dc entertainment and warner bros.
+692,PERSON::david slack
+692,PERSON::greg cipes
+692,PERSON::hynden walch
+692,PERSON::khary payton
+692,PERSON::scott menville
+692,PERSON::tara strong
+692,WORK::teen titans (season 4)
+693,NATIONALITY::canadian–american
+693,PERSON::tara strong
+693,PLACE::canada and united states
+694,PERSON::roy harper
+694,WORK::arsenal
+694,WORK::green arrow
+694,WORK::red arrow
+694,WORK::speedy
+694,WORK::teen titans
+695,NATIONALITY::american
+695,OTHER::dc comics
+695,WORK::teen titans go!
+696,OTHER::dc entertainment and warner bros.
+696,PERSON::david slack
+696,PERSON::greg cipes
+696,PERSON::hynden walch
+696,PERSON::khary payton
+696,PERSON::scott menville
+696,PERSON::tara strong
+696,WORK::teen titans (season 1)
+697,PERSON::david slack
+697,WORK::teen titans: trouble in tokyo
+698,OTHER::dc comics
+698,PERSON::aqualad (garth)
+698,PERSON::kid flash (wally west)
+698,PERSON::robin (dick grayson)
+698,WORK::teen titans
+699,NATIONALITY::canadian–american
+699,PERSON::tara strong
+699,PLACE::canada and united states
+700,ORGANIZATION::dc entertainment
+700,ORGANIZATION::warner bros.
+700,WORK::teen titans
+701,"OTHER::november 12, 1940"
+701,PLACE::strasbourg
+701,WORK::122nd ss-standarte
+702,ORGANIZATION::yugoslav air force
+702,ORGANIZATION::yugoslav navy
+702,WORK::122nd hydroplane liaison squadron
+703,ORGANIZATION::yugoslav air force
+703,PLACE::skopski petrovac military airport
+703,WORK::122nd fighter aviation squadron
+704,OTHER::bas-rhin département
+704,OTHER::grand est region of france
+704,PLACE::strasbourg
+706,OTHER::union army
+706,WORK::122nd ohio volunteer infantry
+707,ORGANIZATION::georgia army national guard
+707,ORGANIZATION::united states army
+707,WORK::122nd infantry regiment
+708,ORGANIZATION::louisiana air national guard 159th fighter wing
+708,PLACE::naval air station joint reserve base new orleans
+708,WORK::122d fighter squadron
+709,OTHER::canadian expeditionary force
+709,"OTHER::huntsville, ontario"
+709,"WORK::122nd battalion, cef"
+710,"OTHER::121st, 122nd, 123rd, 124th, 125th, 126th, 127th and 128th divisions"
+710,OTHER::mudanjiang
+710,WORK::122nd division (imperial japanese army)
+711,PERSON::king willem-alexander
+711,PLACE::aruba
+711,PLACE::netherlands
+711,WORK::king's day
+711,WORK::queen's day
+712,OTHER::golden week
+712,OTHER::respect children's personalities and to celebrate their happiness
+712,PLACE::japan
+712,WORK::children's day (japan)
+713,PERSON::thomas vincent ramos
+713,PLACE::belize
+713,WORK::garifuna settlement day
+714,DATE::27 april
+714,OTHER::kingdom of the netherlands
+714,PERSON::king willem-alexander
+714,WORK::koningsdag
+715,OTHER::food and music
+715,OTHER::national wear
+715,OTHER::october
+715,PLACE::saint lucia
+715,WORK::jounen kwéyòl
+716,PLACE::united states
+716,WORK::the eighth
+717,OTHER::french canadian culture
+717,PLACE::quebec
+717,WORK::saint-jean-baptiste day
+718,"OTHER::wearing of orange clothing such as t-shirts, caps and scarfs; lavish attention for sports and sports fans in the media; and the decoration of cars, rooms, houses, shops, and even entire streets in orange"
+718,PLACE::netherlands
+718,WORK::koningsdag
+718,WORK::oranjegekte (orange craze)
+719,OTHER::samoa
+719,WORK::white sunday
+720,OTHER::basque country
+720,WORK::christmas in the basque country
+721,OTHER::william shakespeare's romeo and juliet
+721,PERSON::baz luhrmann
+721,PERSON::franco zeffirelli
+721,PERSON::george cukor
+721,WORK::romeo and juliet
+722,PERSON::romeo montague
+722,PERSON::william shakespeare
+722,PLACE::capulet
+722,PLACE::montague
+722,WORK::romeo and juliet
+723,OTHER::craig pearce
+723,OTHER::gabriella martinelli
+723,PERSON::baz luhrmann
+723,PERSON::claire danes
+723,PERSON::leonardo dicaprio
+723,WORK::romeo + juliet
+724,PERSON::juliet
+724,PERSON::william shakespeare
+724,WORK::a rose by any other name would smell as sweet
+724,WORK::romeo and juliet
+725,ORGANIZATION::gonzo
+725,ORGANIZATION::sky perfect well think
+725,PERSON::william shakespeare
+725,WORK::romeo × juliet (anime)
+726,OTHER::troma entertainment
+726,PERSON::james gunn
+726,PERSON::lloyd kaufman
+726,WORK::tromeo and juliet
+727,DATE::2007
+727,OTHER::chubu-nippon
+727,PLACE::japan
+727,WORK::romeo × juliet (anime)
+728,NATIONALITY::american
+728,OTHER::guardians of the galaxy (2014)
+728,OTHER::guardians of the galaxy vol. 2 (2017)
+728,OTHER::super (2010)
+728,PERSON::james gunn
+729,PERSON::brian gunn
+729,PERSON::james gunn
+729,PERSON::sean gunn
+729,WORK::james gunn's pg porn
+730,PERSON::alex hyde-white
+730,PERSON::blanche baker
+730,PERSON::william woodman
+730,WORK::the tragedy of romeo and juliet (film)
+731,OTHER::chairman of the joint chiefs of staff
+731,OTHER::defense intelligence agency
+731,OTHER::secretary of defense
+731,PERSON::director of national intelligence
+731,PERSON::director of the defense intelligence agency
+733,OTHER::national intelligence exceptional achievement medal
+733,OTHER::united states intelligence community
+733,WORK::national intelligence medal of achievement
+734,PERSON::director of national intelligence
+734,WORK::national intelligence board
+736,NATIONALITY::american
+736,PERSON::bill clinton
+736,PLACE::arkansas
+737,ORGANIZATION::office of the director of national intelligence (odni)
+737,OTHER::central intelligence agency's distinguished intelligence cross
+737,OTHER::united states intelligence community (ic)
+737,WORK::national intelligence cross
+739,"OTHER::analyzing intelligence and planning, deployment and tactical employment of ground surveillance and reconnaissance units"
+739,OTHER::u.s. marine corps
+739,WORK::ground intelligence officer
+740,OTHER::national intelligence council
+740,OTHER::united states federal government documents
+740,OTHER::united states intelligence community
+740,WORK::national intelligence estimate
+741,"DATE::april 28, 1991"
+741,NATIONALITY::american
+741,PERSON::coco malia camille hapaikekoa ho
+741,"PLACE::honolulu, hawaii"
+742,OTHER::association of surfing professionals
+742,WORK::moche rip curl pro portugal 2015
+743,NATIONALITY::american
+743,PERSON::john john florence
+743,PLACE::hawaii
+744,OTHER::asp world tour
+744,OTHER::association of surfing professionals
+744,PLACE::portugal
+744,WORK::moche rip curl pro portugal 2014
+745,OTHER::world surf league men's championship tour
+745,WORK::meo rip curl pro portugal 2017
+746,PLACE::peniche
+746,PLACE::portugal
+746,WORK::supertubos
+747,OTHER::annual irons brothers pinetrees classic
+747,PERSON::andy irons
+747,PLACE::hawaii
+747,PLACE::tahiti
+747,WORK::billabong pro teahupoo
+748,OTHER::world surf league men's championship tour
+748,WORK::meo rip curl pro portugal 2016
+749,"DATE::august 9, 1963"
+749,NATIONALITY::australian
+749,PERSON::barton lynch
+750,OTHER::asp world tour
+750,PERSON::john john florence
+750,PLACE::peniche
+750,WORK::meo rip curl pro portugal
+751,NATIONALITY::dutch
+751,PERSON::barend
+752,DATE::june 1980
+752,NATIONALITY::american
+752,PERSON::marion christopher barry
+753,OTHER::united states
+753,PERSON::sela ward
+753,WORK::suburban madness
+755,"DATE::july 11, 1956"
+755,NATIONALITY::american
+755,PERSON::sela ann ward
+756,OTHER::singh
+757,OTHER::murder
+757,PERSON::bobbi bacha
+757,PERSON::morris black
+757,PERSON::robert durst
+757,PERSON::sela ward
+757,WORK::galveston county jury
+757,WORK::suburban madness
+758,NATIONALITY::american
+758,OTHER::directelection.org
+758,"OTHER::scholar, political activist and civic leader"
+758,PERSON::jeff strabone
+758,PLACE::brooklyn
+759,NATIONALITY::american
+759,OTHER::the decemberists
+759,PERSON::chris funk
+761,OTHER::australia house
+761,PLACE::united kingdom
+761,"WORK::high commission of australia, london"
+762,OTHER::capital city
+762,OTHER::foreign mission
+762,OTHER::other countries
+762,WORK::consulate
+762,WORK::diplomatic mission
+762,WORK::embassy
+763,WORK::diplomatic bag
+763,WORK::vienna convention on diplomatic relations
+764,ORGANIZATION::china
+764,ORGANIZATION::people's republic of china
+764,ORGANIZATION::qing empire
+764,ORGANIZATION::republic of china
+764,PLACE::united kingdom
+764,"WORK::embassy of china, london"
+765,OTHER::period of friendship
+765,PERSON::alvaro mexia
+765,PLACE::st augustine
+766,OTHER::nairobi
+766,OTHER::us state department
+766,"WORK::embassy of the united states, nairobi"
+767,ORGANIZATION::azerbaijan
+767,ORGANIZATION::iran
+767,ORGANIZATION::ottoman state
+767,"OTHER::5 february, 1991"
+767,OTHER::baku
+767,OTHER::more than 70 countries
+767,OTHER::other countries
+767,PLACE::australia
+767,PLACE::brasil
+767,PLACE::tehran
+767,PLACE::vietnam
+768,OTHER::chef de mission diplomatique
+768,OTHER::chief of mission
+768,OTHER::consul-general
+768,OTHER::permanent representative
+768,WORK::head of mission
+769,PLACE::brussels
+769,WORK::european union
+769,WORK::united states mission to the european union
+770,DATE::early 18th century
+770,OTHER::indigenous peoples of florida
+770,PLACE::florida
+771,NATIONALITY::british
+771,PERSON::edmund ronald leach
+771,PLACE::united kingdom
+772,NATIONALITY::norwegian
+772,OTHER::anthropologist
+772,OTHER::professor of social anthropology at the university of oslo
+772,PERSON::thomas hylland eriksen
+772,PLACE::norway
+773,ORGANIZATION::wiley-blackwell
+773,OTHER::european association of social anthropologists
+773,WORK::social anthropology/anthropologie sociale
+774,"ORGANIZATION::university of california, irvine"
+774,ORGANIZATION::university of cologne
+774,PERSON::douglas r. white
+774,PERSON::ulla johansen
+774,WORK::network analysis and ethnographic problems
+775,OTHER::institute of social sciences in belgrade
+775,OTHER::university of belgrade faculty of philosophy
+775,OTHER::university of donja gorica
+775,PERSON::aleksandar bošković
+775,PLACE::belgrade
+776,OTHER::cultural anthropology
+776,OTHER::ethnology
+776,OTHER::qualitative research
+776,WORK::participant observation
+777,PERSON::edwin ardener
+777,PERSON::shirley ardener
+777,WORK::muted group theory
+778,ORGANIZATION::association of social anthropologists of the uk and commonwealth
+778,OTHER::academy of social sciences
+778,PLACE::united kingdom
+779,"DATE::january 28, 1997"
+779,OTHER::british academy
+779,PERSON::alfred gell
+779,PLACE::london
+780,PERSON::bronisław malinowski
+780,WORK::coral gardens and their magic
+781,OTHER::queen's birthday honours
+781,PERSON::queen elizabeth ii
+781,PLACE::australia
+781,PLACE::new zealand
+781,PLACE::united kingdom
+782,NATIONALITY::british
+782,PERSON::queen elizabeth ii
+782,WORK::2014 birthday honours
+783,OTHER::2015 queen's birthday honours
+783,OTHER::commonwealth realms
+783,PERSON::queen elizabeth ii
+783,PLACE::australia
+783,PLACE::belize
+783,PLACE::grenada
+783,PLACE::new zealand
+783,PLACE::papua new guinea
+783,PLACE::saint lucia
+783,PLACE::solomon islands
+783,PLACE::tuvalu
+783,PLACE::united kingdom
+784,OTHER::2016 queen's birthday honours
+784,OTHER::commonwealth realms
+784,PERSON::queen elizabeth ii
+784,PLACE::new zealand
+784,PLACE::united kingdom
+786,OTHER::1965 birthday honours
+786,PERSON::queen elizabeth ii
+786,WORK::queen's birthday honours 1965
+787,NATIONALITY::british
+787,PERSON::george v
+787,PLACE::united kingdom
+788,OTHER::british empire
+788,OTHER::ceylon
+788,OTHER::commonwealth realms
+788,OTHER::pakistan
+788,PLACE::australia
+788,PLACE::new zealand
+788,WORK::1951 birthday honours
+789,PERSON::queen elizabeth ii
+789,WORK::2013 birthday honours
+790,OTHER::king george v
+790,WORK::1925 birthday honours
+791,NATIONALITY::american
+791,OTHER::slot car business and racing facility
+791,OTHER::software tester
+791,PERSON::steven d. smith
+791,PLACE::new hampshire
+792,PERSON::alonzo ames miner
+792,"PLACE::lempster, new hampshire"
+792,WORK::miner memorial library
+793,PLACE::new hampshire
+793,"PLACE::sullivan county, new hampshire"
+794,PLACE::dover
+794,PLACE::new hampshire
+794,PLACE::strafford county
+794,PLACE::united states
+795,PLACE::grafton county
+795,PLACE::haverhill
+795,PLACE::new hampshire
+795,PLACE::woodsville
+795,WORK::ammonoosuc river
+795,WORK::connecticut river
+796,OTHER::pioneer valley
+796,OTHER::united states
+796,PERSON::john hampden
+796,PLACE::berkshire county
+796,PLACE::connecticut
+796,"PLACE::hampden county, massachusetts"
+796,PLACE::hampshire county
+796,PLACE::massachusetts
+796,PLACE::northampton
+796,PLACE::springfield
+796,PLACE::worcester county
+797,"PLACE::carroll county, new hampshire"
+797,PLACE::new hampshire
+797,PLACE::ossipee
+797,PLACE::united states
+798,PLACE::east lempster
+798,PLACE::lempster
+798,PLACE::new hampshire
+798,PLACE::sullivan county
+798,PLACE::united states
+799,ORGANIZATION::douglas county
+799,PLACE::gardenerville
+799,PLACE::minden
+799,WORK::gardnerville branch jail
+800,PLACE::lempster
+800,PLACE::new hampshire
+800,PLACE::sullivan county
+800,PLACE::united states
+801,NATIONALITY::american
+801,PERSON::bob seger
+801,WORK::ride out
+802,ORGANIZATION::heaven music
+802,ORGANIZATION::wind hellas
+802,PERSON::despina vandi
+802,PERSON::phoebus
+802,WORK::10 hronia mazi
+803,NATIONALITY::american
+803,PERSON::bob seger
+803,"PLACE::detroit, michigan"
+804,DATE::february 1980
+804,OTHER::silver bullet band
+804,OTHER::united states
+804,PERSON::bob seger
+804,WORK::against the wind
+805,DATE::july 26
+805,NATIONALITY::american
+805,PERSON::gary francis caine cherone
+806,NATIONALITY::american
+806,PERSON::mark britten
+806,"PLACE::arlington, texas"
+807,ORGANIZATION::alan parsons project
+807,OTHER::rock opera
+807,PERSON::eric woolfson
+807,WORK::freudiana
+808,OTHER::greatest hits albums
+808,OTHER::single compilations
+808,OTHER::soundtrack albums
+808,OTHER::studio albums
+808,PERSON::anggun
+809,OTHER::capitol records
+809,OTHER::may 1978
+809,PERSON::bob seger
+809,WORK::stranger in town
+810,OTHER::uk
+810,PERSON::robert plant
+810,WORK::heaven knows
+811,OTHER::great patriotic war
+811,PERSON::gennady vorobyov
+811,PERSON::ivan svyda
+811,PERSON::viktor yanukovych
+811,PERSON::volodymyr derkach
+811,PLACE::kiev
+811,WORK::2010 kiev victory day parade
+812,ORGANIZATION::united states supreme court
+812,PERSON::bernard d. rostker
+812,WORK::rostker v. goldberg
+813,OTHER::pay-pension equity
+813,WORK::one rank one pension
+814,NATIONALITY::canadian
+814,PERSON::jonathan vance
+814,WORK::chief of the defence staff (canada)
+815,OTHER::various parades held simultaneously nationwide on september 16
+815,PERSON::president of mexico
+815,PLACE::mexico city
+815,PLACE::zócalo
+815,WORK::mexican armed forces
+815,WORK::september 16 military parade
+816,NATIONALITY::colombian
+816,PERSON::fernando tapias stahelin
+816,PLACE::colombia
+817,OTHER::conscription in the united states
+817,OTHER::selective training and service act
+817,OTHER::united states armed forces
+817,PLACE::united states
+817,WORK::american civil war
+817,WORK::cold war
+817,WORK::world war i
+817,WORK::world war ii
+818,OTHER::2000
+818,WORK::military covenant
+819,"OTHER::military parades, equipment reviews, showcases and remembrances by all branches of the polish armed forces"
+819,OTHER::poland
+819,WORK::armed forces day (poland)
+820,OTHER::african-americans
+820,OTHER::civil rights
+820,OTHER::franklin d. roosevelt
+820,OTHER::united states
+820,PERSON::t. arnold hill
+820,PERSON::walter francis white
+820,WORK::executive order 8802
+820,WORK::fair employment practice committee (fepc)
+821,ORGANIZATION::canyon creek food company
+821,OTHER::fresh soups and other prepared food products
+821,PLACE::edmonton
+822,OTHER::united states
+822,PERSON::robert ehrlich
+822,WORK::robert's american gourmet food
+823,OTHER::food network
+823,PERSON::joey fatone
+823,WORK::rewrapped
+824,NATIONALITY::american
+824,"ORGANIZATION::pepsico, inc."
+824,"PLACE::purchase, new york"
+825,"ORGANIZATION::snackbox food holdings co, ltd"
+825,PLACE::korea
+825,PLACE::mokdong-ri gyoha-eup paju gyeonggi-do
+826,ORGANIZATION::arnott's biscuits holdings pty ltd
+826,ORGANIZATION::campbell soup company
+826,ORGANIZATION::snack brands australia
+826,ORGANIZATION::snack foods limited
+826,ORGANIZATION::the real mccoy snackfood co
+828,ORGANIZATION::general foods corporation
+828,ORGANIZATION::mondelēz international
+828,ORGANIZATION::pepsico
+828,ORGANIZATION::the smith's snackfood company
+828,OTHER::frito-lay
+828,WORK::twisties
+829,ORGANIZATION::mondelez international
+829,WORK::handi-snacks
+830,NATIONALITY::american
+830,ORGANIZATION::kraft foods inc
+830,"ORGANIZATION::mondelez international, inc."
+830,PLACE::illinois
+831,OTHER::queer bathroom monologues
+831,OTHER::t is for teacher
+831,PERSON::sheila cavanagh
+832,OTHER::president barack obama
+832,OTHER::white house counsel
+832,PERSON::gregory bestor 'greg' craig
+833,PERSON::bill clinton
+833,PERSON::connie mariano
+833,WORK::the white house doctor
+834,PERSON::john f. kennedy
+834,PERSON::mimi alford
+834,PERSON::robert dallek
+834,WORK::once upon a secret
+835,ORGANIZATION::world ahead publishing
+835,PERSON::bill clinton
+835,PERSON::candice e. jackson
+835,PERSON::monica lewinsky
+835,WORK::their lives
+836,OTHER::barack obama
+836,OTHER::schultz group
+836,PERSON::eric schultz
+837,NATIONALITY::american
+837,PERSON::william h. ginsburg
+837,PLACE::united states
+838,NATIONALITY::american
+838,PERSON::mark d. fabiani
+838,PLACE::los angeles
+839,DATE::july 23
+839,NATIONALITY::american
+839,PERSON::monica lewinsky
+840,PERSON::bill clinton
+840,PERSON::monica lewinsky
+840,WORK::lewinsky scandal
+841,"OTHER::black, manafort & stone"
+841,PERSON::donald trump
+841,PERSON::gerald ford
+841,PERSON::paul manafort
+841,"PLACE::washington, d.c."
+842,ORGANIZATION::hbo
+842,PERSON::donald trump
+842,PERSON::john oliver
+842,WORK::last week tonight with john oliver
+843,NATIONALITY::american
+843,PERSON::brad parscale
+843,PLACE::united states
+844,OTHER::albums
+844,OTHER::bands
+844,OTHER::music
+844,OTHER::songs
+844,PERSON::donald trump
+845,OTHER::trump campaign–russian meeting
+845,PERSON::donald trump jr.
+845,PERSON::emin agalarov
+845,PERSON::jared kushner
+845,PERSON::paul manafort
+845,PERSON::rob goldstone
+847,ORGANIZATION::reform party
+847,PERSON::donald trump
+847,PERSON::jesse ventura
+847,PERSON::pat buchanan
+848,"ORGANIZATION::fabrizio, lee & associates"
+848,ORGANIZATION::u.s. chamber of commerce
+848,PERSON::anthony fabrizio
+848,PERSON::bob dole
+848,PERSON::donald trump
+848,PERSON::rand paul
+848,PERSON::rick perry
+849,NATIONALITY::american
+849,PERSON::david urban
+851,PERSON::maiya williams
+851,WORK::the golden hour
+852,OTHER::russia
+852,PERSON::fyodor dostoyevsky
+852,WORK::crime and punishment
+853,PERSON::marco dutra
+853,WORK::quando eu era vivo
+854,OTHER::lewis wetzel
+854,OTHER::trilogy
+854,PERSON::zane grey
+854,WORK::spirit of the border
+855,OTHER::2004 novel
+855,OTHER::italy
+855,PERSON::gabriella ambrosio
+855,WORK::before we say goodbye
+856,OTHER::brighton
+856,OTHER::myriad editions
+856,PERSON::nina de la mer
+856,WORK::4 a.m.
+857,OTHER::berlin
+857,PERSON::erich maria remarque
+857,WORK::three comrades
+858,ORGANIZATION::geração conteúdo
+858,ORGANIZATION::primo filmes
+858,ORGANIZATION::rt features
+858,PERSON::heitor dhalia
+858,PERSON::selton mello
+858,WORK::drained
+859,OTHER::nina (work)
+859,PERSON::lourenço mutarelli
+860,NATIONALITY::english
+860,PERSON::nina bawden
+860,WORK::the birds on the trees
+861,PLACE::hermigua
+861,PLACE::la gomera
+861,PLACE::santa cruz de tenerife
+861,PLACE::spain
+861,WORK::garajonay national park
+862,PLACE::canary islands
+862,PLACE::la gomera
+862,PLACE::spain
+862,WORK::garajonay national park
+863,PLACE::spain
+863,PLACE::tenerife
+863,WORK::teide national park
+864,PLACE::crater lake national park
+864,PLACE::oregon
+865,ORGANIZATION::glacier national park fund
+865,ORGANIZATION::national park service
+865,OTHER::billy bowman
+865,PLACE::montana
+865,PLACE::west glacier
+866,PLACE::la orotava
+866,PLACE::tenerife
+866,WORK::roque cinchado
+866,WORK::teide national park
+867,OTHER::codeso del pico
+867,OTHER::corona forestal nature park
+867,PLACE::canary islands
+867,WORK::adenocarpus viscosus
+867,WORK::teide national park
+868,OTHER::germany
+868,PLACE::tenerife
+868,WORK::atman foundation
+868,WORK::training centre for release of the atma-energy
+869,PLACE::australia
+869,PLACE::victoria
+869,WORK::alpine national park
+870,PLACE::british columbia
+870,PLACE::washington
+870,WORK::north cascades national park
+871,ORGANIZATION::random house
+871,ORGANIZATION::us
+871,PERSON::roald dahl
+871,WORK::roald dahl: collected stories
+872,PERSON::roald dahl
+872,WORK::the collected short stories of roald dahl
+873,NATIONALITY::british
+873,PERSON::roald dahl
+873,PLACE::united kingdom
+874,PERSON::roald dahl
+874,WORK::the best of roald dahl
+875,OTHER::terence hardiman
+875,"PLACE::church street, aylesbury, buckinghamshire, england"
+875,WORK::roald dahl children's gallery
+876,OTHER::short stories
+876,PERSON::roald dahl
+876,WORK::roald dahl short stories bibliography
+877,OTHER::bowl-like shape
+877,PERSON::roald dahl
+877,PLACE::cardiff
+877,PLACE::cardiff bay
+877,PLACE::roald dahl plass
+877,PLACE::wales
+878,PERSON::roald dahl
+878,WORK::mrs. bixby and the colonel's coat
+879,OTHER::children's author
+879,OTHER::puffin books
+879,PERSON::roald dahl
+879,PLACE::united kingdom
+879,WORK::the roald dahl treasury
+880,OTHER::music theatre international
+880,WORK::roald dahl's willy wonka
+881,PERSON::chris menges
+881,PERSON::linda mvusi
+881,PLACE::bloemfontein
+881,WORK::a world apart
+882,PERSON::chris menges
+882,PERSON::sarah radclyffe
+882,WORK::second best (film)
+883,PERSON::aram avakian
+883,PERSON::candice bergen
+883,PERSON::charles grodin
+883,PERSON::james mason
+883,PERSON::john gielgud
+883,PERSON::trevor howard
+883,WORK::11 harrowhouse
+884,PERSON::aram avakian
+884,PERSON::harris yulin
+884,PERSON::james earl jones
+884,PERSON::john barth
+884,PERSON::stacy keach
+884,WORK::end of the road
+885,DATE::15 september 1940
+885,NATIONALITY::english
+885,PERSON::chris menges
+886,OTHER::companies from the uk and zimbabwe
+886,OTHER::zimbabwe
+886,PERSON::chris menges
+886,PERSON::joe slovo
+886,PERSON::ruth first
+886,PERSON::shawn slovo
+886,WORK::a world apart
+887,PERSON::aram avakian
+887,PERSON::cliff gorman
+887,PERSON::donald e. westlake
+887,PERSON::joseph bologna
+887,WORK::cops and robbers (1973 film)
+888,PERSON::aram a. avakian
+888,WORK::end of the road
+888,WORK::jazz on a summer's day
+889,PERSON::alan clarke
+889,PERSON::david leland
+889,WORK::made in britain
+891,ORGANIZATION::chicago public media
+891,OTHER::three non-commercial educational fm broadcast stations and one fm translator
+891,PLACE::navy pier
+893,DATE::20 april 1952
+893,NATIONALITY::british-australian
+893,PERSON::andrew jaspan
+894,OTHER::broadcast news media
+894,OTHER::internet
+894,OTHER::magazine or newspaper
+894,WORK::advice column
+896,PLACE::providence
+896,PLACE::rhode island
+896,WORK::990wbob
+897,ORGANIZATION::accessible media
+897,"OTHER::entertaining, informing and empowering canadians who are blind or partially sighted"
+897,PLACE::canada
+898,PERSON::reinaldo escobar
+898,PERSON::yoani sánchez
+898,WORK::14ymedio
+900,ORGANIZATION::evidencenetwork.ca
+901,ORGANIZATION::film independent
+901,ORGANIZATION::friends of independents
+901,WORK::film independent spirit awards
+902,ORGANIZATION::independent spirit awards
+902,WORK::independent spirit award for best cinematography
+903,OTHER::mennonites
+903,PERSON::carlos reygadas
+903,PLACE::chihuahua state
+903,PLACE::cuauhtémoc
+903,WORK::silent light
+904,ORGANIZATION::film independent
+904,ORGANIZATION::sundance now
+904,OTHER::32nd independent spirit awards
+904,PERSON::john mulaney
+904,PERSON::nick kroll
+905,PERSON::andy samberg
+905,WORK::film independent spirit awards
+906,"DATE::april 22, 1946"
+906,NATIONALITY::american
+906,PERSON::john waters
+907,PERSON::john waters
+907,WORK::independent spirit awards
+908,ORGANIZATION::independent spirit awards
+908,OTHER::non-profit organization
+908,WORK::independent spirit award for best editing
+909,OTHER::independent spirit awards
+909,WORK::independent spirit award for best first feature
+910,OTHER::youth without youth
+910,PERSON::francis ford coppola
+910,PERSON::mihai mălaimare jr.
+910,PERSON::paul thomas anderson
+910,PLACE::romania
+911,PERSON::bill cosby
+911,PERSON::quincy jones
+911,WORK::the original jam sessions 1969
+912,ORGANIZATION::caesars entertainment corporation
+912,PLACE::las vegas strip
+912,PLACE::nevada
+912,PLACE::paradise
+912,WORK::flamingo las vegas
+913,PERSON::bill cosby
+913,PLACE::flamingo hotel
+913,PLACE::las vegas
+913,PLACE::nevada
+913,WORK::why is there air?
+914,PERSON::bill cosby
+914,WORK::disco bill
+915,OTHER::hikky burr
+915,PERSON::bill cosby
+915,PERSON::quincy jones
+915,WORK::smackwater jack
+915,WORK::the bill cosby show
+915,WORK::the original jam sessions 1969
+916,ORGANIZATION::partee records
+916,ORGANIZATION::stax records
+916,OTHER::stu gardner
+916,PERSON::bill cosby
+916,"PERSON::ray parker, jr."
+916,WORK::at last bill cosby really sings
+917,PERSON::bill cosby
+917,WORK::inside the mind of bill cosby
+918,OTHER::noah
+918,PERSON::bill cosby
+918,PLACE::greenwich village
+918,PLACE::new york city
+918,PLACE::the bitter end
+919,PERSON::bill cosby
+919,WORK::bill's best friend
+920,OTHER::1976
+920,PERSON::bill cosby
+920,"WORK::yes, yes, yes"
+921,ORGANIZATION::phillips distilling company
+921,PLACE::minneapolis
+921,WORK::prairie vodka
+921,WORK::revel stoke spiced whisky
+921,WORK::uv vodka
+922,WORK::flaming beverages
+923,WORK::energy drink
+923,WORK::energy shot
+924,ORGANIZATION::cytosport
+924,PLACE::benicia
+924,PLACE::california
+924,WORK::muscle milk
+925,WORK::soft drinks
+926,OTHER::1908
+926,OTHER::pickled onion
+926,WORK::gibson
+926,WORK::gin
+926,WORK::the world's drinks and how to mix them
+926,WORK::vermouth
+927,WORK::soft drink
+928,ORGANIZATION::rubicon drinks ltd
+928,PLACE::milton keynes
+928,PLACE::united kingdom
+929,WORK::zurracapote
+930,WORK::gin pennant
+931,ORGANIZATION::london review of books
+931,PLACE::london
+931,WORK::london international documentary festival
+932,PLACE::belgium
+932,PLACE::leuven
+932,WORK::docville
+933,PLACE::chagrin falls
+933,WORK::chagrin documentary film festival
+934,WORK::british journal
+934,WORK::the censor
+934,WORK::the traveller
+935,NATIONALITY::british
+935,WORK::london review of books
+936,PLACE::malaysia
+936,WORK::freedomfilmfest
+936,WORK::the komas freedom film festival
+936,WORK::universal declaration of human rights
+937,PERSON::raphaela neihausen
+937,PERSON::thom powers
+937,PLACE::chelsea
+937,PLACE::cinépolis
+937,PLACE::ifc center
+937,PLACE::new york city
+937,PLACE::sva theater
+937,PLACE::west village
+937,WORK::doc nyc
+938,ORGANIZATION::british psychological society
+938,ORGANIZATION::wiley-blackwell
+938,WORK::british journal of social psychology
+939,PERSON::john trenchard
+939,PERSON::thomas gordon
+939,WORK::cato's letters
+939,"WORK::essays on liberty, civil and religious"
+939,WORK::the independent whig
+941,OTHER::fairfax county park authority
+941,OTHER::united states
+941,PLACE::fairfax county
+941,PLACE::mclean
+941,PLACE::virginia
+941,WORK::scott's run
+941,WORK::scott's run nature preserve
+942,ORGANIZATION::general growth properties
+942,"PLACE::mclean, virginia"
+942,PLACE::tysons corner
+942,WORK::tysons galleria
+943,PLACE::dutchess county
+943,PLACE::town of poughkeepsie
+943,PLACE::u.s. 9
+943,PLACE::wappingers falls
+943,WORK::poughkeepsie galleria
+944,PLACE::fairfax county
+944,PLACE::tysons
+944,PLACE::virginia
+944,PLACE::washington metropolitan area
+945,OTHER::tysons corner unincorporated area
+945,PLACE::fairfax county
+945,PLACE::mclean
+945,PLACE::united states
+945,PLACE::vienna
+945,PLACE::virginia
+945,WORK::tysons corner center
+946,PLACE::atlanta
+946,PLACE::cobb county
+946,PLACE::cumberland/galleria district
+946,PLACE::united states
+946,WORK::cobb galleria centre
+947,PLACE::fairfax county
+947,PLACE::united states
+947,PLACE::virginia
+947,PLACE::west mclean
+948,PLACE::fairfax county
+948,PLACE::mclean
+948,PLACE::tysons corner
+948,PLACE::virginia
+948,WORK::silver line
+950,PLACE::fairfax county
+950,PLACE::tysons corner
+950,PLACE::virginia
+950,WORK::leesburg pike
+950,WORK::silver line
+950,WORK::spring hill
+951,"ORGANIZATION::cardinal health, inc."
+951,"PLACE::dublin, ohio"
+952,PERSON::terren scott peizer
+952,WORK::acuitas group holdings
+952,"WORK::catasys, inc."
+952,WORK::crede capital group
+952,"WORK::neurmedix, inc."
+953,"ORGANIZATION::bankunited, inc."
+953,PLACE::florida
+953,PLACE::miami lakes
+953,PLACE::new york
+954,ORGANIZATION::bbc
+954,OTHER::british
+954,OTHER::the apprentice
+954,PERSON::bordan tkachuk
+954,PERSON::lord sugar
+954,WORK::viglen
+955,ORGANIZATION::viglen ltd
+956,NATIONALITY::united states
+956,"ORGANIZATION::compass minerals international, inc"
+956,PLACE::kansas city
+956,PLACE::united kingdom
+957,ORGANIZATION::owens & minor
+957,"PLACE::mechanicsville, virginia"
+957,PLACE::richmond
+957,PLACE::united states
+958,"ORGANIZATION::kingstone companies, inc."
+958,ORGANIZATION::kingstone insurance company
+958,"ORGANIZATION::payments, inc"
+958,ORGANIZATION::professional insurance agents association
+958,"PLACE::kingston, new york"
+959,NATIONALITY::american
+959,PERSON::jonathan m. ansell
+959,PLACE::binghamton
+959,PLACE::new york
+959,WORK::merlinio insurance services
+959,WORK::merlinio technologies
+960,ORGANIZATION::clean power finance
+960,PLACE::california
+960,PLACE::san francisco
+961,ORGANIZATION::pt mataram surya visi sinema
+961,PERSON::aryanto yuniawan
+961,PLACE::jogja indonesia
+961,WORK::battle of surabaya
+962,ORGANIZATION::def jam recordings
+962,OTHER::jermaine dupri
+962,OTHER::lev berlak
+962,OTHER::mike mosley
+962,OTHER::rick rock
+962,PERSON::ali malik
+962,PERSON::dj daryl
+962,PERSON::doug rasheed
+962,PERSON::richie rich
+963,PERSON::evgeny svyatsky
+963,PERSON::lev evzovich
+963,PERSON::tatiana arzamasova
+963,PERSON::vladimir fridkes
+963,WORK::aes+f
+964,OTHER::amora of the third century
+964,OTHER::contemporary of r. ammi
+964,PERSON::anani ben sason
+964,PERSON::r. ammi
+964,PERSON::r. eleazar
+964,PERSON::r. oshaiah
+964,PLACE::land of israel
+965,NATIONALITY::russian
+965,NATIONALITY::soviet
+965,ORGANIZATION::rsfsr
+965,OTHER::kuleshov effect
+965,OTHER::moscow film school
+965,PERSON::lev vladimirovich kuleshov
+966,"ORGANIZATION::cuneo gilbert & laduca, llp"
+966,OTHER::lobbying practice
+966,PERSON::pamela b. gilbert
+966,PLACE::united states
+967,DATE::1973
+967,PERSON::levni yilmaz
+967,PLACE::san francisco
+968,OTHER::jerusalem
+968,PERSON::eliezer ben jacob i
+968,PLACE::temple at jerusalem
+969,OTHER::alice guy-blache
+969,OTHER::be natural: the untold story of alice guy-blache
+969,PERSON::pamela b. green
+970,ORGANIZATION::case western reserve university
+970,OTHER::institute of medicine
+970,OTHER::school of medicine
+970,PERSON::pamela b. davis
+971,PLACE::hong kong
+971,WORK::passport
+972,PLACE::morocco
+972,PLACE::rabat
+973,PLACE::china
+973,PLACE::north korea
+973,WORK::sinŭiju special administrative region
+974,OTHER::mindanao
+974,OTHER::philippines
+974,PLACE::agusan del norte
+974,PLACE::agusan del sur
+974,PLACE::caraga
+974,PLACE::surigao del norte
+974,PLACE::surigao del sur
+975,ORGANIZATION::people's republic of china
+975,ORGANIZATION::standing committee of the national people's congress
+975,OTHER::2014 npcsc decision on hong kong
+975,PLACE::hong kong special administrative region
+976,OTHER::luzon
+976,PLACE::cagayan valley
+976,PLACE::central luzon
+976,PLACE::cordillera administrative region
+976,PLACE::south china sea
+976,WORK::ilocos region
+977,ORGANIZATION::state council
+977,PLACE::ngawa tibetan and qiang autonomous prefecture
+977,PLACE::sichuan
+977,PLACE::wenchuan county
+977,WORK::wolong special administrative region
+978,NATIONALITY::moroccan
+978,PLACE::people's republic of china
+978,PLACE::rabat
+978,WORK::moroccan ambassador to china
+979,ORGANIZATION::central people's government of the people's republic of china
+979,PLACE::hong kong special administrative region
+979,WORK::liaison office of the central people's government in the hong kong special administrative region
+979,WORK::new china news agency
+980,ORGANIZATION::people's republic of china
+980,ORGANIZATION::seventh national people's congress
+980,PERSON::yang shangkun
+980,WORK::basic law of the hong kong special administrative region of the people's republic of china
+981,PLACE::china
+981,PLACE::fuding city
+981,PLACE::fujian province
+981,PLACE::ningde
+981,WORK::fuding railway station
+982,PLACE::bohai sea
+982,PLACE::liaoning
+982,PLACE::people's republic of china
+982,PLACE::yingkou
+982,WORK::liao river
+983,PLACE::fuding
+983,PLACE::ningde
+983,PLACE::zhejiang
+984,PLACE::shenyang
+984,PLACE::yingkou
+984,WORK::roman catholic diocese of yingkou
+985,OTHER::3 february 2016
+985,PLACE::china
+985,PLACE::lanqi village
+985,PLACE::liaoning province
+985,PLACE::xishi district
+985,WORK::yingkou lanqi airport
+986,PLACE::fuding
+986,PLACE::fujian
+986,PLACE::people's republic of china
+986,PLACE::tongcheng
+987,PLACE::fujian
+987,PLACE::ningde
+987,PLACE::people's republic of china
+987,WORK::xiapu
+988,PLACE::china
+988,PLACE::fuding city
+988,PLACE::fujian province
+988,PLACE::ningde
+988,WORK::taimushan railway station
+989,PLACE::china
+989,PLACE::dashiqiao
+989,PLACE::liaoning province
+989,WORK::yingkou east railway station
+990,PLACE::bayuquan
+990,PLACE::china
+990,PLACE::liaoning
+990,PLACE::yingkou
+990,WORK::bayuquan railway station

@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# Notebook / OS files
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs
+*.log
+
+# Local environments
+venv/
+.venv/

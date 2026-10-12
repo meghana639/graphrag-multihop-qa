@@ -1,0 +1,1689 @@
+source_key,relation,target_key,doc_id,title
+WORK::ed wood (film),DIRECTED_BY,PERSON::tim burton,0,Ed Wood (film)
+WORK::ed wood (film),PRODUCED_BY,PERSON::tim burton,0,Ed Wood (film)
+WORK::ed wood (film),STARS,PERSON::johnny depp,0,Ed Wood (film)
+WORK::ed wood (film),STARS,PERSON::bela lugosi,0,Ed Wood (film)
+PERSON::scott derrickson,LIVES_IN,"PLACE::los angeles, california",1,Scott Derrickson
+PLACE::woodson,LOCATED_IN,PLACE::pulaski county,2,"Woodson, Arkansas"
+PLACE::woodson,LOCATED_IN,WORK::little rock–north little rock–conway metropolitan statistical area,2,"Woodson, Arkansas"
+PERSON::tyler bates,COLLABORATED_WITH,PERSON::james gunn,3,Tyler Bates
+PERSON::edward davis wood jr.,LIVES_IN,PLACE::united states,4,Ed Wood
+PERSON::edward davis wood jr.,NATIONALITY,NATIONALITY::american,4,Ed Wood
+PERSON::edward davis wood jr.,BORN_ON,DATE::1924-10-10,4,Ed Wood
+PERSON::edward davis wood jr.,DIED_ON,DATE::1978-12-10,4,Ed Wood
+WORK::deliver us from evil (2014 film),DIRECTED_BY,PERSON::scott derrickson,5,Deliver Us from Evil (2014 film)
+WORK::deliver us from evil (2014 film),PRODUCED_BY,PERSON::jerry bruckheimer,5,Deliver Us from Evil (2014 film)
+WORK::deliver us from evil (2014 film),STARS,PERSON::eric bana,5,Deliver Us from Evil (2014 film)
+WORK::deliver us from evil (2014 film),STARS,PERSON::édgar ramírez,5,Deliver Us from Evil (2014 film)
+PERSON::adam collis,NATIONALITY,NATIONALITY::american,6,Adam Collis
+PERSON::adam collis,LIVES_IN,PLACE::united states,6,Adam Collis
+WORK::sinister,DIRECTED_BY,PERSON::scott derrickson,7,Sinister (film)
+PERSON::conrad brooks,LIVES_IN,"PLACE::baltimore, maryland",8,Conrad Brooks
+PERSON::conrad brooks,LIVES_IN,"PLACE::hollywood, california",8,Conrad Brooks
+WORK::doctor strange (2016 film),DIRECTED_BY,PERSON::scott derrickson,9,Doctor Strange (2016 film)
+WORK::doctor strange (2016 film),STARS,PERSON::benedict cumberbatch,9,Doctor Strange (2016 film)
+WORK::corliss archer,LOCATED_IN,OTHER::golden age,10,Meet Corliss Archer
+PERSON::shirley temple black,LIVES_IN,PLACE::united states,11,Shirley Temple
+WORK::meet corliss archer (tv series),LOCATED_IN,OTHER::united states,13,Meet Corliss Archer (TV series)
+WORK::lord high treasurer,PART_OF,OTHER::english government position,14,Lord High Treasurer
+WORK::lord high treasurer,PART_OF,OTHER::british government position,14,Lord High Treasurer
+WORK::lord high treasurer,LOCATED_IN,OTHER::acts of union of 1707,14,Lord High Treasurer
+WORK::a kiss for corliss,DIRECTED_BY,PERSON::richard wallace,15,A Kiss for Corliss
+WORK::a kiss for corliss,STARS,PERSON::shirley temple,15,A Kiss for Corliss
+WORK::kiss and tell,STARS,PERSON::shirley temple,16,Kiss and Tell (1945 film)
+PERSON::shirley temple,KNOWN_FOR,WORK::corliss archer,16,Kiss and Tell (1945 film)
+WORK::secretary of state for constitutional affairs,LOCATED_IN,OTHER::british government,17,Secretary of State for Constitutional Affairs
+WORK::village accountant,PART_OF,OTHER::indian sub-continent,18,Village accountant
+WORK::village accountant,KNOWN_FOR,OTHER::administrative government position,18,Village accountant
+WORK::village accountant,LOCATED_IN,OTHER::rural parts of the indian sub-continent,18,Village accountant
+PERSON::charles craft,LIVES_IN,PLACE::los angeles,19,Charles Craft
+PERSON::charles craft,DIED_ON,"DATE::september 19, 1968",19,Charles Craft
+WORK::andre norton award,KNOWN_FOR,OTHER::science fiction and fantasy,20,Andre Norton Award
+WORK::andre norton award,LOCATED_IN,OTHER::united states,20,Andre Norton Award
+WORK::andre norton award,COLLABORATED_WITH,WORK::nebula awards,20,Andre Norton Award
+PERSON::victoria hanley,NATIONALITY,NATIONALITY::american,21,Victoria Hanley
+WORK::the hork-bajir chronicles,PRODUCED_BY,PERSON::k. a. applegate,22,The Hork-Bajir Chronicles
+WORK::the hork-bajir chronicles,PART_OF,OTHER::animorphs series,22,The Hork-Bajir Chronicles
+WORK::shadowshaper,PART_OF,DATE::2015,23,Shadowshaper
+PERSON::sierra santiago,LIVES_IN,PLACE::brooklyn,23,Shadowshaper
+PERSON::sierra santiago,KNOWN_FOR,OTHER::shadowshaping,23,Shadowshaper
+WORK::left behind: the kids,LOCATED_IN,OTHER::united states,24,Left Behind: The Kids
+ORGANIZATION::digicube,LOCATED_IN,PLACE::japan,25,List of Square Enix companion books
+WORK::the divide trilogy,PART_OF,OTHER::fantasy young adult novel,26,The Divide trilogy
+WORK::the divide trilogy,LOCATED_IN,OTHER::alternate universe,26,The Divide trilogy
+ORGANIZATION::nova publications,LOCATED_IN,OTHER::british,27,Science Fantasy (magazine)
+ORGANIZATION::nova publications,COLLABORATED_WITH,WORK::new worlds,27,Science Fantasy (magazine)
+WORK::animorphs,PRODUCED_BY,PERSON::michael grant,28,Animorphs
+WORK::etiquette & espionage,PART_OF,OTHER::steampunk,29,Etiquette &amp; Espionage
+WORK::etiquette & espionage,STARS,PERSON::gail carriger,29,Etiquette &amp; Espionage
+WORK::etiquette & espionage,LOCATED_IN,OTHER::same universe,29,Etiquette &amp; Espionage
+WORK::etiquette & espionage,COLLABORATED_WITH,OTHER::parasol protectorate adult series,29,Etiquette &amp; Espionage
+PERSON::esma sultan,LIVES_IN,PLACE::ottoman,30,Esma Sultan (daughter of Abdülaziz)
+PERSON::esma sultan,BORN_ON,DATE::21 march 1873,30,Esma Sultan (daughter of Abdülaziz)
+PERSON::esma sultan,DIED_ON,DATE::7 may 1899,30,Esma Sultan (daughter of Abdülaziz)
+WORK::djamaâ el kebir,LOCATED_IN,PLACE::algiers,31,Djamaâ el Kebir
+WORK::djamaâ el kebir,LOCATED_IN,PLACE::algeria,31,Djamaâ el Kebir
+PERSON::küçük hüseyin pasha,NATIONALITY,NATIONALITY::ottoman,32,Küçük Hüseyin Pasha
+PERSON::esma sultan,NATIONALITY,NATIONALITY::ottoman,33,Esma Sultan (daughter of Abdul Hamid I)
+PERSON::abdul hamid i,DIED_ON,DATE::4 june 1848,33,Esma Sultan (daughter of Abdul Hamid I)
+PERSON::esma sultan,LIVES_IN,PLACE::ottoman empire,33,Esma Sultan (daughter of Abdul Hamid I)
+WORK::sultan ahmed mosque,LOCATED_IN,PLACE::istanbul,34,Sultan Ahmed Mosque
+WORK::sultan ahmed mosque,LOCATED_IN,PLACE::turkey,34,Sultan Ahmed Mosque
+WORK::laleli mosque,LOCATED_IN,PLACE::fatih,35,Laleli Mosque
+WORK::laleli mosque,LOCATED_IN,PLACE::istanbul,35,Laleli Mosque
+WORK::laleli mosque,LOCATED_IN,PLACE::turkey,35,Laleli Mosque
+WORK::esma sultan mansion,LOCATED_IN,PLACE::ortaköy neighborhood,36,Esma Sultan Mansion
+WORK::esma sultan mansion,LOCATED_IN,PLACE::istanbul,36,Esma Sultan Mansion
+WORK::esma sultan mansion,LOCATED_IN,PLACE::turkey,36,Esma Sultan Mansion
+PERSON::gevheri kadın,NATIONALITY,NATIONALITY::ottoman empire,38,Gevheri Kadın
+PERSON::gevheri kadın,BORN_ON,DATE::8 july 1856,38,Gevheri Kadın
+PERSON::gevheri kadın,DIED_ON,DATE::6 september 1884,38,Gevheri Kadın
+PERSON::esma sultan,NATIONALITY,NATIONALITY::ottoman,39,Esma Sultan (daughter of Ahmed III)
+PERSON::esma sultan,BORN_ON,DATE::14 march 1726,39,Esma Sultan (daughter of Ahmed III)
+PERSON::esma sultan,DIED_ON,DATE::13 august 1788,39,Esma Sultan (daughter of Ahmed III)
+PERSON::esma sultan,KNOWN_FOR,OTHER::ottoman princess,39,Esma Sultan (daughter of Ahmed III)
+WORK::just another romantic wrestling comedy,STARS,PERSON::april hunter,40,Just Another Romantic Wrestling Comedy
+WORK::just another romantic wrestling comedy,STARS,PERSON::joanie laurer,40,Just Another Romantic Wrestling Comedy
+WORK::kingston morning,PRODUCED_BY,PERSON::dave eggar,41,Kingston Morning
+WORK::kingston morning,LOCATED_IN,"OTHER::brooklyn, new york",41,Kingston Morning
+WORK::kingston morning,LOCATED_IN,"OTHER::kingston, jamaica",41,Kingston Morning
+WORK::kingston morning,LOCATED_IN,"OTHER::big stone gap, virginia",41,Kingston Morning
+WORK::nola (film),LOCATED_IN,PLACE::new york city,42,Nola (film)
+PERSON::adriana trigiani,LIVES_IN,"PLACE::greenwich village, new york city",43,Adriana Trigiani
+PERSON::adriana trigiani,NATIONALITY,NATIONALITY::american,43,Adriana Trigiani
+"ORGANIZATION::great eastern conventions, inc.",LOCATED_IN,PLACE::new york city,44,Great Eastern Conventions
+ORGANIZATION::new york society of model engineers,LOCATED_IN,"OTHER::carlstadt, new jersey",45,New York Society of Model Engineers
+ORGANIZATION::new york society of model engineers,LOCATED_IN,"OTHER::hoboken,nj",45,New York Society of Model Engineers
+PLACE::clinton,LOCATED_IN,PLACE::big stone county,46,"Clinton, Minnesota"
+PLACE::clinton,LOCATED_IN,PLACE::minnesota,46,"Clinton, Minnesota"
+PLACE::clinton,LOCATED_IN,PLACE::united states,46,"Clinton, Minnesota"
+WORK::hamish & andy's gap year,LOCATED_IN,PLACE::new york city,47,Hamish and Andy's Gap Year
+WORK::hamish & andy's gap year,LOCATED_IN,OTHER::east london,47,Hamish and Andy's Gap Year
+WORK::i love ny (2015 film),DIRECTED_BY,PERSON::radhika rao,48,I Love NY (2015 film)
+WORK::i love ny (2015 film),DIRECTED_BY,PERSON::vinay sapru,48,I Love NY (2015 film)
+WORK::i love ny (2015 film),STARS,PERSON::sunny deol,48,I Love NY (2015 film)
+WORK::i love ny (2015 film),STARS,PERSON::kangana ranaut,48,I Love NY (2015 film)
+WORK::big stone gap (film),PRODUCED_BY,PERSON::donna gigliotti,49,Big Stone Gap (film)
+WORK::big stone gap (film),DIRECTED_BY,PERSON::adriana trigiani,49,Big Stone Gap (film)
+PERSON::kyuhyun,BORN_ON,"DATE::february 3, 1988",51,Cho Kyuhyun
+PERSON::kyuhyun,NATIONALITY,NATIONALITY::south korean,51,Cho Kyuhyun
+WORK::2014 s/s,LOCATED_IN,OTHER::south korea,52,2014 S/S
+WORK::winner (band),LOCATED_IN,OTHER::south korea,54,Winner (band)
+ORGANIZATION::seventeen,LOCATED_IN,OTHER::south korea,58,Seventeen discography
+PERSON::james p. comer,LIVES_IN,"PLACE::east chicago, indiana",60,James P. Comer
+PERSON::method man,NATIONALITY,NATIONALITY::american,61,Method Man
+PERSON::indriati gerald bernardina,NATIONALITY,NATIONALITY::indonesian,62,Indriati Iskak
+PERSON::indriati gerald bernardina,BORN_ON,DATE::9 june 1942,62,Indriati Iskak
+PERSON::indriati gerald bernardina,LIVES_IN,PLACE::surabaya,62,Indriati Iskak
+PERSON::eenasul fateh,NATIONALITY,NATIONALITY::bangladeshi-british,63,Eenasul Fateh
+PERSON::eenasul fateh,BORN_ON,DATE::3 april 1959,63,Eenasul Fateh
+PERSON::mick batyske,NATIONALITY,NATIONALITY::american,64,Mick (DJ)
+PERSON::criss angel,LIVES_IN,PLACE::las vegas valley,65,Criss Angel
+PERSON::eldee,LIVES_IN,PLACE::lagos island,66,ELDee
+PERSON::eldee,NATIONALITY,NATIONALITY::american,66,ELDee
+WORK::management consulting,PART_OF,OTHER::practice,67,Management consulting
+PERSON::lil ru,LIVES_IN,"PLACE::ridgeway, south carolina",68,Lil Ru
+PERSON::amaruk kayshapanta,LIVES_IN,PLACE::quito,69,Amaruk Kayshapanta
+PERSON::amaruk kayshapanta,NATIONALITY,NATIONALITY::ecuadorian,69,Amaruk Kayshapanta
+WORK::billings bulls,LOCATED_IN,OTHER::billings,70,Billings Bulls
+WORK::robins center,LOCATED_IN,"PLACE::richmond, virginia",71,Robins Center
+WORK::2011–12 qmjhl season,LOCATED_IN,OTHER::quebec major junior hockey league (qmjhl),72,2011–12 QMJHL season
+WORK::case gym,LOCATED_IN,ORGANIZATION::boston university,74,Case Gym
+WORK::case gym,PART_OF,WORK::harold case physical education center,74,Case Gym
+WORK::androscoggin bank colisée,LOCATED_IN,PLACE::lewiston,75,Androscoggin Bank Colisée
+WORK::2007 mastercard memorial cup,LOCATED_IN,"PLACE::vancouver, british columbia",76,2007 Memorial Cup
+WORK::2007 mastercard memorial cup,PART_OF,OTHER::canadian hockey league (chl),76,2007 Memorial Cup
+WORK::lewiston maineiacs,LOCATED_IN,"OTHER::lewiston, maine",77,Lewiston Maineiacs
+WORK::lewiston maineiacs,PART_OF,OTHER::quebec major junior hockey league,77,Lewiston Maineiacs
+WORK::robert and concetta dwyer arena,LOCATED_IN,ORGANIZATION::niagara university,78,Dwyer Arena
+WORK::robert and concetta dwyer arena,LOCATED_IN,PLACE::lewiston,78,Dwyer Arena
+WORK::robert and concetta dwyer arena,LOCATED_IN,PLACE::new york,78,Dwyer Arena
+WORK::robert and concetta dwyer arena,LOCATED_IN,PLACE::united states,78,Dwyer Arena
+WORK::2006–07 qmjhl season,LOCATED_IN,OTHER::quebec major junior hockey league,79,2006–07 QMJHL season
+PERSON::annie morton,NATIONALITY,NATIONALITY::american,80,Annie Morton
+PERSON::annie morton,BORN_ON,"DATE::october 8, 1970",80,Annie Morton
+PERSON::annie morton,LIVES_IN,PLACE::pennsylvania,80,Annie Morton
+ORGANIZATION::st. martin's press,LOCATED_IN,OTHER::united states,81,Madonna (book)
+ORGANIZATION::michael o'mara books,LOCATED_IN,PLACE::united kingdom,81,Madonna (book)
+PERSON::terry richardson,NATIONALITY,NATIONALITY::american,82,Terry Richardson
+PERSON::terry richardson,BORN_ON,"DATE::august 14, 1965",82,Terry Richardson
+PERSON::lady gaga,LOCATED_IN,OTHER::united states,83,Lady Gaga x Terry Richardson
+WORK::gumbo,PRODUCED_BY,PERSON::pj morton,84,Gumbo (PJ Morton album)
+WORK::gumbo,LOCATED_IN,NATIONALITY::american,84,Gumbo (PJ Morton album)
+PERSON::pj morton,NATIONALITY,NATIONALITY::american,84,Gumbo (PJ Morton album)
+PERSON::amanda lepore,NATIONALITY,NATIONALITY::american,85,Amanda Lepore
+PERSON::amanda lepore,BORN_ON,"DATE::november 21, 1967",85,Amanda Lepore
+WORK::piano girl,DIRECTED_BY,PERSON::murat saraçoğlu,86,Piano Girl
+WORK::piano girl,STARS,PERSON::tarık akan,86,Piano Girl
+WORK::piano girl,STARS,PERSON::şerif sezer,86,Piano Girl
+WORK::index magazine,PRODUCED_BY,PERSON::peter halley,87,Index Magazine
+WORK::index magazine,PRODUCED_BY,PERSON::bob nickas,87,Index Magazine
+WORK::snoecks,LOCATED_IN,PLACE::belgium,88,Snoecks
+PERSON::kenton terry richardson,LIVES_IN,PLACE::england,89,Kenton Richardson
+PLACE::mendocino county,LOCATED_IN,PLACE::california,90,Mendocino County GMO Ban
+WORK::measure h,PART_OF,OTHER::mendocino county gmo ban,90,Mendocino County GMO Ban
+"WORK::united states senate election in illinois, 1978",LOCATED_IN,PLACE::illinois,91,"United States Senate election in Illinois, 1978"
+WORK::william h. cook water tank house,LOCATED_IN,"OTHER::jerome, idaho",92,William H. Cook Water Tank House
+WORK::william h. cook water tank house,LOCATED_IN,OTHER::united states,92,William H. Cook Water Tank House
+PLACE::amherst,LOCATED_IN,PLACE::hampshire county,93,"Amherst, Massachusetts"
+PLACE::hampshire county,LOCATED_IN,PLACE::massachusetts,93,"Amherst, Massachusetts"
+PLACE::amherst,LOCATED_IN,PLACE::connecticut river valley,93,"Amherst, Massachusetts"
+WORK::wilford h. fawcett house,LOCATED_IN,"PLACE::breezy point, minnesota",95,Wilford H. Fawcett House
+WORK::for against,LOCATED_IN,PLACE::lincoln,96,For Against
+WORK::for against,LOCATED_IN,PLACE::united states,96,For Against
+ORGANIZATION::ophur,LOCATED_IN,OTHER::dupage county,97,Ophur
+ORGANIZATION::ophur,PART_OF,OTHER::chicago suburbs,97,Ophur
+WORK::hallelujah! i'm a bum,PART_OF,ORGANIZATION::local h,99,Hallelujah! I'm a Bum (album)
+WORK::hallelujah! i'm a bum,LOCATED_IN,PLACE::chicago,99,Hallelujah! I'm a Bum (album)
+"PLACE::north kansas city, missouri",LOCATED_IN,"PLACE::clay county, missouri",100,"North Kansas City, Missouri"
+"PLACE::north kansas city, missouri",LOCATED_IN,"OTHER::missouri, united states",100,"North Kansas City, Missouri"
+ORGANIZATION::university of missouri–kansas city,LOCATED_IN,"PLACE::kansas city, missouri",101,University of Missouri–Kansas City
+ORGANIZATION::university of missouri–kansas city,COLLABORATED_WITH,"OTHER::truman medical center, children's mercy hospital, the missouri health department, the jackson county medical examiners office, and the missouri department of mental health behavioral medicine",101,University of Missouri–Kansas City
+WORK::kansas city jazz,PART_OF,OTHER::jazz,102,Kansas City jazz
+PLACE::kansas city,LOCATED_IN,WORK::kansas city jazz,102,Kansas City jazz
+PLACE::kansas city,LOCATED_IN,PLACE::new orleans,102,Kansas City jazz
+PLACE::kansas city,LOCATED_IN,PLACE::chicago,102,Kansas City jazz
+PLACE::kansas city,LOCATED_IN,PLACE::st. louis,102,Kansas City jazz
+PLACE::kansas city,LOCATED_IN,PLACE::philadelphia,102,Kansas City jazz
+PLACE::kansas city,LOCATED_IN,PLACE::new york city,102,Kansas City jazz
+WORK::kansas city scout,LOCATED_IN,PLACE::kansas city metropolitan area,103,Kansas City Scout
+WORK::kansas song,PART_OF,ORGANIZATION::university of kansas,104,Kansas Song
+WORK::downtown kansas city,LOCATED_IN,"PLACE::kansas city, missouri",105,Downtown Kansas City
+WORK::downtown kansas city,LOCATED_IN,PLACE::kansas city metropolitan area,105,Downtown Kansas City
+PLACE::kansas city metropolitan area,LOCATED_IN,PLACE::missouri,106,Kansas City metropolitan area
+PLACE::kansas city metropolitan area,LOCATED_IN,PLACE::kansas,106,Kansas City metropolitan area
+ORGANIZATION::university of the incarnate word,LOCATED_IN,PLACE::san antonio,107,University of the Incarnate Word
+ORGANIZATION::university of the incarnate word,LOCATED_IN,PLACE::alamo heights,107,University of the Incarnate Word
+PLACE::kansas city metropolitan area,LOCATED_IN,PLACE::missouri,108,History of the Kansas City metropolitan area
+PLACE::kansas city metropolitan area,LOCATED_IN,PLACE::kansas,108,History of the Kansas City metropolitan area
+ORGANIZATION::university of kansas,LOCATED_IN,PLACE::kansas,109,University of Kansas
+ORGANIZATION::university of kansas,LOCATED_IN,OTHER::lawrence,109,University of Kansas
+ORGANIZATION::university of kansas,LOCATED_IN,OTHER::overland park,109,University of Kansas
+ORGANIZATION::university of kansas,LOCATED_IN,OTHER::wichita,109,University of Kansas
+WORK::ungod,LOCATED_IN,"OTHER::chiswick, england",110,Ungod
+WORK::season of the witch (2011 film),DIRECTED_BY,PERSON::dominic sena,111,Season of the Witch (2011 film)
+WORK::season of the witch (2011 film),STARS,PERSON::nicolas cage,111,Season of the Witch (2011 film)
+WORK::season of the witch (2011 film),STARS,PERSON::ron perlman,111,Season of the Witch (2011 film)
+WORK::time to kill (1989 film),DIRECTED_BY,PERSON::giuliano montaldo,112,Time to Kill (1989 film)
+WORK::time to kill (1989 film),STARS,PERSON::nicolas cage,112,Time to Kill (1989 film)
+WORK::time to kill (1989 film),STARS,PERSON::ricky tognazzi,112,Time to Kill (1989 film)
+WORK::time to kill (1989 film),STARS,PERSON::giancarlo giannini,112,Time to Kill (1989 film)
+WORK::drive angry,DIRECTED_BY,PERSON::patrick lussier,116,Drive Angry
+WORK::drive angry,STARS,PERSON::nicolas cage,116,Drive Angry
+WORK::drive angry,STARS,PERSON::amber heard,116,Drive Angry
+WORK::it could happen to you,STARS,PERSON::nicolas cage,117,It Could Happen to You (1994 film)
+WORK::it could happen to you,STARS,PERSON::bridget fonda,117,It Could Happen to You (1994 film)
+WORK::city of angels (film),DIRECTED_BY,PERSON::brad silberling,118,City of Angels (film)
+WORK::city of angels (film),STARS,PERSON::nicolas cage,118,City of Angels (film)
+WORK::city of angels (film),STARS,PERSON::meg ryan,118,City of Angels (film)
+WORK::the family man,DIRECTED_BY,PERSON::brett ratner,119,The Family Man
+WORK::the family man,PRODUCED_BY,PERSON::nicolas cage,119,The Family Man
+WORK::the family man,STARS,PERSON::nicolas cage,119,The Family Man
+WORK::the family man,STARS,PERSON::téa leoni,119,The Family Man
+ORGANIZATION::guns n' roses,LOCATED_IN,"PLACE::los angeles, california",121,Guns N' Roses discography
+WORK::hammerjacks concert hall and nightclub,LOCATED_IN,OTHER::downtown baltimore,122,Hammerjack's
+WORK::hammerjacks concert hall and nightclub,PRODUCED_BY,PERSON::louis j. principio iii,122,Hammerjack's
+WORK::faction with jason ellis,LOCATED_IN,OTHER::sirius xm satellite radio,124,Faction Punk
+WORK::true lies,PRODUCED_BY,PERSON::james cameron,125,True Lies
+WORK::true lies,STARS,PERSON::arnold schwarzenegger,125,True Lies
+WORK::last action hero,DIRECTED_BY,PERSON::john mctiernan,126,Last Action Hero
+WORK::last action hero,PRODUCED_BY,PERSON::john mctiernan,126,Last Action Hero
+WORK::last action hero,STARS,PERSON::arnold schwarzenegger,126,Last Action Hero
+WORK::last action hero,STARS,PERSON::charles dance,126,Last Action Hero
+WORK::end of days (film),DIRECTED_BY,PERSON::peter hyams,127,End of Days (film)
+WORK::end of days (film),STARS,PERSON::arnold schwarzenegger,127,End of Days (film)
+WORK::end of days (film),STARS,PERSON::gabriel byrne,127,End of Days (film)
+WORK::end of days (film),STARS,PERSON::robin tunney,127,End of Days (film)
+WORK::oh my god,PART_OF,OTHER::end of days,128,Oh My God (Guns N' Roses song)
+WORK::get christie love!,STARS,PERSON::teresa graves,129,Get Christie Love!
+WORK::real estate benchmarking,KNOWN_FOR,OTHER::standard of measurement,130,Real estate benchmarking
+WORK::real estate benchmarking,KNOWN_FOR,OTHER::comparison of potential real estate investment properties,130,Real estate benchmarking
+PLACE::hounsfield heights/briar hill,LOCATED_IN,PLACE::calgary,131,"Hounsfield Heights/Briar Hill, Calgary"
+PLACE::hounsfield heights/briar hill,LOCATED_IN,PLACE::alberta,131,"Hounsfield Heights/Briar Hill, Calgary"
+PLACE::hounsfield heights/briar hill,LOCATED_IN,PLACE::canada,131,"Hounsfield Heights/Briar Hill, Calgary"
+ORGANIZATION::villard,LOCATED_IN,PLACE::madison avenue,132,Villard (imprint)
+WORK::888 7th avenue,LOCATED_IN,OTHER::midtown manhattan,133,888 7th Avenue
+WORK::888 7th avenue,KNOWN_FOR,WORK::red eye grill,133,888 7th Avenue
+WORK::random house tower,LOCATED_IN,PLACE::new york city,134,Random House Tower
+WORK::random house tower,LOCATED_IN,PLACE::united states,134,Random House Tower
+WORK::random house tower,PART_OF,OTHER::book publisher random house,134,Random House Tower
+WORK::random house tower,PART_OF,OTHER::luxury apartment complex,134,Random House Tower
+ORGANIZATION::pershing square capital management,LOCATED_IN,PLACE::new york,135,Pershing Square Capital Management
+WORK::carl b. stokes federal court house building,LOCATED_IN,"PLACE::cleveland, ohio",136,Carl B. Stokes United States Courthouse
+WORK::south phoenix,LOCATED_IN,PLACE::phoenix,138,South Phoenix
+WORK::south phoenix,LOCATED_IN,PLACE::gila river indian community,138,South Phoenix
+WORK::south phoenix,LOCATED_IN,PLACE::salt river,138,South Phoenix
+PERSON::joshua parlby,LIVES_IN,"PLACE::longton, staffordshire",139,Joshua Parlby
+PERSON::joshua parlby,NATIONALITY,NATIONALITY::english,139,Joshua Parlby
+WORK::sir matt busby sports complex,LOCATED_IN,PLACE::bellshill,141,Sir Matt Busby Sports Complex
+WORK::sir matt busby sports complex,LOCATED_IN,PLACE::north lanarkshire,141,Sir Matt Busby Sports Complex
+PERSON::james ernest mangnall,LIVES_IN,PLACE::england,142,Ernest Mangnall
+WORK::david beckham academy,LOCATED_IN,PLACE::london,143,David Beckham Academy
+WORK::david beckham academy,LOCATED_IN,PLACE::los angeles,143,David Beckham Academy
+WORK::the class of '92,PART_OF,OTHER::1992,145,The Class of '92
+WORK::the class of '92,LOCATED_IN,ORGANIZATION::manchester united,145,The Class of '92
+WORK::david beckham's soccer usa,LOCATED_IN,PLACE::united kingdom,146,David Beckham's Soccer USA
+WORK::david beckham's soccer usa,PART_OF,OTHER::major league soccer,146,David Beckham's Soccer USA
+PERSON::matt busby,LIVES_IN,PLACE::scotland,147,Matt Busby
+PERSON::alex ferguson,NATIONALITY,NATIONALITY::scottish,148,Alex Ferguson
+PERSON::alex ferguson,LIVES_IN,PLACE::manchester united,148,Alex Ferguson
+WORK::fishing lake,LOCATED_IN,PLACE::canadian province of saskatchewan,149,Fishing Lake
+WORK::fishing lake,LOCATED_IN,PLACE::foam lake,149,Fishing Lake
+WORK::fishing lake,LOCATED_IN,PLACE::wadena,149,Fishing Lake
+WORK::osage state fishing lake,LOCATED_IN,"OTHER::northern osage county, kansas",150,Osage State Fishing Lake
+WORK::osage state fishing lake,LOCATED_IN,PLACE::kansas,150,Osage State Fishing Lake
+WORK::brown state fishing lake,LOCATED_IN,"PLACE::brown county, kansas",151,Brown State Fishing Lake
+WORK::brown state fishing lake,LOCATED_IN,"PLACE::hiawatha, kansas",151,Brown State Fishing Lake
+WORK::neosho state fishing lake,LOCATED_IN,PLACE::kansas,152,Neosho State Fishing Lake
+WORK::narrow hills provincial park,LOCATED_IN,PLACE::saskatchewan,153,Narrow Hills Provincial Park
+WORK::narrow hills provincial park,LOCATED_IN,PLACE::canada,153,Narrow Hills Provincial Park
+WORK::shawnee state fishing lake,LOCATED_IN,"PLACE::northern shawnee county, kansas",154,Shawnee State Fishing Lake
+WORK::shawnee state fishing lake,LOCATED_IN,"PLACE::topeka, kansas",154,Shawnee State Fishing Lake
+PLACE::higgins lake,LOCATED_IN,PLACE::roscommon county,155,"Higgins Lake, Michigan"
+PLACE::higgins lake,LOCATED_IN,PLACE::michigan,155,"Higgins Lake, Michigan"
+WORK::higgins lake,LOCATED_IN,PLACE::roscommon county,156,Higgins Lake
+WORK::higgins lake,LOCATED_IN,PLACE::michigan,156,Higgins Lake
+WORK::commanda lake,LOCATED_IN,OTHER::almaguin highlands,157,Commanda Lake
+WORK::commanda lake,LOCATED_IN,OTHER::district of parry sound,157,Commanda Lake
+WORK::commanda lake,LOCATED_IN,PLACE::canada,157,Commanda Lake
+WORK::commanda lake,LOCATED_IN,OTHER::ontario,157,Commanda Lake
+PLACE::brown county,LOCATED_IN,PLACE::kansas,158,"Brown County, Kansas"
+WORK::2010–11 vermont catamounts men's basketball team,LOCATED_IN,ORGANIZATION::university of vermont,159,2010–11 Vermont Catamounts men's basketball team
+WORK::2010–11 vermont catamounts men's basketball team,PART_OF,OTHER::ncaa division i men's basketball season,159,2010–11 Vermont Catamounts men's basketball team
+WORK::2010–11 vermont catamounts men's basketball team,KNOWN_FOR,OTHER::america east conference regular season championship,159,2010–11 Vermont Catamounts men's basketball team
+WORK::2010–11 vermont catamounts men's basketball team,KNOWN_FOR,OTHER::national invitation tournament,159,2010–11 Vermont Catamounts men's basketball team
+WORK::2012–13 vermont catamounts men's basketball team,LOCATED_IN,PLACE::patrick gym,160,2012–13 Vermont Catamounts men's basketball team
+WORK::2012–13 vermont catamounts men's basketball team,DIRECTED_BY,PERSON::john becker,160,2012–13 Vermont Catamounts men's basketball team
+WORK::2012–13 vermont catamounts men's basketball team,PART_OF,ORGANIZATION::america east conference,160,2012–13 Vermont Catamounts men's basketball team
+WORK::2013–14 vermont catamounts men's basketball team,LOCATED_IN,PLACE::patrick gym,161,2013–14 Vermont Catamounts men's basketball team
+WORK::2013–14 vermont catamounts men's basketball team,DIRECTED_BY,PERSON::john becker,161,2013–14 Vermont Catamounts men's basketball team
+WORK::2013–14 vermont catamounts men's basketball team,PART_OF,ORGANIZATION::america east conference,161,2013–14 Vermont Catamounts men's basketball team
+ORGANIZATION::america east conference,LOCATED_IN,OTHER::northeastern united states,162,America East Conference
+ORGANIZATION::university of vermont,LOCATED_IN,WORK::vermont catamounts men's soccer,163,Vermont Catamounts men's soccer
+WORK::vermont catamounts men's soccer,PART_OF,ORGANIZATION::university of vermont,163,Vermont Catamounts men's soccer
+WORK::vermont catamounts men's ice hockey,LOCATED_IN,"OTHER::burlington, vermont",164,Vermont Catamounts men's ice hockey
+WORK::vermont catamounts men's ice hockey,PART_OF,OTHER::hockey east,164,Vermont Catamounts men's ice hockey
+WORK::2015–16 vermont catamounts men's basketball team,LOCATED_IN,PLACE::patrick gym,165,2015–16 Vermont Catamounts men's basketball team
+WORK::2015–16 vermont catamounts men's basketball team,DIRECTED_BY,PERSON::john becker,165,2015–16 Vermont Catamounts men's basketball team
+WORK::2015–16 vermont catamounts men's basketball team,PART_OF,ORGANIZATION::america east conference,165,2015–16 Vermont Catamounts men's basketball team
+WORK::2016–17 vermont catamounts men's basketball team,LOCATED_IN,"OTHER::burlington, vermont",166,2016–17 Vermont Catamounts men's basketball team
+WORK::2016–17 vermont catamounts men's basketball team,PART_OF,ORGANIZATION::america east conference,166,2016–17 Vermont Catamounts men's basketball team
+WORK::2016–17 vermont catamounts men's basketball team,DIRECTED_BY,PERSON::john becker,166,2016–17 Vermont Catamounts men's basketball team
+WORK::2011–12 vermont catamounts men's basketball team,LOCATED_IN,ORGANIZATION::university of vermont,167,2011–12 Vermont Catamounts men's basketball team
+WORK::2011–12 vermont catamounts men's basketball team,DIRECTED_BY,PERSON::john becker,167,2011–12 Vermont Catamounts men's basketball team
+WORK::2011–12 vermont catamounts men's basketball team,COLLABORATED_WITH,ORGANIZATION::america east conference,167,2011–12 Vermont Catamounts men's basketball team
+WORK::2011–12 vermont catamounts men's basketball team,PART_OF,OTHER::america east basketball tournament,167,2011–12 Vermont Catamounts men's basketball team
+WORK::vermont catamounts men's basketball,LOCATED_IN,ORGANIZATION::university of vermont,168,Vermont Catamounts men's basketball
+PERSON::bernhard bötel,LIVES_IN,PLACE::germany and austria,169,Bernhard Bötel
+WORK::giuseppe verdi (film),DIRECTED_BY,PERSON::carmine gallone,170,Giuseppe Verdi (film)
+WORK::giuseppe verdi (film),STARS,PERSON::fosco giachetti,170,Giuseppe Verdi (film)
+WORK::giuseppe verdi (film),STARS,PERSON::gaby morlay,170,Giuseppe Verdi (film)
+WORK::giuseppe verdi (film),STARS,PERSON::germana paolieri,170,Giuseppe Verdi (film)
+WORK::parma airport,LOCATED_IN,PLACE::parma,171,Parma Airport
+WORK::parma airport,LOCATED_IN,PLACE::emilia-romagna,171,Parma Airport
+WORK::parma airport,LOCATED_IN,PLACE::italy,171,Parma Airport
+PERSON::giuseppe verdi,NATIONALITY,NATIONALITY::italian,172,Giuseppe Verdi
+PERSON::giuseppe verdi,LIVES_IN,PLACE::italy,172,Giuseppe Verdi
+WORK::teatro giuseppe verdi,LOCATED_IN,PLACE::rocca dei marchesi pallavicino,173,Teatro Giuseppe Verdi
+WORK::teatro giuseppe verdi,LOCATED_IN,PLACE::piazza giuseppe verdi,173,Teatro Giuseppe Verdi
+WORK::teatro giuseppe verdi,LOCATED_IN,PLACE::busseto,173,Teatro Giuseppe Verdi
+WORK::teatro giuseppe verdi,PART_OF,PLACE::rocca dei marchesi pallavicino,173,Teatro Giuseppe Verdi
+PERSON::ambroise thomas,LIVES_IN,PLACE::france,174,Ambroise Thomas
+PERSON::armand castelmary,LIVES_IN,PLACE::toulouse,175,Armand Castelmary
+PERSON::armand castelmary,DIED_ON,DATE::10 february 1897,175,Armand Castelmary
+PERSON::ferdinando provesi,LIVES_IN,PLACE::parma,176,Ferdinando Provesi
+PERSON::ferdinando provesi,NATIONALITY,NATIONALITY::italian,176,Ferdinando Provesi
+"WORK::verdi, the king of melody",DIRECTED_BY,PERSON::raffaello matarazzo,178,"Verdi, the King of Melody"
+"WORK::verdi, the king of melody",STARS,PERSON::pierre cressoy,178,"Verdi, the King of Melody"
+"PERSON::douglas joseph bennet, jr.",LIVES_IN,PLACE::middletown,180,Douglas J. Bennet
+OTHER::wesleyan university,LOCATED_IN,PLACE::middletown,180,Douglas J. Bennet
+PERSON::richard nixon,LIVES_IN,PLACE::united states,181,Richard Nixon
+PERSON::richard nixon,NATIONALITY,NATIONALITY::american,181,Richard Nixon
+PERSON::richard nixon,BORN_ON,"DATE::january 9, 1913",181,Richard Nixon
+PERSON::richard nixon,DIED_ON,"DATE::april 22, 1994",181,Richard Nixon
+PERSON::steven kenneth galson,NATIONALITY,NATIONALITY::american,182,Steven K. Galson
+PERSON::steven kenneth galson,LIVES_IN,"PLACE::clarmont, california",182,Steven K. Galson
+PERSON::robert r. hood,NATIONALITY,NATIONALITY::american,183,Robert R. Hood
+PERSON::robert r. hood,LIVES_IN,PLACE::united states,183,Robert R. Hood
+"PERSON::robert d. ""bob"" hormats",LIVES_IN,"PLACE::baltimore, maryland",184,Robert Hormats
+WORK::office of population affairs,PART_OF,ORGANIZATION::united states department of health and human services,186,Office of Population Affairs
+WORK::office of population affairs,LOCATED_IN,ORGANIZATION::office of public health and science,186,Office of Population Affairs
+WORK::office of population affairs,DIRECTED_BY,PERSON::deputy assistant secretary of population affairs,186,Office of Population Affairs
+PERSON::roger olaf egeberg,LIVES_IN,"PLACE::washington, d.c.",187,Roger O. Egeberg
+PERSON::roger olaf egeberg,NATIONALITY,NATIONALITY::american,187,Roger O. Egeberg
+WORK::asgard,LOCATED_IN,NATIONALITY::english,189,Asgard (yacht)
+WORK::asgard,STARS,PERSON::erskine childers,189,Asgard (yacht)
+WORK::asgard,STARS,PERSON::molly childers,189,Asgard (yacht)
+PERSON::henry roth,NATIONALITY,NATIONALITY::american,190,Henry Roth
+PERSON::henry roth,LIVES_IN,PLACE::united states,190,Henry Roth
+PERSON::henry roth,BORN_ON,"DATE::february 8, 1906",190,Henry Roth
+PERSON::henry roth,DIED_ON,"DATE::october 13, 1995",190,Henry Roth
+WORK::r509 road,LOCATED_IN,PLACE::limerick city,191,R509 road (Ireland)
+PERSON::mary alden osgood childers,NATIONALITY,NATIONALITY::american,192,Molly Childers
+PERSON::mary alden osgood childers,LIVES_IN,"PLACE::beacon hill, boston, massachusetts",192,Molly Childers
+PERSON::mary alden osgood childers,COLLABORATED_WITH,PERSON::robert erskine childers,192,Molly Childers
+PERSON::gretchen osgood warren,NATIONALITY,NATIONALITY::american,193,Gretchen Osgood Warren
+PERSON::gretchen osgood warren,LIVES_IN,"PLACE::beacon hill, boston, massachusetts",193,Gretchen Osgood Warren
+PERSON::robert caesar childers,NATIONALITY,NATIONALITY::british,194,Robert Caesar Childers
+PERSON::robert caesar childers,DIED_ON,DATE::1876,194,Robert Caesar Childers
+PERSON::robert erskine childers,NATIONALITY,NATIONALITY::british,195,Robert Erskine Childers
+PERSON::robert erskine childers,LIVES_IN,PLACE::ireland,195,Robert Erskine Childers
+PERSON::robert erskine childers,COLLABORATED_WITH,OTHER::fenian revolutionaries,195,Robert Erskine Childers
+WORK::irish bulletin,LOCATED_IN,OTHER::dublin,196,Irish Bulletin
+PERSON::erskine barton childers,NATIONALITY,NATIONALITY::irish,197,Erskine Barton Childers
+PERSON::erskine barton childers,LIVES_IN,PLACE::ireland,197,Erskine Barton Childers
+PERSON::robert childers barton,NATIONALITY,NATIONALITY::irish,198,Robert Barton
+WORK::2009 singapore grand prix,LOCATED_IN,PLACE::marina bay street circuit,199,2009 Singapore Grand Prix
+PERSON::catharina felser,LIVES_IN,PLACE::siegburg,200,Catharina Felser
+PERSON::catharina felser,NATIONALITY,NATIONALITY::german,200,Catharina Felser
+PERSON::michael james lewis,LIVES_IN,"PLACE::laguna beach, california",201,Michael James Lewis
+PERSON::michael james lewis,NATIONALITY,NATIONALITY::american,201,Michael James Lewis
+PERSON::sergio pérez mendoza,LIVES_IN,PLACE::mexico,202,Sergio Pérez
+PERSON::eduardo troconis,LIVES_IN,"PLACE::veracruz, veracruz",203,Eduardo Troconis
+PERSON::eduardo troconis,NATIONALITY,NATIONALITY::mexican,203,Eduardo Troconis
+PERSON::mike shank,LIVES_IN,"PLACE::columbus, ohio",204,Mike Shank
+PERSON::mike shank,NATIONALITY,NATIONALITY::american,204,Mike Shank
+WORK::force india vjm04,LOCATED_IN,ORGANIZATION::force india,205,Force India VJM04
+WORK::force india vjm04,STARS,PERSON::adrian sutil,205,Force India VJM04
+WORK::force india vjm04,STARS,PERSON::paul di resta,205,Force India VJM04
+PERSON::tony ave,LIVES_IN,PLACE::hurley,206,Tony Ave
+PERSON::tony ave,NATIONALITY,NATIONALITY::american,206,Tony Ave
+PERSON::tony ave,BORN_ON,"DATE::november 10, 1968",206,Tony Ave
+PERSON::pedro rodríguez,KNOWN_FOR,OTHER::winning a grand prix,207,Formula One drivers from Mexico
+PERSON::sergio pérez,KNOWN_FOR,OTHER::finishing on the podium,207,Formula One drivers from Mexico
+WORK::2014 bahrain grand prix,LOCATED_IN,OTHER::bahrain international circuit,208,2014 Bahrain Grand Prix
+WORK::2014 bahrain grand prix,PART_OF,OTHER::2014 formula one season,208,2014 Bahrain Grand Prix
+WORK::2014 bahrain grand prix,LOCATED_IN,OTHER::bahrain,208,2014 Bahrain Grand Prix
+WORK::hip hip pooh-ray,PART_OF,WORK::winnie the pooh and the blustery day,209,Hip Hip Pooh-Ray!
+WORK::hip hip pooh-ray,KNOWN_FOR,OTHER::saving piglet's life and giving owl his grand home in the beech tree,209,Hip Hip Pooh-Ray!
+WORK::heffalumps and woozles,PART_OF,WORK::winnie the pooh and the blustery day,210,Heffalumps and Woozles
+WORK::the house that jack built (film),DIRECTED_BY,PERSON::ron tunis,211,The House That Jack Built (1967 film)
+WORK::the house that jack built (film),PRODUCED_BY,PERSON::wolf koenig,211,The House That Jack Built (1967 film)
+PERSON::kate higgins,NATIONALITY,NATIONALITY::american,212,Kate Higgins
+PERSON::kate higgins,LIVES_IN,"PLACE::charlottesville, virginia, u.s.",212,Kate Higgins
+WORK::the wonderful thing about tiggers,STARS,PERSON::tigger,213,The Wonderful Thing About Tiggers
+PERSON::tigger,KNOWN_FOR,WORK::the wonderful thing about tiggers,213,The Wonderful Thing About Tiggers
+WORK::the wonderful thing about tiggers,PART_OF,WORK::winnie the pooh and the blustery day,213,The Wonderful Thing About Tiggers
+WORK::the wonderful thing about tiggers,PART_OF,OTHER::the tigger movie,213,The Wonderful Thing About Tiggers
+PERSON::jim cummings,NATIONALITY,NATIONALITY::american,214,Jim Cummings
+PERSON::jim cummings,LIVES_IN,PLACE::united states,214,Jim Cummings
+WORK::the rain rain rain came down down down,PART_OF,WORK::winnie the pooh and the blustery day,215,The Rain Rain Rain Came Down Down Down
+WORK::the rain rain rain came down down down,PART_OF,WORK::the many adventures of winnie the pooh,215,The Rain Rain Rain Came Down Down Down
+WORK::winnie the pooh and the blustery day,LOCATED_IN,OTHER::united states,216,Winnie the Pooh and the Blustery Day
+WORK::a rather blustery day,STARS,PERSON::jim cummings,217,A Rather Blustery Day
+WORK::winnie the pooh and the blustery day,PART_OF,WORK::a rather blustery day,217,A Rather Blustery Day
+WORK::little black rain cloud,PART_OF,WORK::winnie the pooh and the honey tree,218,Little Black Rain Cloud
+WORK::little black rain cloud,PART_OF,WORK::winnie the pooh and the blustery day,218,Little Black Rain Cloud
+WORK::little black rain cloud,PART_OF,WORK::the many adventures of winnie the pooh,218,Little Black Rain Cloud
+WORK::universal remote,PART_OF,OTHER::remote control,219,Universal remote
+WORK::universal remote,PART_OF,OTHER::consumer electronics devices,219,Universal remote
+WORK::apple remote,LOCATED_IN,ORGANIZATION::apple inc.,221,Apple Remote
+WORK::apple remote,PART_OF,OTHER::isight imac g5,221,Apple Remote
+WORK::apple remote,PART_OF,OTHER::front row media program,221,Apple Remote
+WORK::apple remote,PART_OF,OTHER::some later desktop and portable macintosh computers,221,Apple Remote
+WORK::siri remote,PART_OF,WORK::apple tv 4k,222,Siri Remote
+WORK::netsupport manager,PART_OF,OTHER::remote control software,223,NetSupport Manager
+WORK::netsupport manager,LOCATED_IN,"OTHER::windows, mac, linux, solaris and mobile devices",223,NetSupport Manager
+WORK::front row,LOCATED_IN,OTHER::apple's macintosh computers and apple tv,224,Front Row (software)
+WORK::front row,KNOWN_FOR,OTHER::media center software application,224,Front Row (software)
+WORK::tmcc,PART_OF,OTHER::o scale 3-rail model trains and toy trains,227,Trainmaster Command Control
+WORK::tmcc,LOCATED_IN,OTHER::united states,227,Trainmaster Command Control
+WORK::apple remote desktop,LOCATED_IN,OTHER::macintosh,228,Apple Remote Desktop
+ORGANIZATION::wolf alice,LOCATED_IN,OTHER::north london,229,Wolf Alice
+WORK::something to talk about,PRODUCED_BY,PERSON::badly drawn boy,232,Something to Talk About (Badly Drawn Boy song)
+WORK::silent sigh,PART_OF,OTHER::soundtrack,234,Silent Sigh
+WORK::silent sigh,LOCATED_IN,OTHER::uk singles chart,234,Silent Sigh
+PERSON::damon michael gough,NATIONALITY,NATIONALITY::english,235,Badly Drawn Boy
+PERSON::damon michael gough,LIVES_IN,"PLACE::dunstable, bedfordshire",235,Badly Drawn Boy
+WORK::the hour of bewilderbeast,PRODUCED_BY,PERSON::badly drawn boy,236,The Hour of Bewilderbeast
+WORK::the hour of bewilderbeast,STARS,PERSON::badly drawn boy,236,The Hour of Bewilderbeast
+WORK::about a boy (soundtrack),PART_OF,OTHER::film about a boy,237,About a Boy (soundtrack)
+WORK::under an hour,PART_OF,OTHER::experimental pop/rock group,238,Under an Hour
+ORGANIZATION::menomena,LOCATED_IN,OTHER::portland,238,Under an Hour
+PERSON::gus williams,LIVES_IN,PLACE::alice springs,239,Gus Williams (musician)
+PERSON::gus williams,LIVES_IN,PLACE::hermannsburg,239,Gus Williams (musician)
+PERSON::kasper hvidt,LIVES_IN,PLACE::copenhagen,240,Kasper Hvidt
+PERSON::kasper hvidt,NATIONALITY,NATIONALITY::danish,240,Kasper Hvidt
+PERSON::peter schmeichel,LIVES_IN,PLACE::denmark,241,Peter Schmeichel
+PERSON::peter schmeichel,KNOWN_FOR,OTHER::uefa euro 1992 with denmark,241,Peter Schmeichel
+WORK::summer of '92 (sommeren '92),DIRECTED_BY,PERSON::kasper barfoed,242,Sommeren '92
+PERSON::edson arantes do nascimento,NATIONALITY,NATIONALITY::brazilian,243,Pelé
+OTHER::pelé,KNOWN_FOR,OTHER::greatest football player of all time,243,Pelé
+WORK::iffhs world's best club coach,PART_OF,OTHER::association football award,244,IFFHS World's Best Club Coach
+WORK::iffhs world's best goalkeeper,KNOWN_FOR,OTHER::most outstanding goalkeeper of the year,245,IFFHS World's Best Goalkeeper
+WORK::iffhs world's best goalkeeper,PART_OF,OTHER::international federation of football history & statistics (iffhs),245,IFFHS World's Best Goalkeeper
+PERSON::isaak hassler,NATIONALITY,NATIONALITY::german,246,Isaak Hassler
+PERSON::isaak hassler,LIVES_IN,PLACE::nuremberg,246,Isaak Hassler
+PERSON::kasper peter schmeichel,NATIONALITY,NATIONALITY::danish,247,Kasper Schmeichel
+PERSON::kasper peter schmeichel,LIVES_IN,PLACE::denmark,247,Kasper Schmeichel
+WORK::goštaitės,LOCATED_IN,OTHER::lithuania,248,Goštautai
+WORK::goštaitės,LOCATED_IN,OTHER::poland,248,Goštautai
+WORK::goštaitės,LOCATED_IN,OTHER::grand duchy of lithuania,248,Goštautai
+WORK::goštaitės,LOCATED_IN,OTHER::vilnius,248,Goštautai
+PERSON::nancy sandra sinatra,NATIONALITY,NATIONALITY::american,249,Nancy Sinatra
+PERSON::nancy sandra sinatra,BORN_ON,"DATE::june 8, 1940",249,Nancy Sinatra
+WORK::kon kan,PRODUCED_BY,PERSON::barry harris,250,Kon Kan
+WORK::kon kan,LOCATED_IN,"OTHER::toronto, ontario",250,Kon Kan
+PERSON::abdul wali,DIED_ON,"DATE::june 21, 2003",251,Death of Abdul Wali
+PERSON::abdul wali,LIVES_IN,PLACE::kunar province,251,Death of Abdul Wali
+PERSON::james a. shoulders,LIVES_IN,"PLACE::tulsa, oklahoma",252,Jim Shoulders
+PERSON::james a. shoulders,LIVES_IN,"PLACE::henryetta, oklahoma",252,Jim Shoulders
+PERSON::james a. shoulders,NATIONALITY,NATIONALITY::english,252,Jim Shoulders
+PERSON::james a. shoulders,BORN_ON,"DATE::may 13, 1928",252,Jim Shoulders
+WORK::boots,PART_OF,OTHER::ep,254,Boots (EP)
+WORK::boots (album),PRODUCED_BY,PERSON::lee hazlewood,255,Boots (album)
+WORK::these boots are made for walkin',STARS,PERSON::nancy sinatra,256,These Boots Are Made for Walkin'
+PERSON::lee hazlewood,NATIONALITY,NATIONALITY::american,258,Lee Hazlewood
+PERSON::lee hazlewood,LIVES_IN,PLACE::united states,258,Lee Hazlewood
+WORK::2012–13 vcu rams men's basketball team,DIRECTED_BY,PERSON::shaka smart,259,2012–13 VCU Rams men's basketball team
+WORK::2012–13 vcu rams men's basketball team,LOCATED_IN,PLACE::stuart c. siegel center,259,2012–13 VCU Rams men's basketball team
+WORK::2012–13 vcu rams men's basketball team,PART_OF,OTHER::2013 atlantic 10 tournament,259,2012–13 VCU Rams men's basketball team
+WORK::2012–13 vcu rams men's basketball team,LOCATED_IN,PLACE::michigan,259,2012–13 VCU Rams men's basketball team
+WORK::2009–10 vcu rams men's basketball team,LOCATED_IN,PLACE::virginia commonwealth university,260,2009–10 VCU Rams men's basketball team
+WORK::2009–10 vcu rams men's basketball team,DIRECTED_BY,PERSON::shaka smart,260,2009–10 VCU Rams men's basketball team
+WORK::2009–10 vcu rams men's basketball team,COLLABORATED_WITH,PLACE::stuart c. siegel center,260,2009–10 VCU Rams men's basketball team
+WORK::1995–96 vcu rams men's basketball team,LOCATED_IN,ORGANIZATION::virginia commonwealth university,261,1995–96 VCU Rams men's basketball team
+WORK::1995–96 vcu rams men's basketball team,DIRECTED_BY,PERSON::sonny smith,261,1995–96 VCU Rams men's basketball team
+ORGANIZATION::virginia commonwealth university,LOCATED_IN,PLACE::richmond,262,Virginia Commonwealth University
+PLACE::virginia,LOCATED_IN,ORGANIZATION::virginia commonwealth university,262,Virginia Commonwealth University
+WORK::2013–14 vcu rams men's basketball team,LOCATED_IN,PLACE::stuart c. siegel center,263,2013–14 VCU Rams men's basketball team
+WORK::2013–14 vcu rams men's basketball team,DIRECTED_BY,PERSON::shaka smart,263,2013–14 VCU Rams men's basketball team
+WORK::2013–14 vcu rams men's basketball team,PART_OF,ORGANIZATION::atlantic 10 conference,263,2013–14 VCU Rams men's basketball team
+WORK::2011–12 vcu rams men's basketball team,LOCATED_IN,ORGANIZATION::virginia commonwealth university,264,2011–12 VCU Rams men's basketball team
+WORK::2011–12 vcu rams men's basketball team,DIRECTED_BY,PERSON::shaka smart,264,2011–12 VCU Rams men's basketball team
+WORK::2010–11 vcu rams men's basketball team,DIRECTED_BY,PERSON::shaka smart,265,2010–11 VCU Rams men's basketball team
+WORK::2010–11 vcu rams men's basketball team,LOCATED_IN,PLACE::stuart c. siegel center,265,2010–11 VCU Rams men's basketball team
+WORK::2015–16 vcu rams men's basketball team,LOCATED_IN,PLACE::virginia commonwealth university,266,2015–16 VCU Rams men's basketball team
+WORK::2014–15 vcu rams men's basketball team,PRODUCED_BY,PERSON::shaka smart,267,2014–15 VCU Rams men's basketball team
+WORK::2014–15 vcu rams men's basketball team,LOCATED_IN,ORGANIZATION::virginia commonwealth university,267,2014–15 VCU Rams men's basketball team
+WORK::2014–15 vcu rams men's basketball team,PART_OF,ORGANIZATION::atlantic 10 conference,267,2014–15 VCU Rams men's basketball team
+WORK::2004–05 vcu rams men's basketball team,PRODUCED_BY,PERSON::jeff capel iii,268,2004–05 VCU Rams men's basketball team
+WORK::2004–05 vcu rams men's basketball team,LOCATED_IN,ORGANIZATION::virginia commonwealth university,268,2004–05 VCU Rams men's basketball team
+WORK::2004–05 vcu rams men's basketball team,PART_OF,ORGANIZATION::atlantic 10 conference,268,2004–05 VCU Rams men's basketball team
+WORK::dictyosperma,LOCATED_IN,OTHER::mascarene islands,269,Dictyosperma
+WORK::huernia,LOCATED_IN,PLACE::eastern and southern africa,270,Huernia
+WORK::huernia,COLLABORATED_WITH,PERSON::justin heurnius,270,Huernia
+PERSON::edgar fosburgh kaiser jr.,LIVES_IN,"PLACE::portland, oregon",271,Edgar Kaiser Jr.
+ORGANIZATION::nutri ventures corporation,LOCATED_IN,PLACE::portugal,272,Nutri Ventures – The Quest for the 7 Kingdoms
+WORK::nutri ventures,LOCATED_IN,OTHER::united states,272,Nutri Ventures – The Quest for the 7 Kingdoms
+WORK::nutri ventures,PART_OF,OTHER::the quest for the 7 kingdoms,272,Nutri Ventures – The Quest for the 7 Kingdoms
+WORK::eagle mountain railroad,LOCATED_IN,PLACE::california,273,Eagle Mountain Railroad
+"ORGANIZATION::kaiser ventures, inc.",LOCATED_IN,"PLACE::ontario, california",273,Eagle Mountain Railroad
+ORGANIZATION::neafie & levy,LOCATED_IN,PLACE::philadelphia,274,Neafie &amp; Levy
+WORK::kaiser shipyards,LOCATED_IN,OTHER::united states,275,Kaiser Shipyards
+ORGANIZATION::kaiser ventures,LOCATED_IN,"PLACE::ontario, california",276,Kaiser Ventures
+PERSON::henry j. kaiser,NATIONALITY,NATIONALITY::american,277,Henry J. Kaiser
+PERSON::henry j. kaiser,LIVES_IN,PLACE::united states,277,Henry J. Kaiser
+WORK::john roach & sons,PRODUCED_BY,PERSON::john roach,278,John Roach &amp; Sons
+WORK::john roach & sons,LOCATED_IN,OTHER::united states,278,John Roach &amp; Sons
+ORGANIZATION::new york shipbuilding corporation,LOCATED_IN,OTHER::united states,279,New York Shipbuilding Corporation
+PERSON::edgar fosburgh kaiser sr.,NATIONALITY,NATIONALITY::american,280,Edgar Kaiser Sr.
+PERSON::edgar fosburgh kaiser sr.,LIVES_IN,PLACE::united states,280,Edgar Kaiser Sr.
+WORK::st. andre vidhan sabha constituency,LOCATED_IN,OTHER::goa,281,St. Andre (Goa Assembly constituency)
+WORK::st. andre vidhan sabha constituency,LOCATED_IN,PLACE::india,281,St. Andre (Goa Assembly constituency)
+PLACE::st. andre,LOCATED_IN,WORK::st. andre vidhan sabha constituency,281,St. Andre (Goa Assembly constituency)
+PLACE::st. andre,LOCATED_IN,WORK::north goa lok sabha constituency,281,St. Andre (Goa Assembly constituency)
+WORK::st. andre's parish,LOCATED_IN,PLACE::biddeford,283,St. Andre's Parish
+PERSON::jon st. andre,LIVES_IN,PLACE::ishpeming,284,Jon St. Andre
+PERSON::jon st. andre,NATIONALITY,NATIONALITY::american,284,Jon St. Andre
+PERSON::jon st. andre,BORN_ON,DATE::december 8,284,Jon St. Andre
+PERSON::kenneth eugene st. andre,NATIONALITY,NATIONALITY::american,285,Ken St. Andre
+PERSON::kenneth eugene st. andre,BORN_ON,DATE::april 28,285,Ken St. Andre
+PERSON::kenneth eugene st. andre,LIVES_IN,"PLACE::ogden, utah",285,Ken St. Andre
+PERSON::kenneth eugene st. andre,KNOWN_FOR,WORK::tunnels & trolls,285,Ken St. Andre
+"WORK::mercenaries, spies and private eyes",STARS,PERSON::michael a. stackpole,286,"Mercenaries, Spies and Private Eyes"
+WORK::starfaring,DIRECTED_BY,PERSON::ken st. andre,287,Starfaring
+WORK::crank caverns,LOCATED_IN,PLACE::st. helens,288,Crank Caverns
+WORK::crank caverns,LOCATED_IN,PLACE::merseyside,288,Crank Caverns
+WORK::arena of khazan,PART_OF,WORK::tunnels & trolls,289,Arena of Khazan
+WORK::arena of khazan,LOCATED_IN,OTHER::1979,289,Arena of Khazan
+WORK::crusaders of khazan,PART_OF,WORK::tunnels and trolls,290,Tunnels &amp; Trolls: Crusaders of Khazan
+WORK::all i wanna do is make love to you,PART_OF,OTHER::brigade,291,All I Wanna Do Is Make Love to You
+WORK::make love not war,LOCATED_IN,"OTHER::sydney, new south wales",294,Make Love Not War (album)
+WORK::greatest hits,PART_OF,OTHER::album,295,Greatest Hits (Dan Fogelberg album)
+WORK::chuck berry on stage,DIRECTED_BY,PERSON::chuck berry,297,Chuck Berry on Stage
+WORK::the longer we make love,PRODUCED_BY,PERSON::barry white,298,The Longer We Make Love
+WORK::the longer we make love,STARS,PERSON::barry white,298,The Longer We Make Love
+WORK::the longer we make love,STARS,PERSON::lisa stansfield,298,The Longer We Make Love
+WORK::the longer we make love,STARS,PERSON::chaka khan,298,The Longer We Make Love
+WORK::mind if we make love to you,PRODUCED_BY,PERSON::wondermints,299,Mind If We Make Love to You
+WORK::mind if we make love to you,LOCATED_IN,OTHER::2002,299,Mind If We Make Love to You
+PERSON::atsushi sakurai,LIVES_IN,PLACE::fujioka,301,Atsushi Sakurai
+PERSON::atsushi sakurai,BORN_ON,"DATE::march 7, 1966",301,Atsushi Sakurai
+PERSON::paul hayden desser,NATIONALITY,NATIONALITY::canadian,302,Hayden (musician)
+PERSON::paul hayden desser,LIVES_IN,"PLACE::thornhill, ontario",302,Hayden (musician)
+WORK::alberta hail project,LOCATED_IN,PLACE::red deer industrial airport,303,Alberta Hail Project
+WORK::mild and hazy,PRODUCED_BY,PERSON::hayden,304,Mild and Hazy
+WORK::mild and hazy,LOCATED_IN,PLACE::canada,304,Mild and Hazy
+PERSON::masami tsuchiya,COLLABORATED_WITH,PLACE::japan,305,Masami Tsuchiya
+PERSON::masami tsuchiya,COLLABORATED_WITH,OTHER::bill nelson,305,Masami Tsuchiya
+WORK::hailstorm alley,LOCATED_IN,PLACE::alberta,307,Hailstorm Alley
+WORK::hailstorm alley,LOCATED_IN,PLACE::canada,307,Hailstorm Alley
+PERSON::chief iron hail,LIVES_IN,PLACE::cheyenne river indian reservation,308,Dewey Beard
+PERSON::chief iron hail,NATIONALITY,NATIONALITY::american,308,Dewey Beard
+WORK::skyscraper national park,PRODUCED_BY,PERSON::hayden,310,Skyscraper National Park
+WORK::skyscraper national park,LOCATED_IN,PLACE::canada,310,Skyscraper National Park
+WORK::skyscraper national park,LOCATED_IN,ORGANIZATION::u.s.,310,Skyscraper National Park
+WORK::skyscraper national park,LOCATED_IN,OTHER::u.k.,310,Skyscraper National Park
+PERSON::françois coli,LIVES_IN,PLACE::france,311,François Coli
+PERSON::georges félix madon,LIVES_IN,PLACE::france,312,Georges Madon
+PERSON::georges félix madon,DIED_ON,"DATE::november 11, 1924",312,Georges Madon
+PERSON::william earl johns,NATIONALITY,NATIONALITY::english,313,W. E. Johns
+PERSON::william earl johns,LIVES_IN,PLACE::england,313,W. E. Johns
+PERSON::charles eugène jules marie nungesser,LIVES_IN,PLACE::france,314,Charles Nungesser
+PERSON::charles eugène jules marie nungesser,NATIONALITY,NATIONALITY::french,314,Charles Nungesser
+PERSON::gervais raoul lufbery,LIVES_IN,PLACE::france,315,Gervais Raoul Lufbery
+PERSON::gervais raoul lufbery,LIVES_IN,PLACE::united states,315,Gervais Raoul Lufbery
+PERSON::gervais raoul lufbery,KNOWN_FOR,OTHER::fighter pilot and flying ace,315,Gervais Raoul Lufbery
+WORK::l'oiseau bleu,PART_OF,OTHER::musée d'art moderne de la ville de paris,316,L'Oiseau bleu (Metzinger)
+WORK::l'oiseau bleu,LOCATED_IN,OTHER::city of paris,316,L'Oiseau bleu (Metzinger)
+WORK::l'oiseau bleu,STARS,PERSON::jean metzinger,316,L'Oiseau bleu (Metzinger)
+WORK::levasseur pl.8,STARS,PERSON::charles nungesser,317,Levasseur PL.8
+WORK::levasseur pl.8,STARS,PERSON::françois coli,317,Levasseur PL.8
+PERSON::paul joannes sauvage,LIVES_IN,PLACE::france,318,Paul Sauvage (aviator)
+PERSON::paul joannes sauvage,BORN_ON,DATE::16 july 1916,318,Paul Sauvage (aviator)
+PERSON::paul joannes sauvage,DIED_ON,"DATE::january 7, 1917",318,Paul Sauvage (aviator)
+PERSON::lieutenant stanton hall wooster,LIVES_IN,PLACE::connecticut,319,Wooster and Davis
+PERSON::noel guy davis,LIVES_IN,PLACE::salt lake city,319,Wooster and Davis
+WORK::l'oiseau blanc,STARS,PERSON::charles nungesser,320,L'Oiseau Blanc
+WORK::l'oiseau blanc,STARS,PERSON::françois coli,320,L'Oiseau Blanc
+WORK::hackers (film),DIRECTED_BY,PERSON::iain softley,321,Hackers (film)
+WORK::hackers (film),STARS,PERSON::jonny lee miller,321,Hackers (film)
+WORK::hackers (film),STARS,PERSON::angelina jolie,321,Hackers (film)
+WORK::hackers (film),STARS,PERSON::renoly santiago,321,Hackers (film)
+WORK::freakonomics radio,PART_OF,PLACE::itunes,322,Freakonomics Radio
+WORK::freakonomics radio,PRODUCED_BY,PERSON::stephen dubner,322,Freakonomics Radio
+WORK::freakonomics radio,PRODUCED_BY,PERSON::steven levitt,322,Freakonomics Radio
+WORK::freakonomics radio,LOCATED_IN,OTHER::public-radio stations around the country,322,Freakonomics Radio
+PERSON::shayne workman,NATIONALITY,NATIONALITY::american,324,Shayne Workman
+PERSON::shayne workman,BORN_ON,"DATE::december 5, 1978",324,Shayne Workman
+PERSON::jason scott leiderman,LIVES_IN,PLACE::ventura,325,Jay Leiderman
+PERSON::jason scott leiderman,NATIONALITY,NATIONALITY::american,325,Jay Leiderman
+PERSON::peter w. smith,LIVES_IN,PLACE::chicago,326,Peter W. Smith
+PERSON::peter w. smith,NATIONALITY,NATIONALITY::american,326,Peter W. Smith
+PERSON::peter w. smith,DIED_ON,"DATE::may 14, 2017",326,Peter W. Smith
+WORK::psycho realm,PRODUCED_BY,PERSON::joaquin gonzalez,327,Psycho Realm
+WORK::psycho realm,PRODUCED_BY,PERSON::gustavo gonzalez,327,Psycho Realm
+WORK::in the realm of the hackers,DIRECTED_BY,PERSON::kevin anderson,328,In the Realm of the Hackers
+WORK::in the realm of the hackers,LOCATED_IN,PLACE::melbourne,328,In the Realm of the Hackers
+WORK::freakonomics: the movie,PRODUCED_BY,PERSON::steven d. levitt,329,Freakonomics (film)
+WORK::freakonomics: the movie,PRODUCED_BY,PERSON::stephen j. dubner,329,Freakonomics (film)
+PERSON::robin goldstein,LIVES_IN,"PLACE::oakland, california",330,Robin Goldstein
+PERSON::robin goldstein,NATIONALITY,NATIONALITY::american,330,Robin Goldstein
+WORK::letters to cleo,LOCATED_IN,PLACE::boston,331,Letters to Cleo
+WORK::aurora gory alice,PART_OF,WORK::letters to cleo,331,Letters to Cleo
+WORK::truly,PRODUCED_BY,PERSON::robert roth,332,Truly
+WORK::truly,PRODUCED_BY,PERSON::hiro yamamoto,332,Truly
+WORK::truly,PRODUCED_BY,PERSON::mark pickerel,332,Truly
+WORK::change has come,PART_OF,OTHER::sub pop,333,Change Has Come
+WORK::jamboree,LOCATED_IN,OTHER::united states,334,Jamboree (Beat Happening album)
+ORGANIZATION::mad season,LOCATED_IN,OTHER::seattle,336,Mad Season (band)
+WORK::beat happening/screaming trees,COLLABORATED_WITH,"ORGANIZATION::beat happening (from olympia, washington)",337,Beat Happening/Screaming Trees
+WORK::beat happening/screaming trees,COLLABORATED_WITH,"ORGANIZATION::screaming trees (from ellensburg, washington)",337,Beat Happening/Screaming Trees
+ORGANIZATION::screaming trees,LOCATED_IN,PLACE::ellensburg,339,Screaming Trees discography
+ORGANIZATION::screaming trees,LOCATED_IN,PLACE::washington,339,Screaming Trees discography
+PERSON::van conner,NATIONALITY,NATIONALITY::american,340,Van Conner
+WORK::screaming trees,LOCATED_IN,OTHER::united states,340,Van Conner
+ORGANIZATION::socialist revolutionary party,LOCATED_IN,OTHER::russia,341,Socialist Revolutionary Party
+ORGANIZATION::socialist revolutionary party,KNOWN_FOR,OTHER::revolutionary socialism,341,Socialist Revolutionary Party
+WORK::communism in russia,PART_OF,WORK::russian civil war,342,Communism in Russia
+WORK::communism in russia,PART_OF,PLACE::soviet union,342,Communism in Russia
+PERSON::lavr georgiyevich kornilov,LIVES_IN,PLACE::russia,343,Lavr Kornilov
+PERSON::lavr georgiyevich kornilov,NATIONALITY,NATIONALITY::russian,343,Lavr Kornilov
+WORK::left-wing uprisings against the bolsheviks,LOCATED_IN,OTHER::russia,344,Left-wing uprisings against the Bolsheviks
+PERSON::louise bryant,NATIONALITY,NATIONALITY::american,345,Louise Bryant
+PERSON::louise bryant,LIVES_IN,PLACE::united states,345,Louise Bryant
+WORK::battle of romanovka,LOCATED_IN,PLACE::vladivostok,346,Battle of Romanovka
+WORK::kerensky–krasnov uprising,PART_OF,OTHER::petrograd,347,Kerensky–Krasnov uprising
+WORK::russian civil war,LOCATED_IN,OTHER::russia,348,Russian Civil War
+PERSON::timofey petrovich samsonov,LIVES_IN,PLACE::moscow,349,Timofey Samsonov
+PERSON::timofey petrovich samsonov,NATIONALITY,NATIONALITY::soviet,349,Timofey Samsonov
+PERSON::timofey petrovich samsonov,DIED_ON,DATE::28 october 1955,349,Timofey Samsonov
+PERSON::alexander fyodorovich kerensky,LIVES_IN,PLACE::paris,350,Alexander Kerensky
+PERSON::alexander fyodorovich kerensky,LIVES_IN,PLACE::new york city,350,Alexander Kerensky
+PERSON::guido caldarelli,LIVES_IN,PLACE::lucca,351,Guido Caldarelli
+PERSON::guido caldarelli,BORN_ON,DATE::8 april 1967,351,Guido Caldarelli
+PERSON::guido caldarelli,NATIONALITY,NATIONALITY::italian,351,Guido Caldarelli
+PERSON::aldo pontremoli,LIVES_IN,PLACE::milan,352,Aldo Pontremoli
+PERSON::enrico fermi,LIVES_IN,PLACE::italy,353,Enrico Fermi
+PERSON::enrico fermi,NATIONALITY,NATIONALITY::italian,353,Enrico Fermi
+PERSON::enrico fermi,DIED_ON,DATE::28 november 1954,353,Enrico Fermi
+PERSON::enrico fermi,BORN_ON,DATE::29 september 1901,353,Enrico Fermi
+WORK::micropædia,PART_OF,OTHER::encyclopædia britannica (15th edition),354,Micropædia
+PERSON::claudio pellegrini,LIVES_IN,PLACE::rome,355,Claudio Pellegrini
+PERSON::carlo rovelli,LIVES_IN,PLACE::italy,356,Carlo Rovelli
+PERSON::carlo rovelli,LIVES_IN,PLACE::france,356,Carlo Rovelli
+PERSON::chiara r. nappi,NATIONALITY,NATIONALITY::italian,357,Chiara Nappi
+PERSON::chiara r. nappi,LIVES_IN,PLACE::italy,357,Chiara Nappi
+PERSON::antonino lo surdo,LOCATED_IN,PLACE::rome,359,Antonino Lo Surdo
+WORK::seven brief lessons on physics,PART_OF,NATIONALITY::italian,360,Seven Brief Lessons on Physics
+WORK::seven brief lessons on physics,PRODUCED_BY,PERSON::carlo rovelli,360,Seven Brief Lessons on Physics
+WORK::livesey hall war memorial,PART_OF,OTHER::world war i and world war ii,361,Livesey Hall War Memorial
+WORK::livesey hall war memorial,LOCATED_IN,PLACE::london,361,Livesey Hall War Memorial
+WORK::alamein memorial,LOCATED_IN,PLACE::el alamein war cemetery,362,Alamein Memorial
+WORK::alamein memorial,LOCATED_IN,OTHER::el alamein,362,Alamein Memorial
+WORK::portsmouth naval memorial,LOCATED_IN,PLACE::southsea common,364,Portsmouth Naval Memorial
+WORK::portsmouth naval memorial,LOCATED_IN,PLACE::clarence pier,364,Portsmouth Naval Memorial
+WORK::portsmouth naval memorial,LOCATED_IN,PLACE::southsea castle,364,Portsmouth Naval Memorial
+WORK::freetown memorial,LOCATED_IN,PLACE::secretariate building,365,Freetown Memorial
+WORK::freetown memorial,LOCATED_IN,PLACE::sierra leone,365,Freetown Memorial
+"WORK::vietnam war memorial, hanoi",LOCATED_IN,OTHER::ba dinh square,366,"Vietnam War Memorial, Hanoi"
+"WORK::vietnam war memorial, hanoi",LOCATED_IN,OTHER::ho chi minh mausoleum,366,"Vietnam War Memorial, Hanoi"
+"WORK::vietnam war memorial, hanoi",LOCATED_IN,OTHER::hanoi citadel,366,"Vietnam War Memorial, Hanoi"
+"WORK::vietnam war memorial, hanoi",PART_OF,OTHER::second indochina war,366,"Vietnam War Memorial, Hanoi"
+WORK::tower hill memorial,LOCATED_IN,PLACE::trinity square gardens,367,Tower Hill Memorial
+WORK::tower hill memorial,PART_OF,ORGANIZATION::commonwealth war graves commission,367,Tower Hill Memorial
+WORK::arras flying services memorial,LOCATED_IN,PLACE::faubourg d'amiens cemetery,368,Arras Flying Services Memorial
+WORK::arras flying services memorial,PART_OF,ORGANIZATION::commonwealth war graves commission,368,Arras Flying Services Memorial
+WORK::masnières newfoundland memorial,LOCATED_IN,PLACE::masnières,369,Masnières Newfoundland Memorial
+WORK::masnières newfoundland memorial,PART_OF,OTHER::first battle of cambrai,369,Masnières Newfoundland Memorial
+WORK::grantley adams international airport,LOCATED_IN,OTHER::seawell,371,Grantley Adams International Airport
+WORK::grantley adams international airport,LOCATED_IN,OTHER::christ church,371,Grantley Adams International Airport
+WORK::grantley adams international airport,KNOWN_FOR,OTHER::second hub for liat,371,Grantley Adams International Airport
+WORK::pensacola international airport,LOCATED_IN,"PLACE::pensacola, florida, united states",372,Pensacola International Airport
+WORK::pensacola international airport,LOCATED_IN,"PLACE::escambia county, florida, united states",372,Pensacola International Airport
+WORK::elko regional airport,LOCATED_IN,"PLACE::elko, nevada",373,Elko Regional Airport
+WORK::elko regional airport,LOCATED_IN,"PLACE::elko county, nevada",373,Elko Regional Airport
+WORK::gerald r. ford international airport,LOCATED_IN,OTHER::cascade township,374,Gerald R. Ford International Airport
+WORK::gerald r. ford,LOCATED_IN,ORGANIZATION::united states navy,375,Pre-Commissioning Unit
+WORK::john glenn columbus international airport,LOCATED_IN,"PLACE::columbus, ohio",376,John Glenn Columbus International Airport
+WORK::raleigh executive jetport,LOCATED_IN,ORGANIZATION::sanford-lee county regional airport authority,377,Raleigh Executive Jetport
+ORGANIZATION::sanford-lee county regional airport authority,LOCATED_IN,"OTHER::sanford, lee county, north carolina, united states",377,Raleigh Executive Jetport
+WORK::bishop international airport,LOCATED_IN,"PLACE::flint, michigan",378,Bishop International Airport
+WORK::gerald r. ford freeway,LOCATED_IN,PLACE::omaha,379,Gerald R. Ford Freeway
+WORK::gerald r. ford freeway,LOCATED_IN,PLACE::michigan,379,Gerald R. Ford Freeway
+WORK::gerald r. ford presidential library,LOCATED_IN,PLACE::university of michigan,380,Gerald R. Ford Presidential Library
+WORK::gerald r. ford presidential library,PART_OF,OTHER::national archives and records administration's presidential library system,380,Gerald R. Ford Presidential Library
+ORGANIZATION::princeton neuroscience institute,LOCATED_IN,ORGANIZATION::princeton university,381,Princeton Neuroscience Institute
+PERSON::stanley coren,BORN_ON,DATE::1942,382,Stanley Coren
+PERSON::stanley coren,LIVES_IN,"PLACE::vancouver, british columbia",382,Stanley Coren
+PERSON::abraham harold maslow,LIVES_IN,PLACE::united states,383,Abraham Maslow
+PERSON::e. mavis hetherington,LIVES_IN,PLACE::university of virginia,384,E. Mavis Hetherington
+PERSON::e. mavis hetherington,COLLABORATED_WITH,OTHER::opening the field of psychology to women,384,E. Mavis Hetherington
+PERSON::kimberly young,COLLABORATED_WITH,OTHER::american psychological association,385,Kimberly Young
+PERSON::kimberly young,COLLABORATED_WITH,OTHER::pennsylvania psychological association,385,Kimberly Young
+WORK::mathematically alive: a story of fandom,DIRECTED_BY,PERSON::katherine foronjy,386,Mathematically Alive
+WORK::mathematically alive: a story of fandom,DIRECTED_BY,PERSON::joseph coburn,386,Mathematically Alive
+PERSON::frank l. schmidt,NATIONALITY,NATIONALITY::american,387,Frank L. Schmidt
+PERSON::frank l. schmidt,LIVES_IN,PLACE::university of iowa,387,Frank L. Schmidt
+PERSON::ralph franklin hefferline,LIVES_IN,"PLACE::muncie, indiana",388,Ralph Hefferline
+PERSON::ralph franklin hefferline,NATIONALITY,NATIONALITY::american,388,Ralph Hefferline
+PERSON::ralph franklin hefferline,BORN_ON,DATE::15 february 1910,388,Ralph Hefferline
+PERSON::ralph franklin hefferline,DIED_ON,DATE::16 march 1974,388,Ralph Hefferline
+PERSON::david c. funder,LIVES_IN,"PLACE::university of california, riverside",389,David C. Funder
+WORK::columbia university,LOCATED_IN,PLACE::new york city,390,Columbia University
+WORK::teddy roosevelt terrier,LOCATED_IN,NATIONALITY::american,391,Teddy Roosevelt Terrier
+WORK::feist,PART_OF,OTHER::small hunting dog,393,Feist (dog)
+WORK::russian toy,PART_OF,WORK::russian toy terrier,395,Russkiy Toy
+WORK::russian toy,PART_OF,WORK::russkiy toy,395,Russkiy Toy
+WORK::russian toy,PART_OF,WORK::english toy terrier,395,Russkiy Toy
+WORK::russian toy,PART_OF,WORK::manchester terrier,395,Russkiy Toy
+WORK::viola da gamba,PART_OF,OTHER::violin family,396,Viol
+WORK::viola da gamba,LOCATED_IN,OTHER::renaissance and baroque periods,396,Viol
+WORK::collie,PART_OF,WORK::herding dog,397,Collie
+WORK::collie,LOCATED_IN,OTHER::scotland and northern england,397,Collie
+WORK::scotch collie,PART_OF,OTHER::landrace breed of dog,398,Scotch Collie
+WORK::scotch collie,LOCATED_IN,OTHER::highland regions of scotland,398,Scotch Collie
+WORK::toy manchester terrier,PART_OF,OTHER::dog,399,Toy Manchester Terrier
+WORK::toy manchester terrier,LOCATED_IN,OTHER::toy group,399,Toy Manchester Terrier
+PERSON::florence nagle,LIVES_IN,PLACE::united kingdom,400,Florence Nagle
+PERSON::florence nagle,NATIONALITY,NATIONALITY::british,400,Florence Nagle
+OTHER::lead programmer,KNOWN_FOR,OTHER::software engineer,401,Lead programmer
+OTHER::lead programmer,KNOWN_FOR,OTHER::one or more software projects,401,Lead programmer
+PERSON::sachin bansal,LIVES_IN,PLACE::chandigarh,402,Sachin Bansal
+PERSON::william connolley,LIVES_IN,PLACE::british,403,William Connolley
+PERSON::william connolley,BORN_ON,DATE::12 april 1964,403,William Connolley
+PERSON::wes mckinney,NATIONALITY,NATIONALITY::american,404,Wes McKinney
+WORK::muthuchippy poloru,STARS,PERSON::sachin warrier,406,Muthuchippi Poloru
+WORK::muthuchippy poloru,STARS,PERSON::remya nambeesan,406,Muthuchippi Poloru
+WORK::muthuchippy poloru,PART_OF,WORK::thattathin marayathu,406,Muthuchippi Poloru
+ORGANIZATION::tata consultancy services limited,LOCATED_IN,PLACE::mumbai,407,Tata Consultancy Services
+ORGANIZATION::tata consultancy services limited,LOCATED_IN,PLACE::maharashtra,407,Tata Consultancy Services
+WORK::kanave kalayathe,PRODUCED_BY,PERSON::nidhinsha,408,Kanave Kalayathe
+WORK::kanave kalayathe,DIRECTED_BY,PERSON::deen shifaz,408,Kanave Kalayathe
+WORK::kanave kalayathe,DIRECTED_BY,PERSON::ashith wilson,408,Kanave Kalayathe
+PERSON::alec david edward muffett,LIVES_IN,PLACE::anglo-american,409,Alec Muffett
+PERSON::divya s. menon,BORN_ON,DATE::14 march 1987,410,Divya S. Menon
+PERSON::divya s. menon,LIVES_IN,PLACE::kerala,410,Divya S. Menon
+PERSON::masakazu katsura,LIVES_IN,PLACE::japan,412,Masakazu Katsura
+PERSON::masakazu katsura,BORN_ON,"DATE::december 10, 1962",412,Masakazu Katsura
+WORK::neuro: supernatural detective,LOCATED_IN,PLACE::japan,413,Neuro: Supernatural Detective
+WORK::haven't you heard? i'm sakamoto,PRODUCED_BY,PERSON::nami sano,414,Haven't You Heard? I'm Sakamoto
+WORK::my bride is a mermaid,PRODUCED_BY,PERSON::tahiko kimura,415,My Bride is a Mermaid
+WORK::my bride is a mermaid,LOCATED_IN,PLACE::japan,415,My Bride is a Mermaid
+WORK::silver spoon (manga),LOCATED_IN,OTHER::hokkaido,417,Silver Spoon (manga)
+WORK::the prince of tennis,STARS,PERSON::takeshi konomi,418,The Prince of Tennis
+WORK::the prince of tennis,LOCATED_IN,PLACE::japan,418,The Prince of Tennis
+WORK::the kindaichi case files,PART_OF,OTHER::mystery manga genre,419,The Kindaichi Case Files
+PERSON::hajime kindaichi,KNOWN_FOR,OTHER::crime solving adventures,419,The Kindaichi Case Files
+"WORK::izs (アイズ , aizu )",LOCATED_IN,PLACE::japan,420,I&quot;s
+WORK::first italo-ethiopian war,LOCATED_IN,ORGANIZATION::italy,421,First Italo-Ethiopian War
+WORK::first italo-ethiopian war,LOCATED_IN,PLACE::ethiopia,421,First Italo-Ethiopian War
+WORK::first italo-ethiopian war,KNOWN_FOR,PERSON::menelik ii,421,First Italo-Ethiopian War
+WORK::first italo-ethiopian war,KNOWN_FOR,ORGANIZATION::russia,421,First Italo-Ethiopian War
+PLACE::ethiopia,LOCATED_IN,OTHER::horn of africa,423,Outline of Ethiopia
+WORK::ephigenia of ethiopia,LOCATED_IN,OTHER::mesopotamia,424,Ephigenia of Ethiopia
+WORK::ephigenia of ethiopia,LOCATED_IN,OTHER::ancient armenia,424,Ephigenia of Ethiopia
+PERSON::herbert s. lewis,LIVES_IN,PLACE::university of wisconsin-madison,425,Herbert S. Lewis
+PERSON::herbert s. lewis,NATIONALITY,NATIONALITY::american,425,Herbert S. Lewis
+PERSON::herbert s. lewis,BORN_ON,"DATE::may 8, 1934",425,Herbert S. Lewis
+WORK::battle of adwa,LOCATED_IN,OTHER::tigray,426,Battle of Adwa
+WORK::battle of adwa,PART_OF,WORK::first italo-ethiopian war,426,Battle of Adwa
+WORK::p'ent'ay,KNOWN_FOR,OTHER::protestant denomination,427,P'ent'ay
+WORK::p'ent'ay,LOCATED_IN,PLACE::ethiopia,427,P'ent'ay
+PERSON::giuseppe arimondi,LIVES_IN,PLACE::savigliano,428,Giuseppe Arimondi
+PERSON::giuseppe arimondi,DIED_ON,DATE::adwa,428,Giuseppe Arimondi
+PERSON::giuseppe arimondi,NATIONALITY,NATIONALITY::italian,428,Giuseppe Arimondi
+WORK::second battle of agordat,LOCATED_IN,OTHER::asmara,429,Second Battle of Agordat
+PERSON::emir ahmed ali,COLLABORATED_WITH,WORK::second battle of agordat,429,Second Battle of Agordat
+WORK::treaty of addis ababa,LOCATED_IN,PLACE::addis ababa,430,Treaty of Addis Ababa
+WORK::treaty of addis ababa,PART_OF,OTHER::first italo–ethiopian war,430,Treaty of Addis Ababa
+PERSON::cynthia c. hogan,LIVES_IN,"PLACE::cincinnati, ohio",431,Cynthia Hogan
+PERSON::gerald ford,LIVES_IN,PLACE::united states,432,Gerald Ford
+PERSON::nelson rockefeller,LIVES_IN,PLACE::new york,433,Nelson Rockefeller
+PERSON::robert e. nyce,LIVES_IN,PLACE::east allen township,434,Robert Nyce
+PERSON::robert e. nyce,LIVES_IN,PLACE::northampton county,434,Robert Nyce
+PERSON::robert e. nyce,LIVES_IN,PLACE::pennsylvania,434,Robert Nyce
+PERSON::robert e. nyce,NATIONALITY,NATIONALITY::american,434,Robert Nyce
+WORK::executive order 10925,PRODUCED_BY,PERSON::john f. kennedy,436,Executive Order 10925
+WORK::executive order 10925,LOCATED_IN,OTHER::united states,436,Executive Order 10925
+PERSON::jim lentz,COLLABORATED_WITH,OTHER::the global automakers,438,Jim Lentz
+PERSON::alfred balk,LIVES_IN,PLACE::united states,439,Alfred Balk
+PERSON::alfred balk,NATIONALITY,NATIONALITY::american,439,Alfred Balk
+PERSON::gordon johndroe,LIVES_IN,PLACE::united states,440,Gordon Johndroe
+PLACE::lothian and borders,LOCATED_IN,PLACE::scotland,441,Lothian and Borders
+PLACE::lothian and borders,PART_OF,PLACE::east lothian,441,Lothian and Borders
+PLACE::lothian and borders,PART_OF,OTHER::city of edinburgh,441,Lothian and Borders
+PLACE::lothian and borders,PART_OF,OTHER::midlothian,441,Lothian and Borders
+PLACE::lothian and borders,PART_OF,OTHER::west lothian,441,Lothian and Borders
+PLACE::lothian and borders,PART_OF,WORK::scottish borders,441,Lothian and Borders
+WORK::scottish borders,LOCATED_IN,PLACE::scotland,442,Scottish Borders
+WORK::dirleton kirk,LOCATED_IN,PLACE::dirleton,443,Dirleton Kirk
+WORK::dirleton kirk,LOCATED_IN,PLACE::east lothian,443,Dirleton Kirk
+WORK::dirleton kirk,LOCATED_IN,PLACE::scotland,443,Dirleton Kirk
+PLACE::dirleton,LOCATED_IN,PLACE::east lothian,444,Dirleton
+PLACE::dirleton,LOCATED_IN,PLACE::scotland,444,Dirleton
+PLACE::haddington,LOCATED_IN,PLACE::east lothian,445,"Haddington, East Lothian"
+PLACE::east lothian,LOCATED_IN,PLACE::scotland,445,"Haddington, East Lothian"
+PLACE::yellowcraig,LOCATED_IN,PLACE::east lothian,446,Yellowcraigs
+PLACE::yellowcraig,LOCATED_IN,PLACE::scotland,446,Yellowcraigs
+PLACE::yellowcraig,LOCATED_IN,PLACE::firth of forth,446,Yellowcraigs
+PLACE::yellowcraig,LOCATED_IN,PLACE::dirleton,446,Yellowcraigs
+PLACE::yellowcraig,LOCATED_IN,WORK::north berwick west links,446,Yellowcraigs
+PLACE::yellowcraig,LOCATED_IN,PLACE::archerfield estate,446,Yellowcraigs
+WORK::dirleton castle,LOCATED_IN,PLACE::east lothian,447,Dirleton Castle
+WORK::dirleton castle,LOCATED_IN,PLACE::scotland,447,Dirleton Castle
+PERSON::lord haliburton of dirleton,LIVES_IN,PLACE::dirleton castle,448,Lord Haliburton of Dirleton
+PERSON::lord haliburton of dirleton,NATIONALITY,NATIONALITY::scottish,448,Lord Haliburton of Dirleton
+WORK::st. mary's priory,LOCATED_IN,PLACE::north berwick,449,St. Mary's Priory (Lothian)
+WORK::st. mary's priory,LOCATED_IN,PLACE::east lothian,449,St. Mary's Priory (Lothian)
+WORK::st. mary's priory,LOCATED_IN,PLACE::scotland,449,St. Mary's Priory (Lothian)
+PERSON::john david home robertson,LIVES_IN,PLACE::scotland,450,John Home Robertson
+PERSON::john david home robertson,NATIONALITY,NATIONALITY::british,450,John Home Robertson
+PERSON::john david home robertson,BORN_ON,DATE::5 december 1948,450,John Home Robertson
+WORK::trash box,PART_OF,OTHER::mid-1960s garage rock and psychedelic rock recordings,451,Trash Box
+WORK::trash box,LOCATED_IN,OTHER::united states,451,Trash Box
+"WORK::chrome, smoke & bbq",LOCATED_IN,OTHER::2003,452,"Chrome, Smoke &amp; BBQ"
+WORK::back to mono (1958–1969),PART_OF,PERSON::phil spector,453,Back to Mono (1958–1969)
+WORK::radiohead box set,PART_OF,ORGANIZATION::radiohead,456,Radiohead Box Set
+WORK::mono masters,PART_OF,WORK::the beatles in mono,457,Mono Masters
+WORK::mono masters,LOCATED_IN,OTHER::uk,457,Mono Masters
+WORK::led zeppelin boxed set 2,LOCATED_IN,OTHER::1993,458,Led Zeppelin Boxed Set 2
+WORK::to know him is to love him,LOCATED_IN,OTHER::12/8 time,459,To Know Him Is to Love Him
+WORK::the doors: vinyl box set,PART_OF,ORGANIZATION::the doors,460,The Doors: Vinyl Box Set
+PERSON::nikolai viktorovich podgorny,LIVES_IN,PLACE::ukraine,461,Nikolai Podgorny
+PERSON::nikolai viktorovich podgorny,NATIONALITY,NATIONALITY::soviet,461,Nikolai Podgorny
+PERSON::andrei pavlovich kirilenko,LIVES_IN,PLACE::alexeyevka,462,Andrei Kirilenko (politician)
+PERSON::andrei pavlovich kirilenko,NATIONALITY,NATIONALITY::ukrainian,462,Andrei Kirilenko (politician)
+WORK::ms excelsior neptune,LOCATED_IN,PLACE::wismar,463,MS Excelsior Neptune
+WORK::ms excelsior neptune,PART_OF,OTHER::mikhail kalinin series of ships,463,MS Excelsior Neptune
+WORK::ms excelsior neptune,KNOWN_FOR,PERSON::felix dzerzhinsky,463,MS Excelsior Neptune
+PERSON::mikhail suslov,LIVES_IN,PLACE::soviet union,464,Mikhail Suslov
+PERSON::mikhail suslov,NATIONALITY,NATIONALITY::russian,464,Mikhail Suslov
+PERSON::mikhail suslov,DIED_ON,DATE::25 january 1982,464,Mikhail Suslov
+PERSON::mikhail suslov,BORN_ON,DATE::21 november [o.s. 8 november] 1902,464,Mikhail Suslov
+PERSON::ephraim markovich sklyansky,LIVES_IN,PLACE::kiev,465,Ephraim Sklyansky
+PERSON::ephraim markovich sklyansky,NATIONALITY,NATIONALITY::soviet,465,Ephraim Sklyansky
+PERSON::ephraim markovich sklyansky,DIED_ON,"DATE::august 27, 1925",465,Ephraim Sklyansky
+PERSON::ephraim markovich sklyansky,COLLABORATED_WITH,OTHER::boris bazhanov,465,Ephraim Sklyansky
+WORK::world summit of nobel peace laureates,LOCATED_IN,PLACE::rome,466,World Summit of Nobel Peace Laureates
+WORK::world summit of nobel peace laureates,PART_OF,OTHER::nobel peace laureates and the peace laureate organizations,466,World Summit of Nobel Peace Laureates
+OTHER::permanent secretariat,LOCATED_IN,PLACE::bogota,466,World Summit of Nobel Peace Laureates
+PERSON::anastas ivanovich mikoyan,LIVES_IN,PLACE::soviet union,467,Anastas Mikoyan
+PERSON::anastas ivanovich mikoyan,NATIONALITY,NATIONALITY::russian,467,Anastas Mikoyan
+PERSON::mikhail gorbachev,NATIONALITY,NATIONALITY::russian,468,Mikhail Gorbachev
+PERSON::mikhail gorbachev,BORN_ON,DATE::2 march 1931,468,Mikhail Gorbachev
+PERSON::david jonathan waksberg,LIVES_IN,PLACE::new york city,469,David Waksberg
+PERSON::david jonathan waksberg,NATIONALITY,NATIONALITY::american,469,David Waksberg
+PERSON::david jonathan waksberg,BORN_ON,DATE::december 14,469,David Waksberg
+PERSON::david jonathan waksberg,DIED_ON,DATE::2007,469,David Waksberg
+PERSON::sergo anastasi mikoyan,NATIONALITY,NATIONALITY::russian,470,Sergo Mikoyan
+PERSON::sergo anastasi mikoyan,LIVES_IN,PLACE::soviet union,470,Sergo Mikoyan
+WORK::silene latifolia,LOCATED_IN,OTHER::europe,471,Silene latifolia
+WORK::silene latifolia,LOCATED_IN,OTHER::western asia,471,Silene latifolia
+WORK::silene latifolia,LOCATED_IN,OTHER::northern africa,471,Silene latifolia
+WORK::silene tomentosa,LOCATED_IN,OTHER::gibraltar,472,Silene tomentosa
+WORK::silene tomentosa,PART_OF,OTHER::genus 'silene',472,Silene tomentosa
+WORK::silene tomentosa,PART_OF,OTHER::family caryophyllaceae,472,Silene tomentosa
+WORK::silene,PART_OF,OTHER::caryophyllaceae,474,Silene
+WORK::silene stenophylla,LOCATED_IN,OTHER::arctic tundra of far eastern siberia and the mountains of northern japan,475,Silene stenophylla
+WORK::silene menziesii,LOCATED_IN,OTHER::western north america,476,Silene menziesii
+WORK::silene suksdorfii,LOCATED_IN,OTHER::pacific northwest of the united states,477,Silene suksdorfii
+WORK::ferocactus,PART_OF,OTHER::cacti,478,Ferocactus
+WORK::silene,PART_OF,OTHER::angiosperm,480,Sex determination in Silene
+WORK::no. 2 squadron raaf,LOCATED_IN,PLACE::raaf base williamtown,481,No. 2 Squadron RAAF
+WORK::no. 2 squadron raaf,LOCATED_IN,PLACE::new south wales,481,No. 2 Squadron RAAF
+WORK::south west pacific theatre of world war ii,LOCATED_IN,OTHER::the philippines,482,South West Pacific theatre of World War II
+WORK::south west pacific theatre of world war ii,LOCATED_IN,OTHER::dutch east indies (except for sumatra),482,South West Pacific theatre of World War II
+WORK::south west pacific theatre of world war ii,LOCATED_IN,OTHER::borneo,482,South West Pacific theatre of World War II
+WORK::south west pacific theatre of world war ii,LOCATED_IN,PLACE::australia,482,South West Pacific theatre of World War II
+WORK::south west pacific theatre of world war ii,LOCATED_IN,OTHER::new guinea (including the bismarck archipelago),482,South West Pacific theatre of World War II
+WORK::south west pacific theatre of world war ii,LOCATED_IN,OTHER::western part of the solomon islands,482,South West Pacific theatre of World War II
+WORK::english electric canberra,LOCATED_IN,OTHER::british,483,English Electric Canberra
+WORK::asiatic-pacific theater,PART_OF,OTHER::pacific war,484,Asiatic-Pacific Theater
+WORK::asiatic-pacific theater,LOCATED_IN,WORK::world war ii,484,Asiatic-Pacific Theater
+WORK::asiatic-pacific theater,LOCATED_IN,OTHER::1941-45,484,Asiatic-Pacific Theater
+WORK::savoia-marchetti sm.79,LOCATED_IN,OTHER::italy,485,Savoia-Marchetti SM.79
+WORK::savoia-marchetti sm.79,KNOWN_FOR,OTHER::its distinctive fuselage dorsal 'hump',485,Savoia-Marchetti SM.79
+WORK::south west pacific area (command),LOCATED_IN,OTHER::south west pacific theatre,486,South West Pacific Area (command)
+WORK::south west pacific area (command),PART_OF,OTHER::pacific war,486,South West Pacific Area (command)
+WORK::tupolev tu-2,PART_OF,WORK::tupolev tu-12,487,Tupolev Tu-12
+WORK::tupolev tu-12,LOCATED_IN,PLACE::soviet union,487,Tupolev Tu-12
+WORK::no. 12 squadron raaf,LOCATED_IN,OTHER::western new guinea,488,No. 12 Squadron RAAF
+WORK::coastwatchers,LOCATED_IN,OTHER::south west pacific theatre,489,Coastwatchers
+WORK::coastwatchers,KNOWN_FOR,OTHER::early warning network,489,Coastwatchers
+PERSON::edwin a. doss,LIVES_IN,PLACE::united states,490,Edwin A. Doss
+PERSON::edwin a. doss,NATIONALITY,NATIONALITY::american,490,Edwin A. Doss
+WORK::2016–17 colorado buffaloes men's basketball team,LOCATED_IN,"OTHER::boulder, colorado",491,2016–17 Colorado Buffaloes men's basketball team
+WORK::2016–17 colorado buffaloes men's basketball team,DIRECTED_BY,PERSON::tad boyle,491,2016–17 Colorado Buffaloes men's basketball team
+WORK::2016–17 colorado buffaloes men's basketball team,COLLABORATED_WITH,ORGANIZATION::pac-12 conference,491,2016–17 Colorado Buffaloes men's basketball team
+WORK::2016–17 colorado buffaloes men's basketball team,PART_OF,OTHER::ncaa division i men's basketball season,491,2016–17 Colorado Buffaloes men's basketball team
+WORK::colorado buffaloes men's basketball team,LOCATED_IN,"OTHER::boulder, colorado",492,2015–16 Colorado Buffaloes men's basketball team
+WORK::colorado buffaloes men's basketball team,PART_OF,ORGANIZATION::pac-12 conference,492,2015–16 Colorado Buffaloes men's basketball team
+WORK::colorado buffaloes men's basketball team,DIRECTED_BY,PERSON::tad boyle,492,2015–16 Colorado Buffaloes men's basketball team
+WORK::2009 colorado buffaloes football team,LOCATED_IN,ORGANIZATION::university of colorado,493,2009 Colorado Buffaloes football team
+WORK::2009 colorado buffaloes football team,DIRECTED_BY,PERSON::dan hawkins,493,2009 Colorado Buffaloes football team
+WORK::2015 colorado buffaloes football team,LOCATED_IN,ORGANIZATION::university of colorado at boulder,494,2015 Colorado Buffaloes football team
+WORK::2015 colorado buffaloes football team,LOCATED_IN,PLACE::folsom field,494,2015 Colorado Buffaloes football team
+WORK::2015 colorado buffaloes football team,PART_OF,ORGANIZATION::pac-12 conference,494,2015 Colorado Buffaloes football team
+WORK::2012 colorado buffaloes football team,LOCATED_IN,PLACE::folsom field,495,2012 Colorado Buffaloes football team
+WORK::1989 colorado buffaloes football team,LOCATED_IN,PLACE::university of colorado at boulder,496,1989 Colorado Buffaloes football team
+WORK::1989 colorado buffaloes football team,PART_OF,OTHER::ncaa division i-a football season,496,1989 Colorado Buffaloes football team
+WORK::2011 colorado buffaloes football team,LOCATED_IN,ORGANIZATION::university of colorado at boulder,497,2011 Colorado Buffaloes football team
+WORK::2011 colorado buffaloes football team,DIRECTED_BY,PERSON::jon embree,497,2011 Colorado Buffaloes football team
+WORK::2011 colorado buffaloes football team,LOCATED_IN,PLACE::folsom field,497,2011 Colorado Buffaloes football team
+WORK::2011 colorado buffaloes football team,COLLABORATED_WITH,ORGANIZATION::pac-12 conference,497,2011 Colorado Buffaloes football team
+WORK::2014 colorado buffaloes football team,LOCATED_IN,ORGANIZATION::university of colorado at boulder,498,2014 Colorado Buffaloes football team
+WORK::2014 colorado buffaloes football team,LOCATED_IN,PLACE::folsom field,498,2014 Colorado Buffaloes football team
+WORK::2014 colorado buffaloes football team,PART_OF,ORGANIZATION::pac-12 conference,498,2014 Colorado Buffaloes football team
+WORK::2009 big 12 conference football season,PART_OF,OTHER::2009 ncaa division i fbs football season,499,2009 Big 12 Conference football season
+OTHER::big 12,LOCATED_IN,WORK::2009 big 12 conference football season,499,2009 Big 12 Conference football season
+WORK::2014–15 colorado buffaloes men's basketball team,LOCATED_IN,PLACE::coors events center,500,2014–15 Colorado Buffaloes men's basketball team
+WORK::2014–15 colorado buffaloes men's basketball team,DIRECTED_BY,PERSON::tad boyle,500,2014–15 Colorado Buffaloes men's basketball team
+WORK::2014–15 colorado buffaloes men's basketball team,PART_OF,ORGANIZATION::pac-12 conference,500,2014–15 Colorado Buffaloes men's basketball team
+ORGANIZATION::selver,LOCATED_IN,PLACE::estonia,501,Selver
+ORGANIZATION::selver,LOCATED_IN,PLACE::latvia,501,Selver
+WORK::holiday inn orlando - disney springs area,LOCATED_IN,PLACE::walt disney world resort,502,Holiday Inn Lake Buena Vista Downtown
+WORK::holiday inn orlando - disney springs area,PART_OF,OTHER::holiday inn,502,Holiday Inn Lake Buena Vista Downtown
+WORK::tesco extra,LOCATED_IN,PLACE::united kingdom,503,Tesco Extra
+ORGANIZATION::tazweed center,LOCATED_IN,OTHER::syrian refugee camps,504,Tazweed Center
+ORGANIZATION::carrefour s.a.,LOCATED_IN,PLACE::france,505,Carrefour
+WORK::uno-x,LOCATED_IN,PLACE::norway,508,Uno-X
+WORK::uno-x,LOCATED_IN,PLACE::denmark,508,Uno-X
+WORK::euromarché,LOCATED_IN,PLACE::france,509,Euromarché
+WORK::lewis's,LOCATED_IN,PLACE::liverpool,510,Lewis's
+WORK::lewis's,LOCATED_IN,PLACE::manchester,510,Lewis's
+WORK::lewis's,PART_OF,OTHER::owen owen,510,Lewis's
+WORK::subway 400,LOCATED_IN,PLACE::north carolina speedway,511,Subway 400
+WORK::subway 400,PART_OF,OTHER::nascar winston cup series,511,Subway 400
+WORK::carolina dodge dealers 400,LOCATED_IN,PLACE::darlington raceway,512,Carolina Dodge Dealers 400
+WORK::carolina dodge dealers 400,LOCATED_IN,"PLACE::darlington, south carolina, usa",512,Carolina Dodge Dealers 400
+WORK::indianapolis motor speedway,LOCATED_IN,"PLACE::speedway, indiana",514,Indianapolis Motor Speedway
+WORK::indianapolis motor speedway,LOCATED_IN,PLACE::indiana,514,Indianapolis Motor Speedway
+WORK::indianapolis motor speedway,LOCATED_IN,PLACE::united states,514,Indianapolis Motor Speedway
+WORK::lean horse ultramarathon,LOCATED_IN,OTHER::black hills of south dakota,515,Lean Horse Ultramarathon
+WORK::lean horse ultramarathon,PART_OF,OTHER::united states,515,Lean Horse Ultramarathon
+WORK::lean horse ultramarathon,KNOWN_FOR,OTHER::one of the easiest hundred mile races in the country,515,Lean Horse Ultramarathon
+WORK::orange county fair speedway,LOCATED_IN,PLACE::middletown,516,Orange County Fair Speedway
+WORK::orange county fair speedway,LOCATED_IN,PLACE::orange county,516,Orange County Fair Speedway
+WORK::orange county fair speedway,LOCATED_IN,PLACE::new york,516,Orange County Fair Speedway
+"PERSON::john sherman ""johnny"" rutherford iii",NATIONALITY,NATIONALITY::american,517,Johnny Rutherford
+"PERSON::john sherman ""johnny"" rutherford iii",BORN_ON,DATE::march 12,517,Johnny Rutherford
+WORK::1957 indianapolis 500,LOCATED_IN,WORK::indianapolis motor speedway,518,1957 Indianapolis 500
+WORK::1957 indianapolis 500,PART_OF,OTHER::1957 usac national championship trail,518,1957 Indianapolis 500
+WORK::1964 armstrong 500,LOCATED_IN,PLACE::mount panorama circuit,519,1964 Armstrong 500
+WORK::1964 armstrong 500,LOCATED_IN,PLACE::bathurst,519,1964 Armstrong 500
+WORK::1964 armstrong 500,LOCATED_IN,PLACE::new south wales,519,1964 Armstrong 500
+PERSON::ron bottcher,LIVES_IN,"PLACE::sandpoint, idaho",521,Ron Bottcher
+WORK::la bohème (1988 film),DIRECTED_BY,PERSON::luigi comencini,522,La Bohème (1988 film)
+WORK::gianni schicchi,PRODUCED_BY,PERSON::giacomo puccini,523,Gianni Schicchi
+WORK::gianni schicchi,LOCATED_IN,NATIONALITY::italian,523,Gianni Schicchi
+PERSON::franco corelli,LIVES_IN,PLACE::italy,524,Franco Corelli
+WORK::o mio babbino caro,PART_OF,WORK::gianni schicchi,525,O mio babbino caro
+WORK::la fanciulla del west,DIRECTED_BY,PERSON::giacomo puccini,526,La fanciulla del West
+WORK::tosca (1956 film),DIRECTED_BY,PERSON::carmine gallone,527,Tosca (1956 film)
+WORK::tosca (1956 film),STARS,PERSON::franca duval,527,Tosca (1956 film)
+WORK::tosca (1956 film),STARS,PERSON::afro poli,527,Tosca (1956 film)
+WORK::tosca (1956 film),STARS,PERSON::franco corelli,527,Tosca (1956 film)
+WORK::festival puccini,LOCATED_IN,OTHER::july and august,528,Festival Puccini
+WORK::festival puccini,PART_OF,OTHER::summer opera festival,528,Festival Puccini
+PERSON::cesira ferrani,LIVES_IN,PLACE::turin,529,Cesira Ferrani
+PERSON::cesira ferrani,LIVES_IN,PLACE::pollone,529,Cesira Ferrani
+PERSON::jacopo puccini,LIVES_IN,PLACE::lucca,530,Jacopo Puccini
+PERSON::jacopo puccini,NATIONALITY,NATIONALITY::italian,530,Jacopo Puccini
+WORK::love me like you do,PART_OF,WORK::fifty shades of grey (soundtrack),532,Love Me like You Do
+WORK::love me like you do,PART_OF,WORK::delirium (album),532,Love Me like You Do
+WORK::outside,PRODUCED_BY,PERSON::calvin harris,533,Outside (Calvin Harris song)
+WORK::outside,STARS,PERSON::ellie goulding,533,Outside (Calvin Harris song)
+WORK::on my mind,PRODUCED_BY,PERSON::ellie goulding,534,On My Mind (Ellie Goulding song)
+WORK::on my mind,LOCATED_IN,OTHER::electropop and r&b,534,On My Mind (Ellie Goulding song)
+WORK::army,PRODUCED_BY,PERSON::ellie goulding,535,Army (Ellie Goulding song)
+WORK::delirium world tour,LOCATED_IN,"OTHER::hamburg, germany",536,Delirium World Tour
+WORK::delirium world tour,LOCATED_IN,"OTHER::rabat, morocco",536,Delirium World Tour
+WORK::something in the way you move,PRODUCED_BY,PERSON::ellie goulding,539,Something in the Way You Move
+WORK::something in the way you move,LOCATED_IN,NATIONALITY::english,539,Something in the Way You Move
+PERSON::ellie goulding,COLLABORATED_WITH,OTHER::starsmith,540,List of songs recorded by Ellie Goulding
+PERSON::ellie goulding,COLLABORATED_WITH,OTHER::jonny lattimer,540,List of songs recorded by Ellie Goulding
+WORK::sainik school balachadi,LOCATED_IN,PLACE::jamnagar,541,"Sainik School Balachadi, Jamnagar"
+WORK::png solution,LOCATED_IN,PLACE::australia,542,PNG solution
+WORK::png solution,LOCATED_IN,PLACE::papua new guinea,542,PNG solution
+"WORK::cotter high school (winona, minnesota)",LOCATED_IN,"PLACE::winona, minnesota",543,"Cotter High School (Winona, Minnesota)"
+PLACE::marion,LOCATED_IN,ORGANIZATION::city of marion,544,"Marion, South Australia"
+ORGANIZATION::city of marion,LOCATED_IN,PLACE::adelaide,544,"Marion, South Australia"
+WORK::princeton high school (illinois),LOCATED_IN,OTHER::princeton,545,Princeton High School (Illinois)
+WORK::concho indian boarding school,LOCATED_IN,"OTHER::concho, oklahoma",546,Concho Indian Boarding School
+WORK::concho indian boarding school,LOCATED_IN,"OTHER::el reno, oklahoma",546,Concho Indian Boarding School
+ORGANIZATION::grace church school,LOCATED_IN,PLACE::86 fourth avenue,547,Grace Church School
+ORGANIZATION::grace church school,LOCATED_IN,PLACE::east village,547,Grace Church School
+ORGANIZATION::grace church school,LOCATED_IN,PLACE::manhattan,547,Grace Church School
+ORGANIZATION::grace church school,LOCATED_IN,PLACE::new york city,547,Grace Church School
+WORK::nawal english boarding school,COLLABORATED_WITH,WORK::vishwajyoti higher secondary school,548,Vishwajyoti Higher Secondary School
+WORK::vishwajyoti higher secondary school,LOCATED_IN,PLACE::nawalparasi,548,Vishwajyoti Higher Secondary School
+WORK::grennaskolan boarding school,LOCATED_IN,PLACE::gränna,549,Grennaskolan
+WORK::grennaskolan boarding school,LOCATED_IN,PLACE::jönköping county,549,Grennaskolan
+ORGANIZATION::westminster school,LOCATED_IN,PLACE::adelaide,550,"Westminster School, Adelaide"
+PERSON::raimund harmstorf,LIVES_IN,PLACE::hamburg,551,Raimund Harmstorf
+PERSON::raimund harmstorf,LIVES_IN,PLACE::marktoberdorf,551,Raimund Harmstorf
+PERSON::raimund harmstorf,NATIONALITY,NATIONALITY::german,551,Raimund Harmstorf
+PERSON::raimund harmstorf,KNOWN_FOR,OTHER::german tv mini series based on jack london's the sea-wolf,551,Raimund Harmstorf
+WORK::rising star,LOCATED_IN,PLACE::france,552,Rising Star (France)
+ORGANIZATION::m6,LOCATED_IN,PLACE::france,552,Rising Star (France)
+WORK::iron man (tv series),LOCATED_IN,OTHER::united states,553,Iron Man (TV series)
+WORK::iron man (tv series),PART_OF,OTHER::marvel action hour,553,Iron Man (TV series)
+WORK::raaz pichhle janm ka,STARS,PERSON::ravi kishan,554,Raaz Pichhle Janam Ka
+WORK::raaz pichhle janm ka,LOCATED_IN,PLACE::mumbai,554,Raaz Pichhle Janam Ka
+WORK::raaz pichhle janm ka,KNOWN_FOR,OTHER::past life regression,554,Raaz Pichhle Janam Ka
+WORK::night school,PRODUCED_BY,PERSON::cj daugherty,556,Night School: the Web Series
+WORK::night school,PRODUCED_BY,PERSON::jack jewers,556,Night School: the Web Series
+WORK::ripley's believe it or not! (tv series),LOCATED_IN,OTHER::united states,557,Ripley's Believe It or Not! (TV series)
+WORK::drifting,KNOWN_FOR,OTHER::driving technique,558,Drifting (motorsport)
+WORK::d1nz,LOCATED_IN,PLACE::new zealand,559,D1NZ
+WORK::d1nz,PART_OF,OTHER::motorsport new zealand,559,D1NZ
+"WORK::katri, girl of the meadows",LOCATED_IN,PLACE::japan,560,"Katri, Girl of the Meadows"
+WORK::1990 atlanta falcons season,LOCATED_IN,ORGANIZATION::atlanta falcons,562,1990 Atlanta Falcons season
+PERSON::jerry glanville,COLLABORATED_WITH,ORGANIZATION::pittsburgh steelers,563,1987 Pittsburgh Steelers season
+PERSON::keith bostic,NATIONALITY,NATIONALITY::american,564,Keith Bostic
+"PERSON::darrel ""mouse"" davis",LIVES_IN,PLACE::oregon,565,Mouse Davis
+WORK::portland state university,DIRECTED_BY,"PERSON::darrel ""mouse"" davis",565,Mouse Davis
+WORK::university of hawaii at manoa,DIRECTED_BY,"PERSON::darrel ""mouse"" davis",565,Mouse Davis
+PERSON::jerry michael glanville,LIVES_IN,PLACE::united states,566,Jerry Glanville
+WORK::portland state vikings football,DIRECTED_BY,PERSON::jerry glanville,567,Portland State Vikings football under Jerry Glanville
+ORGANIZATION::houston oilers,LOCATED_IN,OTHER::houston,569,1989 Houston Oilers season
+PERSON::william keith bostic,LIVES_IN,PLACE::united states,570,Keith Bostic (American football)
+WORK::parkridge,LOCATED_IN,PLACE::saskatoon,571,"Parkridge, Saskatoon"
+WORK::parkridge,LOCATED_IN,PLACE::saskatchewan,571,"Parkridge, Saskatoon"
+PLACE::willoughton,LOCATED_IN,OTHER::west lindsey,572,Willoughton
+PLACE::willoughton,LOCATED_IN,PLACE::lincolnshire,572,Willoughton
+PLACE::willoughton,LOCATED_IN,PLACE::england,572,Willoughton
+ORGANIZATION::bangladesh bureau of statistics,LOCATED_IN,PLACE::bangladesh,573,2001 Bangladesh census
+PLACE::boston,LOCATED_IN,PLACE::lincolnshire,574,"Boston, Lincolnshire"
+PLACE::kirton,LOCATED_IN,PLACE::suffolk,575,"Kirton, Suffolk"
+PLACE::kirton,LOCATED_IN,PLACE::england,575,"Kirton, Suffolk"
+PLACE::kirton,LOCATED_IN,WORK::a14,575,"Kirton, Suffolk"
+PLACE::kirton,LOCATED_IN,WORK::river debben,575,"Kirton, Suffolk"
+PLACE::kirton,LOCATED_IN,WORK::river orwell,575,"Kirton, Suffolk"
+PLACE::kirton,LOCATED_IN,PLACE::nottinghamshire,576,"Kirton, Nottinghamshire"
+PLACE::india,PART_OF,OTHER::china,577,Urbanisation in India
+PLACE::india,PART_OF,OTHER::indonesia,577,Urbanisation in India
+PLACE::india,PART_OF,OTHER::nigeria,577,Urbanisation in India
+PLACE::india,PART_OF,OTHER::united states,577,Urbanisation in India
+PLACE::sauce viejo,LOCATED_IN,PLACE::santa fe,578,"Sauce Viejo, Argentina"
+PLACE::santa fe,LOCATED_IN,PLACE::argentina,578,"Sauce Viejo, Argentina"
+PLACE::berwick-upon-tweed,LOCATED_IN,PLACE::northumberland,579,Borough of Berwick-upon-Tweed
+PLACE::berwick-upon-tweed,LOCATED_IN,PLACE::scotland,579,Borough of Berwick-upon-Tweed
+PLACE::kirton end,LOCATED_IN,PLACE::boston,580,Kirton End
+PLACE::kirton end,LOCATED_IN,PLACE::kirton,580,Kirton End
+OTHER::fokienia hodginsii,PART_OF,OTHER::fokienia,581,Fokienia
+OTHER::fokienia hodginsii,KNOWN_FOR,OTHER::fujian cypress,581,Fokienia
+WORK::frenchman formation,PART_OF,OTHER::western canada sedimentary basin,582,Frenchman Formation
+WORK::frenchman formation,LOCATED_IN,OTHER::southern saskatchewan and the cypress hills of southeastern alberta,582,Frenchman Formation
+WORK::cedrol,PART_OF,OTHER::sesquiterpene alcohol,585,Cedrol
+WORK::cedrol,LOCATED_IN,OTHER::essential oil,585,Cedrol
+WORK::pilgerodendron,PART_OF,OTHER::cupressaceae,587,Pilgerodendron
+WORK::charlotte hornets,LOCATED_IN,"PLACE::charlotte, north carolina",591,Charlotte Hornets all-time roster
+WORK::charlotte hornets,PART_OF,"OTHER::southeast division of the eastern conference, nba",591,Charlotte Hornets all-time roster
+ORGANIZATION::charlotte hornets,LOCATED_IN,"PLACE::charlotte, north carolina",594,Charlotte Hornets draft history
+ORGANIZATION::charlotte hornets,LOCATED_IN,PLACE::new orleans,594,Charlotte Hornets draft history
+PERSON::ayana d'nay walker,LIVES_IN,PLACE::united states,595,Ayana Walker
+WORK::2003 wnba season,LOCATED_IN,OTHER::united states,596,2003 WNBA season
+ORGANIZATION::charlotte hornets,LOCATED_IN,PLACE::charlotte,597,List of Charlotte Hornets seasons
+ORGANIZATION::charlotte hornets,PART_OF,WORK::national basketball association (nba),597,List of Charlotte Hornets seasons
+ORGANIZATION::charlotte hornets,LOCATED_IN,OTHER::southeast division of the eastern conference,597,List of Charlotte Hornets seasons
+WORK::charlotte hornets,LOCATED_IN,OTHER::uptown charlotte,598,Charlotte Hornets
+WORK::charlotte hornets,PART_OF,WORK::national basketball association (nba),598,Charlotte Hornets
+WORK::charlotte hornets,LOCATED_IN,"PLACE::charlotte, north carolina",598,Charlotte Hornets
+PERSON::muggsy bogues,LIVES_IN,PLACE::united states,599,Muggsy Bogues
+WORK::christus apollo,PRODUCED_BY,PERSON::jerry goldsmith,601,Christus Apollo
+WORK::christus apollo,LOCATED_IN,PLACE::royce hall,601,Christus Apollo
+WORK::l.a. confidential (soundtrack),PART_OF,OTHER::1997 academy award- and golden globe award-winning film,603,L.A. Confidential (soundtrack)
+WORK::innerspace,DIRECTED_BY,PERSON::joe dante,604,Innerspace
+WORK::innerspace,PRODUCED_BY,PERSON::michael finnell,604,Innerspace
+WORK::aliens (soundtrack),PRODUCED_BY,PERSON::james horner,605,Aliens (soundtrack)
+WORK::legend (film score),PART_OF,OTHER::film,608,Legend (film score)
+WORK::legend (film score),LOCATED_IN,OTHER::1986,608,Legend (film score)
+PERSON::jerry goldsmith,NATIONALITY,NATIONALITY::american,608,Legend (film score)
+WORK::lionheart (1987 film),DIRECTED_BY,PERSON::franklin j. schaffner,610,Lionheart (1987 film)
+WORK::lionheart (1987 film),PRODUCED_BY,PERSON::talia shire,610,Lionheart (1987 film)
+WORK::lionheart (1987 film),PRODUCED_BY,PERSON::stanley o'toole,610,Lionheart (1987 film)
+WORK::the mark on the wall,PART_OF,WORK::two stories,611,The Mark on the Wall
+WORK::the mark on the wall,PART_OF,WORK::monday or tuesday,611,The Mark on the Wall
+PERSON::emma bull,NATIONALITY,NATIONALITY::american,612,Emma Bull
+PERSON::adeline virginia woolf,LIVES_IN,PLACE::kensington,613,Virginia Woolf
+PERSON::adeline virginia woolf,LIVES_IN,PLACE::london,613,Virginia Woolf
+WORK::orlando: a biography,PRODUCED_BY,PERSON::virginia woolf,614,Orlando: A Biography
+WORK::orlando: a biography,KNOWN_FOR,OTHER::feminist classic,614,Orlando: A Biography
+WORK::me! i'm afraid of virginia woolf,DIRECTED_BY,PERSON::stephen frears,615,Me! I'm Afraid of Virginia Woolf
+PERSON::jane de gay,NATIONALITY,NATIONALITY::british,616,Jane de Gay
+WORK::the duchess and the jeweller,PART_OF,OTHER::a haunted house and other short stories,618,The Duchess and the Jeweller
+WORK::moments of being,PRODUCED_BY,PERSON::virginia woolf,619,Moments of Being
+WORK::moments of being,LOCATED_IN,OTHER::sussex university,619,Moments of Being
+WORK::moments of being,LOCATED_IN,OTHER::british library,619,Moments of Being
+PERSON::jane marcus,LIVES_IN,PLACE::united states,620,Jane Marcus
+PERSON::jane marcus,NATIONALITY,NATIONALITY::american,620,Jane Marcus
+PERSON::jane marcus,BORN_ON,DATE::1938,620,Jane Marcus
+PERSON::jane marcus,DIED_ON,DATE::2015,620,Jane Marcus
+WORK::billy boy,LOCATED_IN,OTHER::united states,621,Billy Boy
+WORK::billy boy,PART_OF,OTHER::traditional folk song and nursery rhyme,621,Billy Boy
+WORK::billy boy,COLLABORATED_WITH,OTHER::ralph vaughan williams,621,Billy Boy
+WORK::tweedledum and tweedledee,PART_OF,OTHER::english nursery rhyme,623,Tweedledum and Tweedledee
+WORK::tweedledum and tweedledee,PART_OF,"OTHER::""through the looking-glass, and what alice found there""",623,Tweedledum and Tweedledee
+"WORK::row, row, row your boat",PART_OF,OTHER::english language,625,"Row, Row, Row Your Boat"
+"WORK::row, row, row your boat",PART_OF,OTHER::nursery rhyme,625,"Row, Row, Row Your Boat"
+"WORK::row, row, row your boat",PART_OF,OTHER::children's song,625,"Row, Row, Row Your Boat"
+WORK::three little kittens,PART_OF,OTHER::mother goose,626,Three Little Kittens
+WORK::a wise old owl,LOCATED_IN,OTHER::english language,628,A Wise Old Owl
+WORK::what are little girls made of?,DIRECTED_BY,PERSON::james goldstone,630,What Are Little Girls Made Of?
+WORK::what are little girls made of?,PRODUCED_BY,PERSON::robert bloch,630,What Are Little Girls Made Of?
+PERSON::yvonne ridley,NATIONALITY,NATIONALITY::british,631,Yvonne Ridley
+PERSON::yvonne ridley,BORN_ON,DATE::23 april 1958,631,Yvonne Ridley
+WORK::mobil producing nigeria,LOCATED_IN,OTHER::nigeria,632,Mobil Producing Nigeria
+PERSON::scott parkin,LIVES_IN,"PLACE::garland, texas",633,Scott Parkin
+PERSON::scott parkin,KNOWN_FOR,"OTHER::anti-war, environmental and global justice organizer",633,Scott Parkin
+ORGANIZATION::halliburton company,LOCATED_IN,PLACE::united states,634,Halliburton
+WORK::prx-07034,COLLABORATED_WITH,OTHER::another corporation,635,PRX-07034
+ORGANIZATION::religious technology center,LOCATED_IN,"OTHER::los angeles county, california",639,Religious Technology Center
+WORK::safe harbor (tv series),PRODUCED_BY,PERSON::brenda hampton,641,Safe Harbor (TV series)
+WORK::safe harbor (tv series),LOCATED_IN,PLACE::the wb television network,641,Safe Harbor (TV series)
+WORK::the power of three,PART_OF,WORK::charmed,642,Power of Three (Charmed)
+PERSON::prue (halliwell),DIED_ON,DATE::season three finale,642,Power of Three (Charmed)
+PERSON::rose arianna mcgowan,NATIONALITY,NATIONALITY::american,644,Rose McGowan
+PERSON::rose arianna mcgowan,LIVES_IN,PLACE::united states,644,Rose McGowan
+PERSON::rose arianna mcgowan,BORN_ON,"DATE::september 5, 1973",644,Rose McGowan
+PERSON::kerr smith,LIVES_IN,PLACE::united states,645,Kerr Smith
+PERSON::kerr smith,BORN_ON,DATE::1972-03-09,645,Kerr Smith
+PERSON::kerr smith,KNOWN_FOR,OTHER::jack mcphee,645,Kerr Smith
+PERSON::kerr smith,KNOWN_FOR,OTHER::kyle brody,645,Kerr Smith
+PERSON::kerr smith,KNOWN_FOR,OTHER::axel palmer,645,Kerr Smith
+PERSON::kerr smith,KNOWN_FOR,OTHER::carter horton,645,Kerr Smith
+WORK::jawbreaker (film),DIRECTED_BY,PERSON::darren stein,646,Jawbreaker (film)
+WORK::jawbreaker (film),STARS,PERSON::rose mcgowan,646,Jawbreaker (film)
+WORK::jawbreaker (film),STARS,PERSON::rebecca gayheart,646,Jawbreaker (film)
+WORK::jawbreaker (film),STARS,PERSON::julie benz,646,Jawbreaker (film)
+PERSON::sarah drew,NATIONALITY,NATIONALITY::american,647,Sarah Drew
+PERSON::sarah drew,BORN_ON,"DATE::october 1, 1980",647,Sarah Drew
+WORK::charmed (season 4),LOCATED_IN,ORGANIZATION::the wb,648,Charmed (season 4)
+WORK::charmed (season 4),LOCATED_IN,OTHER::paramount home entertainment,648,Charmed (season 4)
+WORK::charmed,LOCATED_IN,PLACE::san francisco,649,List of Charmed characters
+WORK::charmed,LOCATED_IN,PLACE::san francisco,650,Charmed
+PERSON::ralph charles,LIVES_IN,PLACE::west ham boys & abc,651,Ralph Charles
+PERSON::vince phillips,NATIONALITY,NATIONALITY::american,653,Vince Phillips
+PERSON::vince phillips,BORN_ON,DATE::july 23,653,Vince Phillips
+PERSON::andrew murray,LIVES_IN,PLACE::georgetown,654,Andrew Murray (Guyanese boxer)
+PERSON::andrew murray,COLLABORATED_WITH,PERSON::hugo lewis,654,Andrew Murray (Guyanese boxer)
+PERSON::fatai onikeke,LIVES_IN,PLACE::nigerian/australian,655,Fatai Onikeke
+PERSON::fatai onikeke,KNOWN_FOR,OTHER::professional light welter/welterweight boxer,655,Fatai Onikeke
+PERSON::julian holland,LIVES_IN,PLACE::bendigo,656,Julian Holland (boxer)
+PERSON::julian holland,NATIONALITY,NATIONALITY::australian,656,Julian Holland (boxer)
+PERSON::jeff malcolm,LIVES_IN,PLACE::cowra,657,Jeff Malcolm
+PERSON::jeff malcolm,NATIONALITY,NATIONALITY::australian,657,Jeff Malcolm
+PERSON::jeff malcolm,BORN_ON,DATE::9 may 1956,657,Jeff Malcolm
+PERSON::jeff malcolm,KNOWN_FOR,OTHER::professional boxer,657,Jeff Malcolm
+PERSON::zabdiel judah,NATIONALITY,NATIONALITY::american,658,Zab Judah
+PERSON::zabdiel judah,BORN_ON,DATE::october 27,658,Zab Judah
+ORGANIZATION::international boxing federation,LOCATED_IN,ORGANIZATION::international boxing hall of fame,659,International Boxing Federation
+PERSON::lawrence austin,LIVES_IN,PLACE::warrnambool,660,Lawrence Austin
+PERSON::lawrence austin,NATIONALITY,NATIONALITY::australian,660,Lawrence Austin
+WORK::can't touch it,STARS,PERSON::ricki-lee coulter,661,Can't Touch It
+WORK::u know what's up,PRODUCED_BY,PERSON::edward 'eddie f' ferrell,663,U Know What's Up
+WORK::u know what's up,PRODUCED_BY,PERSON::darren lighty,663,U Know What's Up
+WORK::u know what's up,STARS,PERSON::lisa lopes,663,U Know What's Up
+WORK::u know what's up,DIRECTED_BY,PERSON::donell jones,663,U Know What's Up
+PERSON::billy ray cyrus,KNOWN_FOR,OTHER::achy breaky heart,664,Billy Ray Cyrus discography
+WORK::i don't wanna know,PRODUCED_BY,PERSON::mario winans,665,I Don't Wanna Know
+WORK::i don't wanna know,STARS,PERSON::p. diddy,665,I Don't Wanna Know
+WORK::no one,PRODUCED_BY,PERSON::alicia keys,666,No One (Alicia Keys song)
+WORK::no one,LOCATED_IN,OTHER::united states,666,No One (Alicia Keys song)
+WORK::no one,STARS,PERSON::alicia keys,666,No One (Alicia Keys song)
+WORK::no one,PART_OF,OTHER::as i am (album),666,No One (Alicia Keys song)
+WORK::my fair lady (broadway cast recording),STARS,PERSON::julie andrews,668,My Fair Lady (Broadway cast recording)
+WORK::my fair lady (broadway cast recording),STARS,PERSON::rex harrison,668,My Fair Lady (Broadway cast recording)
+WORK::my fair lady (broadway cast recording),PRODUCED_BY,PERSON::godard lieberson,668,My Fair Lady (Broadway cast recording)
+WORK::yeah!,PRODUCED_BY,PERSON::usher,669,Yeah! (Usher song)
+WORK::yeah!,LOCATED_IN,OTHER::arista records,669,Yeah! (Usher song)
+WORK::stay,PART_OF,OTHER::enjoy the ride,670,Stay (Sugarland song)
+WORK::the hard easy,DIRECTED_BY,PERSON::ari ryan,671,The Hard Easy (film)
+WORK::the hard easy,STARS,PERSON::henry thomas,671,The Hard Easy (film)
+WORK::moving on,DIRECTED_BY,PERSON::jon favreau,672,Moving On (The Office)
+WORK::roy's wedding,STARS,PERSON::david denman,674,Roy's Wedding
+WORK::roy's wedding,STARS,PERSON::michael patrick mcgill,674,Roy's Wedding
+WORK::roy's wedding,STARS,PERSON::robert r. shafer,674,Roy's Wedding
+WORK::roy's wedding,STARS,PERSON::ameenah kaplan,674,Roy's Wedding
+PERSON::brian doyle-murray,NATIONALITY,NATIONALITY::american,675,Brian Doyle-Murray
+PERSON::brian doyle-murray,LIVES_IN,PLACE::united states,675,Brian Doyle-Murray
+WORK::the farm,STARS,PERSON::matt jones,676,The Farm (The Office)
+WORK::the farm,STARS,PERSON::majandra delfino,676,The Farm (The Office)
+WORK::the farm,STARS,PERSON::blake garrett rosenthal,676,The Farm (The Office)
+WORK::the farm,STARS,PERSON::thomas middleditch,676,The Farm (The Office)
+WORK::the hard easy,PART_OF,WORK::adventure time,677,The Hard Easy (Adventure Time)
+WORK::web weirdos,STARS,PERSON::finn,678,Web Weirdos
+WORK::web weirdos,STARS,PERSON::jake,678,Web Weirdos
+WORK::evicted!,STARS,PERSON::erik estrada,679,Evicted!
+WORK::andy's ancestry,DIRECTED_BY,PERSON::david rogers,680,Andy's Ancestry
+WORK::2017–18 wigan athletic f.c. season,LOCATED_IN,OTHER::league one,681,2017–18 Wigan Athletic F.C. season
+WORK::2017–18 wigan athletic f.c. season,PART_OF,OTHER::fa cup,681,2017–18 Wigan Athletic F.C. season
+WORK::2017–18 wigan athletic f.c. season,PART_OF,WORK::efl cup,681,2017–18 Wigan Athletic F.C. season
+WORK::2017–18 wigan athletic f.c. season,PART_OF,OTHER::efl trophy,681,2017–18 Wigan Athletic F.C. season
+WORK::2007–08 wigan athletic f.c. season,LOCATED_IN,OTHER::football league,682,2007–08 Wigan Athletic F.C. season
+WORK::2007–08 wigan athletic f.c. season,LOCATED_IN,OTHER::premier league,682,2007–08 Wigan Athletic F.C. season
+WORK::efl cup,PART_OF,WORK::carabao cup,683,EFL Cup
+WORK::efl cup,LOCATED_IN,OTHER::english football league,683,EFL Cup
+WORK::springfield park,LOCATED_IN,PLACE::wigan,684,Springfield Park (Wigan)
+WORK::springfield park,LOCATED_IN,PLACE::greater manchester,684,Springfield Park (Wigan)
+WORK::trinidad and tobago league cup,LOCATED_IN,OTHER::trinidad and tobago,685,Trinidad and Tobago League Cup
+WORK::trinidad and tobago league cup,PART_OF,OTHER::tt pro league,685,Trinidad and Tobago League Cup
+WORK::1979–80 wigan athletic f.c. season,PART_OF,OTHER::football league,686,1979–80 Wigan Athletic F.C. season
+ORGANIZATION::wigan athletic f.c.,LOCATED_IN,PLACE::wigan,686,1979–80 Wigan Athletic F.C. season
+PERSON::nick powell,LIVES_IN,PLACE::england,687,Nick Powell
+WORK::2006–07 wigan athletic f.c. season,LOCATED_IN,OTHER::football league,688,2006–07 Wigan Athletic F.C. season
+WORK::2006–07 wigan athletic f.c. season,LOCATED_IN,OTHER::premier league,688,2006–07 Wigan Athletic F.C. season
+WORK::1978–79 wigan athletic f.c. season,LOCATED_IN,"OTHER::wigan, england",689,1978–79 Wigan Athletic F.C. season
+WORK::1978–79 wigan athletic f.c. season,PART_OF,OTHER::football league,689,1978–79 Wigan Athletic F.C. season
+ORGANIZATION::wigan borough f.c.,LOCATED_IN,PLACE::wigan,690,List of Wigan Borough F.C. players
+WORK::teen titans go!,LOCATED_IN,OTHER::united states,691,List of Teen Titans Go! episodes
+PERSON::tara strong,NATIONALITY,NATIONALITY::canadian–american,693,Tara Strong
+PERSON::tara strong,LIVES_IN,PLACE::canada and united states,693,Tara Strong
+WORK::teen titans go!,LOCATED_IN,NATIONALITY::american,695,Teen Titans Go! (TV series)
+WORK::teen titans go!,PART_OF,OTHER::dc comics,695,Teen Titans Go! (TV series)
+WORK::teen titans (season 1),STARS,PERSON::scott menville,696,Teen Titans (season 1)
+WORK::teen titans (season 1),STARS,PERSON::hynden walch,696,Teen Titans (season 1)
+WORK::teen titans: trouble in tokyo,PRODUCED_BY,PERSON::david slack,697,Teen Titans: Trouble in Tokyo
+WORK::teen titans,PART_OF,OTHER::dc comics,698,Teen Titans
+WORK::teen titans,STARS,PERSON::kid flash (wally west),698,Teen Titans
+WORK::teen titans,STARS,PERSON::robin (dick grayson),698,Teen Titans
+WORK::teen titans,STARS,PERSON::aqualad (garth),698,Teen Titans
+PERSON::tara strong,NATIONALITY,NATIONALITY::canadian–american,699,Tara Strong filmography
+PERSON::tara strong,LIVES_IN,PLACE::canada and united states,699,Tara Strong filmography
+WORK::122nd ss-standarte,LOCATED_IN,PLACE::strasbourg,701,122nd SS-Standarte
+WORK::122nd hydroplane liaison squadron,PART_OF,ORGANIZATION::yugoslav navy,702,122nd Hydroplane Liaison Squadron
+WORK::122nd hydroplane liaison squadron,PART_OF,ORGANIZATION::yugoslav air force,702,122nd Hydroplane Liaison Squadron
+WORK::122nd fighter aviation squadron,LOCATED_IN,PLACE::skopski petrovac military airport,703,122nd Fighter Aviation Squadron
+WORK::122nd fighter aviation squadron,PART_OF,ORGANIZATION::yugoslav air force,703,122nd Fighter Aviation Squadron
+PLACE::strasbourg,LOCATED_IN,OTHER::grand est region of france,704,Strasbourg
+WORK::122nd ohio volunteer infantry,PART_OF,OTHER::union army,706,122nd Ohio Infantry
+WORK::122nd infantry regiment,LOCATED_IN,ORGANIZATION::georgia army national guard,707,122nd Infantry Regiment (United States)
+WORK::122nd infantry regiment,PART_OF,ORGANIZATION::united states army,707,122nd Infantry Regiment (United States)
+WORK::122d fighter squadron,LOCATED_IN,PLACE::naval air station joint reserve base new orleans,708,122d Fighter Squadron
+WORK::122d fighter squadron,PART_OF,ORGANIZATION::louisiana air national guard 159th fighter wing,708,122d Fighter Squadron
+"WORK::122nd battalion, cef",LOCATED_IN,"OTHER::huntsville, ontario",709,"122nd (Muskoka) Battalion, CEF"
+WORK::122nd division (imperial japanese army),LOCATED_IN,OTHER::mudanjiang,710,122nd Division (Imperial Japanese Army)
+WORK::122nd division (imperial japanese army),PART_OF,"OTHER::121st, 122nd, 123rd, 124th, 125th, 126th, 127th and 128th divisions",710,122nd Division (Imperial Japanese Army)
+WORK::queen's day,LOCATED_IN,PLACE::netherlands,711,Queen's Day (disambiguation)
+WORK::queen's day,LOCATED_IN,PLACE::aruba,711,Queen's Day (disambiguation)
+WORK::queen's day,COLLABORATED_WITH,PERSON::king willem-alexander,711,Queen's Day (disambiguation)
+WORK::king's day,LOCATED_IN,PLACE::netherlands,711,Queen's Day (disambiguation)
+WORK::children's day (japan),LOCATED_IN,PLACE::japan,712,Children's Day (Japan)
+WORK::children's day (japan),PART_OF,OTHER::golden week,712,Children's Day (Japan)
+WORK::children's day (japan),KNOWN_FOR,OTHER::respect children's personalities and to celebrate their happiness,712,Children's Day (Japan)
+PLACE::belize,LOCATED_IN,WORK::garifuna settlement day,713,Garifuna Settlement Day
+WORK::koningsdag,LOCATED_IN,OTHER::kingdom of the netherlands,714,Koningsdag
+WORK::jounen kwéyòl,PART_OF,OTHER::october,715,Jounen Kwéyòl
+WORK::jounen kwéyòl,LOCATED_IN,PLACE::saint lucia,715,Jounen Kwéyòl
+WORK::jounen kwéyòl,KNOWN_FOR,OTHER::food and music,715,Jounen Kwéyòl
+WORK::the eighth,LOCATED_IN,PLACE::united states,716,The Eighth (United States)
+WORK::saint-jean-baptiste day,LOCATED_IN,PLACE::quebec,717,Saint-Jean-Baptiste Day
+WORK::saint-jean-baptiste day,KNOWN_FOR,OTHER::french canadian culture,717,Saint-Jean-Baptiste Day
+WORK::oranjegekte (orange craze),LOCATED_IN,PLACE::netherlands,718,Oranjegekte
+WORK::oranjegekte (orange craze),KNOWN_FOR,"OTHER::wearing of orange clothing such as t-shirts, caps and scarfs; lavish attention for sports and sports fans in the media; and the decoration of cars, rooms, houses, shops, and even entire streets in orange",718,Oranjegekte
+WORK::white sunday,LOCATED_IN,OTHER::samoa,719,White Sunday
+WORK::christmas in the basque country,LOCATED_IN,OTHER::basque country,720,Christmas in the Basque Country
+WORK::romeo and juliet,PART_OF,OTHER::william shakespeare's romeo and juliet,721,Romeo and Juliet on screen
+WORK::romeo and juliet,PRODUCED_BY,PERSON::baz luhrmann,721,Romeo and Juliet on screen
+WORK::romeo and juliet,PRODUCED_BY,PERSON::franco zeffirelli,721,Romeo and Juliet on screen
+WORK::romeo and juliet,DIRECTED_BY,PERSON::george cukor,721,Romeo and Juliet on screen
+PERSON::romeo montague,LIVES_IN,PLACE::montague,722,Romeo
+WORK::romeo + juliet,DIRECTED_BY,PERSON::baz luhrmann,723,Romeo + Juliet
+WORK::romeo + juliet,PRODUCED_BY,PERSON::baz luhrmann,723,Romeo + Juliet
+WORK::a rose by any other name would smell as sweet,KNOWN_FOR,WORK::romeo and juliet,724,A rose by any other name would smell as sweet
+WORK::tromeo and juliet,DIRECTED_BY,PERSON::lloyd kaufman,726,Tromeo and Juliet
+WORK::romeo × juliet (anime),LOCATED_IN,PLACE::japan,727,Romeo × Juliet
+PERSON::james gunn,NATIONALITY,NATIONALITY::american,728,James Gunn
+WORK::james gunn's pg porn,PRODUCED_BY,PERSON::james gunn,729,James Gunn's PG Porn
+WORK::james gunn's pg porn,PRODUCED_BY,PERSON::brian gunn,729,James Gunn's PG Porn
+WORK::james gunn's pg porn,PRODUCED_BY,PERSON::sean gunn,729,James Gunn's PG Porn
+WORK::the tragedy of romeo and juliet (film),DIRECTED_BY,PERSON::william woodman,730,The Tragedy of Romeo and Juliet (film)
+WORK::the tragedy of romeo and juliet (film),STARS,PERSON::alex hyde-white,730,The Tragedy of Romeo and Juliet (film)
+WORK::the tragedy of romeo and juliet (film),STARS,PERSON::blanche baker,730,The Tragedy of Romeo and Juliet (film)
+PERSON::director of the defense intelligence agency,COLLABORATED_WITH,PERSON::director of national intelligence,731,Director of the Defense Intelligence Agency
+WORK::national intelligence medal of achievement,PART_OF,OTHER::united states intelligence community,733,National Intelligence Medal of Achievement
+WORK::national intelligence board,PRODUCED_BY,PERSON::director of national intelligence,734,National Intelligence Board
+PERSON::bill clinton,NATIONALITY,NATIONALITY::american,736,Bill Clinton
+PERSON::bill clinton,LIVES_IN,PLACE::arkansas,736,Bill Clinton
+WORK::national intelligence cross,PART_OF,OTHER::united states intelligence community (ic),737,National Intelligence Cross
+WORK::ground intelligence officer,PART_OF,OTHER::u.s. marine corps,739,Ground Intelligence Officer
+WORK::national intelligence estimate,PART_OF,OTHER::united states federal government documents,740,National Intelligence Estimate
+PERSON::coco malia camille hapaikekoa ho,LIVES_IN,"PLACE::honolulu, hawaii",741,Coco Ho
+PERSON::coco malia camille hapaikekoa ho,NATIONALITY,NATIONALITY::american,741,Coco Ho
+PERSON::coco malia camille hapaikekoa ho,BORN_ON,"DATE::april 28, 1991",741,Coco Ho
+WORK::moche rip curl pro portugal 2015,PART_OF,OTHER::association of surfing professionals,742,Moche Rip Curl Pro Portugal 2015
+PERSON::john john florence,NATIONALITY,NATIONALITY::american,743,John John Florence
+PERSON::john john florence,LIVES_IN,PLACE::hawaii,743,John John Florence
+WORK::moche rip curl pro portugal 2014,PART_OF,OTHER::association of surfing professionals,744,Moche Rip Curl Pro Portugal 2014
+WORK::moche rip curl pro portugal 2014,LOCATED_IN,PLACE::portugal,744,Moche Rip Curl Pro Portugal 2014
+WORK::moche rip curl pro portugal 2014,KNOWN_FOR,OTHER::asp world tour,744,Moche Rip Curl Pro Portugal 2014
+WORK::meo rip curl pro portugal 2017,PART_OF,OTHER::world surf league men's championship tour,745,MEO Rip Curl Pro Portugal 2017
+WORK::supertubos,LOCATED_IN,PLACE::peniche,746,Supertubos
+WORK::supertubos,LOCATED_IN,PLACE::portugal,746,Supertubos
+PERSON::andy irons,LIVES_IN,PLACE::hawaii,747,Andy Irons
+WORK::meo rip curl pro portugal 2016,PART_OF,OTHER::world surf league men's championship tour,748,MEO Rip Curl Pro Portugal 2016
+PERSON::barton lynch,NATIONALITY,NATIONALITY::australian,749,Barton Lynch
+PERSON::barton lynch,BORN_ON,"DATE::august 9, 1963",749,Barton Lynch
+WORK::meo rip curl pro portugal,LOCATED_IN,PLACE::peniche,750,MEO Rip Curl Pro Portugal
+WORK::meo rip curl pro portugal,STARS,PERSON::john john florence,750,MEO Rip Curl Pro Portugal
+WORK::meo rip curl pro portugal,PART_OF,OTHER::asp world tour,750,MEO Rip Curl Pro Portugal
+PERSON::barend,NATIONALITY,NATIONALITY::dutch,751,Barend
+PERSON::marion christopher barry,BORN_ON,DATE::june 1980,752,Marion Christopher Barry
+PERSON::marion christopher barry,NATIONALITY,NATIONALITY::american,752,Marion Christopher Barry
+WORK::suburban madness,STARS,PERSON::sela ward,753,Suburban Madness
+WORK::suburban madness,LOCATED_IN,OTHER::united states,753,Suburban Madness
+PERSON::sela ann ward,NATIONALITY,NATIONALITY::american,755,Sela Ward
+PERSON::sela ann ward,BORN_ON,"DATE::july 11, 1956",755,Sela Ward
+PERSON::bobbi bacha,COLLABORATED_WITH,PERSON::robert durst,757,Bobbi Bacha
+PERSON::jeff strabone,LIVES_IN,PLACE::brooklyn,758,Jeff Strabone
+PERSON::jeff strabone,NATIONALITY,NATIONALITY::american,758,Jeff Strabone
+PERSON::chris funk,NATIONALITY,NATIONALITY::american,759,Chris Funk
+"WORK::high commission of australia, london",LOCATED_IN,OTHER::australia house,761,"High Commission of Australia, London"
+"WORK::high commission of australia, london",LOCATED_IN,PLACE::united kingdom,761,"High Commission of Australia, London"
+WORK::diplomatic mission,PART_OF,OTHER::foreign mission,762,Diplomatic mission
+WORK::embassy,LOCATED_IN,OTHER::capital city,762,Diplomatic mission
+WORK::diplomatic mission,COLLABORATED_WITH,OTHER::other countries,762,Diplomatic mission
+WORK::diplomatic bag,PART_OF,WORK::vienna convention on diplomatic relations,763,Diplomatic bag
+"WORK::embassy of china, london",LOCATED_IN,PLACE::united kingdom,764,"Embassy of China, London"
+PERSON::alvaro mexia,LIVES_IN,PLACE::st augustine,765,Alvaro Mexia
+"WORK::embassy of the united states, nairobi",LOCATED_IN,OTHER::nairobi,766,"Embassy of the United States, Nairobi"
+ORGANIZATION::azerbaijan,LOCATED_IN,OTHER::baku,767,List of diplomatic missions of Azerbaijan
+WORK::head of mission,KNOWN_FOR,OTHER::chief of mission,768,Head of mission
+WORK::head of mission,KNOWN_FOR,OTHER::chef de mission diplomatique,768,Head of mission
+WORK::head of mission,KNOWN_FOR,OTHER::permanent representative,768,Head of mission
+WORK::head of mission,KNOWN_FOR,OTHER::consul-general,768,Head of mission
+WORK::united states mission to the european union,LOCATED_IN,PLACE::brussels,769,United States Mission to the European Union
+WORK::united states mission to the european union,PART_OF,WORK::european union,769,United States Mission to the European Union
+PERSON::edmund ronald leach,NATIONALITY,NATIONALITY::british,771,Edmund Leach
+PERSON::edmund ronald leach,LIVES_IN,PLACE::united kingdom,771,Edmund Leach
+PERSON::thomas hylland eriksen,LIVES_IN,PLACE::norway,772,Thomas Hylland Eriksen
+PERSON::thomas hylland eriksen,NATIONALITY,NATIONALITY::norwegian,772,Thomas Hylland Eriksen
+WORK::social anthropology/anthropologie sociale,LOCATED_IN,ORGANIZATION::wiley-blackwell,773,Social Anthropology (journal)
+WORK::network analysis and ethnographic problems,PRODUCED_BY,PERSON::douglas r. white,774,Network Analysis and Ethnographic Problems
+WORK::network analysis and ethnographic problems,PRODUCED_BY,PERSON::ulla johansen,774,Network Analysis and Ethnographic Problems
+PERSON::aleksandar bošković,LIVES_IN,PLACE::belgrade,775,Aleksandar Bošković
+WORK::participant observation,PART_OF,OTHER::qualitative research,776,Participant observation
+WORK::muted group theory,PRODUCED_BY,PERSON::edwin ardener,777,Muted group theory
+WORK::muted group theory,PRODUCED_BY,PERSON::shirley ardener,777,Muted group theory
+ORGANIZATION::association of social anthropologists of the uk and commonwealth,LOCATED_IN,PLACE::united kingdom,778,Association of Social Anthropologists
+PERSON::alfred gell,LIVES_IN,PLACE::london,779,Alfred Gell
+PERSON::alfred gell,DIED_ON,"DATE::january 28, 1997",779,Alfred Gell
+WORK::coral gardens and their magic,PRODUCED_BY,PERSON::bronisław malinowski,780,Coral Gardens and Their Magic
+PERSON::queen elizabeth ii,NATIONALITY,NATIONALITY::british,782,2014 Birthday Honours
+PERSON::queen elizabeth ii,LOCATED_IN,OTHER::commonwealth realms,783,2015 Birthday Honours
+PERSON::queen elizabeth ii,LOCATED_IN,OTHER::commonwealth realms,784,2016 Birthday Honours
+WORK::queen's birthday honours 1965,PART_OF,OTHER::1965 birthday honours,786,1965 Birthday Honours
+PERSON::george v,LIVES_IN,PLACE::united kingdom,787,George V
+PERSON::george v,NATIONALITY,NATIONALITY::british,787,George V
+WORK::1951 birthday honours,LOCATED_IN,OTHER::commonwealth realms,788,1951 Birthday Honours
+WORK::1951 birthday honours,LOCATED_IN,OTHER::british empire,788,1951 Birthday Honours
+WORK::1951 birthday honours,LOCATED_IN,PLACE::australia,788,1951 Birthday Honours
+WORK::1951 birthday honours,LOCATED_IN,PLACE::new zealand,788,1951 Birthday Honours
+WORK::1951 birthday honours,LOCATED_IN,OTHER::ceylon,788,1951 Birthday Honours
+WORK::1951 birthday honours,LOCATED_IN,OTHER::pakistan,788,1951 Birthday Honours
+PERSON::steven d. smith,LIVES_IN,PLACE::new hampshire,791,Steven D. Smith
+PERSON::steven d. smith,NATIONALITY,NATIONALITY::american,791,Steven D. Smith
+WORK::miner memorial library,LOCATED_IN,"PLACE::lempster, new hampshire",792,Miner Memorial Library
+WORK::miner memorial library,DIRECTED_BY,PERSON::alonzo ames miner,792,Miner Memorial Library
+"PLACE::sullivan county, new hampshire",LOCATED_IN,PLACE::new hampshire,793,"Sullivan County, New Hampshire"
+PLACE::dover,LOCATED_IN,PLACE::strafford county,794,"Dover, New Hampshire"
+PLACE::strafford county,LOCATED_IN,PLACE::new hampshire,794,"Dover, New Hampshire"
+PLACE::new hampshire,LOCATED_IN,PLACE::united states,794,"Dover, New Hampshire"
+PLACE::woodsville,LOCATED_IN,PLACE::grafton county,795,"Woodsville, New Hampshire"
+PLACE::grafton county,LOCATED_IN,PLACE::new hampshire,795,"Woodsville, New Hampshire"
+PLACE::woodsville,LOCATED_IN,PLACE::haverhill,795,"Woodsville, New Hampshire"
+PLACE::woodsville,COLLABORATED_WITH,WORK::ammonoosuc river,795,"Woodsville, New Hampshire"
+PLACE::woodsville,COLLABORATED_WITH,WORK::connecticut river,795,"Woodsville, New Hampshire"
+"PLACE::hampden county, massachusetts",LOCATED_IN,PLACE::massachusetts,796,"Hampden County, Massachusetts"
+"PLACE::hampden county, massachusetts",LOCATED_IN,OTHER::united states,796,"Hampden County, Massachusetts"
+"PLACE::hampden county, massachusetts",PART_OF,OTHER::pioneer valley,796,"Hampden County, Massachusetts"
+"PLACE::carroll county, new hampshire",LOCATED_IN,PLACE::new hampshire,797,"Carroll County, New Hampshire"
+"PLACE::carroll county, new hampshire",LOCATED_IN,PLACE::united states,797,"Carroll County, New Hampshire"
+PLACE::east lempster,LOCATED_IN,PLACE::lempster,798,"East Lempster, New Hampshire"
+PLACE::lempster,LOCATED_IN,PLACE::sullivan county,798,"East Lempster, New Hampshire"
+PLACE::sullivan county,LOCATED_IN,PLACE::new hampshire,798,"East Lempster, New Hampshire"
+PLACE::new hampshire,LOCATED_IN,PLACE::united states,798,"East Lempster, New Hampshire"
+WORK::gardnerville branch jail,LOCATED_IN,PLACE::gardenerville,799,Gardnerville Branch Jail
+ORGANIZATION::douglas county,LOCATED_IN,PLACE::gardenerville,799,Gardnerville Branch Jail
+PLACE::lempster,LOCATED_IN,PLACE::sullivan county,800,"Lempster, New Hampshire"
+PLACE::sullivan county,LOCATED_IN,PLACE::new hampshire,800,"Lempster, New Hampshire"
+PLACE::new hampshire,LOCATED_IN,PLACE::united states,800,"Lempster, New Hampshire"
+WORK::ride out,PRODUCED_BY,PERSON::bob seger,801,Ride Out (album)
+PERSON::bob seger,NATIONALITY,NATIONALITY::american,801,Ride Out (album)
+WORK::10 hronia mazi,STARS,PERSON::despina vandi,802,10 Hronia Mazi
+WORK::10 hronia mazi,DIRECTED_BY,PERSON::phoebus,802,10 Hronia Mazi
+PERSON::bob seger,NATIONALITY,NATIONALITY::american,803,Bob Seger
+PERSON::bob seger,LIVES_IN,"PLACE::detroit, michigan",803,Bob Seger
+WORK::against the wind,PRODUCED_BY,PERSON::bob seger,804,Against the Wind (album)
+WORK::against the wind,LOCATED_IN,OTHER::united states,804,Against the Wind (album)
+WORK::against the wind,PART_OF,OTHER::silver bullet band,804,Against the Wind (album)
+PERSON::gary francis caine cherone,NATIONALITY,NATIONALITY::american,805,Gary Cherone
+PERSON::gary francis caine cherone,BORN_ON,DATE::july 26,805,Gary Cherone
+PERSON::mark britten,NATIONALITY,NATIONALITY::american,806,Mark Britten
+PERSON::mark britten,LIVES_IN,"PLACE::arlington, texas",806,Mark Britten
+WORK::freudiana,PART_OF,OTHER::rock opera,807,Freudiana
+WORK::freudiana,PRODUCED_BY,PERSON::eric woolfson,807,Freudiana
+WORK::stranger in town,LOCATED_IN,OTHER::may 1978,809,Stranger in Town (album)
+WORK::heaven knows,PRODUCED_BY,PERSON::robert plant,810,Heaven Knows (Robert Plant song)
+WORK::heaven knows,LOCATED_IN,OTHER::uk,810,Heaven Knows (Robert Plant song)
+WORK::2010 kiev victory day parade,LOCATED_IN,PLACE::kiev,811,2010 Kiev Victory Day Parade
+WORK::2010 kiev victory day parade,PART_OF,OTHER::great patriotic war,811,2010 Kiev Victory Day Parade
+WORK::2010 kiev victory day parade,DIRECTED_BY,PERSON::ivan svyda,811,2010 Kiev Victory Day Parade
+WORK::one rank one pension,KNOWN_FOR,OTHER::pay-pension equity,813,"One Rank, One Pension"
+WORK::chief of the defence staff (canada),PRODUCED_BY,PERSON::jonathan vance,814,Chief of the Defence Staff (Canada)
+WORK::september 16 military parade,LOCATED_IN,PLACE::zócalo,815,September 16 military parade
+WORK::september 16 military parade,LOCATED_IN,PLACE::mexico city,815,September 16 military parade
+WORK::september 16 military parade,PART_OF,OTHER::various parades held simultaneously nationwide on september 16,815,September 16 military parade
+PERSON::fernando tapias stahelin,LIVES_IN,PLACE::colombia,816,Fernando Tapias Stahelin
+PERSON::fernando tapias stahelin,NATIONALITY,NATIONALITY::colombian,816,Fernando Tapias Stahelin
+WORK::armed forces day (poland),LOCATED_IN,OTHER::poland,819,Armed Forces Day (Poland)
+WORK::armed forces day (poland),KNOWN_FOR,"OTHER::military parades, equipment reviews, showcases and remembrances by all branches of the polish armed forces",819,Armed Forces Day (Poland)
+WORK::fair employment practice committee (fepc),LOCATED_IN,OTHER::united states,820,Franklin D. Roosevelt's record on civil rights
+OTHER::african-americans,KNOWN_FOR,OTHER::civil rights,820,Franklin D. Roosevelt's record on civil rights
+ORGANIZATION::canyon creek food company,LOCATED_IN,PLACE::edmonton,821,Canyon Creek Food Company
+WORK::robert's american gourmet food,LOCATED_IN,OTHER::united states,822,Robert's American Gourmet Food
+WORK::rewrapped,STARS,PERSON::joey fatone,823,Rewrapped
+WORK::rewrapped,LOCATED_IN,OTHER::food network,823,Rewrapped
+"ORGANIZATION::pepsico, inc.",LOCATED_IN,"PLACE::purchase, new york",824,PepsiCo
+"ORGANIZATION::snackbox food holdings co, ltd",LOCATED_IN,PLACE::mokdong-ri gyoha-eup paju gyeonggi-do,825,Snackbox Food Holdings
+"ORGANIZATION::snackbox food holdings co, ltd",LOCATED_IN,PLACE::korea,825,Snackbox Food Holdings
+"ORGANIZATION::mondelez international, inc.",LOCATED_IN,PLACE::illinois,830,Mondelez International
+WORK::the white house doctor,KNOWN_FOR,PERSON::bill clinton,833,The White House Doctor
+WORK::once upon a secret,PRODUCED_BY,PERSON::mimi alford,834,Once Upon a Secret
+WORK::once upon a secret,STARS,PERSON::john f. kennedy,834,Once Upon a Secret
+PERSON::william h. ginsburg,NATIONALITY,NATIONALITY::american,837,William H. Ginsburg
+PERSON::william h. ginsburg,LIVES_IN,PLACE::united states,837,William H. Ginsburg
+PERSON::mark d. fabiani,NATIONALITY,NATIONALITY::american,838,Mark D. Fabiani
+PERSON::mark d. fabiani,LIVES_IN,PLACE::los angeles,838,Mark D. Fabiani
+PERSON::monica lewinsky,NATIONALITY,NATIONALITY::american,839,Monica Lewinsky
+PERSON::monica lewinsky,BORN_ON,DATE::july 23,839,Monica Lewinsky
+PERSON::paul manafort,LIVES_IN,"PLACE::washington, d.c.",841,Paul Manafort
+PERSON::paul manafort,COLLABORATED_WITH,PERSON::gerald ford,841,Paul Manafort
+WORK::last week tonight with john oliver,KNOWN_FOR,PERSON::donald trump,842,Donald Trump (Last Week Tonight)
+PERSON::brad parscale,NATIONALITY,NATIONALITY::american,843,Brad Parscale
+PERSON::brad parscale,LIVES_IN,PLACE::united states,843,Brad Parscale
+PERSON::donald trump,KNOWN_FOR,OTHER::music,844,Donald Trump in music
+PERSON::rob goldstone,COLLABORATED_WITH,PERSON::emin agalarov,845,Trump campaign–Russian meeting
+PERSON::jesse ventura,COLLABORATED_WITH,PERSON::donald trump,847,"Donald Trump presidential campaign, 2000"
+PERSON::david urban,NATIONALITY,NATIONALITY::american,849,David Urban
+WORK::the golden hour,PRODUCED_BY,PERSON::maiya williams,851,The Golden Hour (novel)
+WORK::crime and punishment,PRODUCED_BY,PERSON::fyodor dostoyevsky,852,Crime and Punishment
+WORK::crime and punishment,LOCATED_IN,OTHER::russia,852,Crime and Punishment
+WORK::quando eu era vivo,DIRECTED_BY,PERSON::marco dutra,853,Quando Eu Era Vivo
+WORK::spirit of the border,PART_OF,OTHER::trilogy,854,Spirit of the Border
+WORK::before we say goodbye,PART_OF,OTHER::2004 novel,855,Before We Say Goodbye
+WORK::before we say goodbye,LOCATED_IN,OTHER::italy,855,Before We Say Goodbye
+WORK::4 a.m.,LOCATED_IN,OTHER::brighton,856,4 a.m. (novel)
+WORK::three comrades,PRODUCED_BY,PERSON::erich maria remarque,857,Three Comrades (novel)
+WORK::three comrades,LOCATED_IN,OTHER::berlin,857,Three Comrades (novel)
+WORK::drained,DIRECTED_BY,PERSON::heitor dhalia,858,Drained
+WORK::drained,STARS,PERSON::selton mello,858,Drained
+WORK::the birds on the trees,STARS,PERSON::nina bawden,860,The Birds on the Trees
+WORK::the birds on the trees,LOCATED_IN,NATIONALITY::english,860,The Birds on the Trees
+PLACE::hermigua,LOCATED_IN,PLACE::la gomera,861,Hermigua
+PLACE::hermigua,LOCATED_IN,PLACE::santa cruz de tenerife,861,Hermigua
+PLACE::hermigua,LOCATED_IN,PLACE::spain,861,Hermigua
+WORK::garajonay national park,PART_OF,PLACE::hermigua,861,Hermigua
+WORK::garajonay national park,LOCATED_IN,PLACE::la gomera,862,Garajonay National Park
+WORK::garajonay national park,LOCATED_IN,PLACE::canary islands,862,Garajonay National Park
+WORK::garajonay national park,LOCATED_IN,PLACE::spain,862,Garajonay National Park
+WORK::teide national park,LOCATED_IN,PLACE::tenerife,863,Teide National Park
+PLACE::tenerife,LOCATED_IN,PLACE::spain,863,Teide National Park
+PLACE::crater lake national park,LOCATED_IN,PLACE::oregon,864,Crater Lake National Park
+ORGANIZATION::glacier national park fund,LOCATED_IN,PLACE::west glacier,865,Glacier National Park Fund
+ORGANIZATION::glacier national park fund,LOCATED_IN,PLACE::montana,865,Glacier National Park Fund
+ORGANIZATION::glacier national park fund,KNOWN_FOR,OTHER::billy bowman,865,Glacier National Park Fund
+WORK::roque cinchado,LOCATED_IN,WORK::teide national park,866,Roque Cinchado
+WORK::teide national park,LOCATED_IN,PLACE::tenerife,866,Roque Cinchado
+WORK::teide national park,LOCATED_IN,PLACE::la orotava,866,Roque Cinchado
+WORK::adenocarpus viscosus,LOCATED_IN,PLACE::canary islands,867,Adenocarpus viscosus
+WORK::adenocarpus viscosus,KNOWN_FOR,OTHER::codeso del pico,867,Adenocarpus viscosus
+WORK::adenocarpus viscosus,LOCATED_IN,WORK::teide national park,867,Adenocarpus viscosus
+WORK::adenocarpus viscosus,LOCATED_IN,OTHER::corona forestal nature park,867,Adenocarpus viscosus
+WORK::training centre for release of the atma-energy,LOCATED_IN,PLACE::tenerife,868,Training centre for release of the Atma-energy
+WORK::training centre for release of the atma-energy,LOCATED_IN,OTHER::germany,868,Training centre for release of the Atma-energy
+WORK::alpine national park,LOCATED_IN,PLACE::victoria,869,Alpine National Park
+WORK::alpine national park,LOCATED_IN,PLACE::australia,869,Alpine National Park
+WORK::north cascades national park,LOCATED_IN,PLACE::washington,870,North Cascades National Park
+WORK::north cascades national park,LOCATED_IN,PLACE::british columbia,870,North Cascades National Park
+WORK::roald dahl: collected stories,LOCATED_IN,ORGANIZATION::us,871,Roald Dahl: Collected Stories
+WORK::the collected short stories of roald dahl,PRODUCED_BY,PERSON::roald dahl,872,The Collected Short Stories of Roald Dahl
+PERSON::roald dahl,LIVES_IN,PLACE::united kingdom,873,Roald Dahl
+PERSON::roald dahl,NATIONALITY,NATIONALITY::british,873,Roald Dahl
+WORK::the best of roald dahl,COLLABORATED_WITH,PERSON::roald dahl,874,The Best of Roald Dahl
+WORK::roald dahl children's gallery,LOCATED_IN,"PLACE::church street, aylesbury, buckinghamshire, england",875,Roald Dahl Children's Gallery
+WORK::roald dahl short stories bibliography,PART_OF,OTHER::short stories,876,Roald Dahl short stories bibliography
+PLACE::roald dahl plass,LOCATED_IN,PLACE::cardiff bay,877,Roald Dahl Plass
+PLACE::roald dahl plass,LOCATED_IN,PLACE::cardiff,877,Roald Dahl Plass
+PLACE::roald dahl plass,LOCATED_IN,PLACE::wales,877,Roald Dahl Plass
+PLACE::roald dahl plass,KNOWN_FOR,OTHER::bowl-like shape,877,Roald Dahl Plass
+WORK::mrs. bixby and the colonel's coat,PRODUCED_BY,PERSON::roald dahl,878,Mrs. Bixby and the Colonel's Coat
+WORK::the roald dahl treasury,PART_OF,OTHER::children's author,879,The Roald Dahl Treasury
+WORK::the roald dahl treasury,LOCATED_IN,PLACE::united kingdom,879,The Roald Dahl Treasury
+PERSON::linda mvusi,LIVES_IN,PLACE::bloemfontein,881,Linda Mvusi
+WORK::second best (film),PRODUCED_BY,PERSON::sarah radclyffe,882,Second Best (film)
+WORK::second best (film),DIRECTED_BY,PERSON::chris menges,882,Second Best (film)
+WORK::11 harrowhouse,DIRECTED_BY,PERSON::aram avakian,883,11 Harrowhouse
+WORK::11 harrowhouse,PRODUCED_BY,PERSON::aram avakian,883,11 Harrowhouse
+WORK::11 harrowhouse,STARS,PERSON::charles grodin,883,11 Harrowhouse
+WORK::11 harrowhouse,STARS,PERSON::candice bergen,883,11 Harrowhouse
+WORK::end of the road,DIRECTED_BY,PERSON::aram avakian,884,End of the Road (1970 film)
+PERSON::chris menges,NATIONALITY,NATIONALITY::english,885,Chris Menges
+PERSON::chris menges,BORN_ON,DATE::15 september 1940,885,Chris Menges
+WORK::a world apart,LOCATED_IN,OTHER::zimbabwe,886,A World Apart (film)
+WORK::a world apart,DIRECTED_BY,PERSON::chris menges,886,A World Apart (film)
+WORK::cops and robbers (1973 film),DIRECTED_BY,PERSON::aram avakian,887,Cops and Robbers (1973 film)
+WORK::cops and robbers (1973 film),STARS,PERSON::cliff gorman,887,Cops and Robbers (1973 film)
+WORK::cops and robbers (1973 film),STARS,PERSON::joseph bologna,887,Cops and Robbers (1973 film)
+WORK::made in britain,DIRECTED_BY,PERSON::alan clarke,889,Made in Britain
+PERSON::andrew jaspan,NATIONALITY,NATIONALITY::british-australian,893,Andrew Jaspan
+PERSON::andrew jaspan,BORN_ON,DATE::20 april 1952,893,Andrew Jaspan
+WORK::advice column,PART_OF,OTHER::magazine or newspaper,894,Advice column
+WORK::advice column,PART_OF,OTHER::internet,894,Advice column
+WORK::advice column,PART_OF,OTHER::broadcast news media,894,Advice column
+WORK::990wbob,LOCATED_IN,PLACE::providence,896,990WBOB
+WORK::990wbob,LOCATED_IN,PLACE::rhode island,896,990WBOB
+ORGANIZATION::accessible media,LOCATED_IN,PLACE::canada,897,Accessible Media
+WORK::14ymedio,PRODUCED_BY,PERSON::yoani sánchez,898,14ymedio
+WORK::14ymedio,PRODUCED_BY,PERSON::reinaldo escobar,898,14ymedio
+WORK::independent spirit award for best cinematography,PART_OF,ORGANIZATION::independent spirit awards,902,Independent Spirit Award for Best Cinematography
+WORK::silent light,DIRECTED_BY,PERSON::carlos reygadas,903,Silent Light
+WORK::silent light,LOCATED_IN,PLACE::cuauhtémoc,903,Silent Light
+WORK::silent light,LOCATED_IN,PLACE::chihuahua state,903,Silent Light
+ORGANIZATION::sundance now,COLLABORATED_WITH,OTHER::32nd independent spirit awards,904,32nd Independent Spirit Awards
+PERSON::john waters,NATIONALITY,NATIONALITY::american,906,John Waters
+PERSON::john waters,BORN_ON,"DATE::april 22, 1946",906,John Waters
+WORK::independent spirit award for best editing,PART_OF,ORGANIZATION::independent spirit awards,908,Independent Spirit Award for Best Editing
+WORK::independent spirit award for best first feature,PART_OF,OTHER::independent spirit awards,909,Independent Spirit Award for Best First Feature
+WORK::the original jam sessions 1969,PRODUCED_BY,PERSON::quincy jones,911,The Original Jam Sessions 1969
+WORK::the original jam sessions 1969,PRODUCED_BY,PERSON::bill cosby,911,The Original Jam Sessions 1969
+WORK::flamingo las vegas,LOCATED_IN,PLACE::las vegas strip,912,Flamingo Las Vegas
+WORK::flamingo las vegas,LOCATED_IN,PLACE::paradise,912,Flamingo Las Vegas
+WORK::flamingo las vegas,LOCATED_IN,PLACE::nevada,912,Flamingo Las Vegas
+WORK::why is there air?,PRODUCED_BY,PERSON::bill cosby,913,Why Is There Air?
+WORK::why is there air?,LOCATED_IN,PLACE::flamingo hotel,913,Why Is There Air?
+WORK::why is there air?,LOCATED_IN,PLACE::las vegas,913,Why Is There Air?
+WORK::why is there air?,LOCATED_IN,PLACE::nevada,913,Why Is There Air?
+WORK::disco bill,PRODUCED_BY,PERSON::bill cosby,914,Disco Bill
+WORK::the bill cosby show,STARS,PERSON::bill cosby,915,Hikky Burr
+OTHER::hikky burr,PART_OF,WORK::smackwater jack,915,Hikky Burr
+OTHER::hikky burr,PART_OF,WORK::the original jam sessions 1969,915,Hikky Burr
+WORK::at last bill cosby really sings,STARS,"PERSON::ray parker, jr.",916,At Last Bill Cosby Really Sings
+WORK::inside the mind of bill cosby,PRODUCED_BY,PERSON::bill cosby,917,Inside the Mind of Bill Cosby
+PERSON::bill cosby,LOCATED_IN,PLACE::new york city,918,Bill Cosby Is a Very Funny Fellow...Right!
+WORK::bill's best friend,PRODUCED_BY,PERSON::bill cosby,919,Bill's Best Friend
+"WORK::yes, yes, yes",PRODUCED_BY,PERSON::bill cosby,920,"Yes, Yes, Yes"
+"WORK::yes, yes, yes",LOCATED_IN,OTHER::1976,920,"Yes, Yes, Yes"
+ORGANIZATION::phillips distilling company,LOCATED_IN,PLACE::minneapolis,921,Phillips Distilling Company
+WORK::energy shot,PART_OF,WORK::energy drink,923,Energy shot
+ORGANIZATION::cytosport,LOCATED_IN,PLACE::benicia,924,CytoSport
+ORGANIZATION::cytosport,LOCATED_IN,PLACE::california,924,CytoSport
+WORK::the world's drinks and how to mix them,LOCATED_IN,OTHER::1908,926,Gibson (cocktail)
+ORGANIZATION::rubicon drinks ltd,LOCATED_IN,PLACE::milton keynes,928,Rubicon Drinks
+ORGANIZATION::rubicon drinks ltd,LOCATED_IN,PLACE::united kingdom,928,Rubicon Drinks
+WORK::london international documentary festival,LOCATED_IN,PLACE::london,931,London International Documentary Festival
+WORK::docville,LOCATED_IN,PLACE::leuven,932,Docville
+WORK::docville,LOCATED_IN,PLACE::belgium,932,Docville
+WORK::chagrin documentary film festival,LOCATED_IN,PLACE::chagrin falls,933,Chagrin Documentary Film Festival
+WORK::british journal,PART_OF,WORK::the censor,934,British Journal
+WORK::the censor,PART_OF,WORK::the traveller,934,British Journal
+WORK::london review of books,LOCATED_IN,NATIONALITY::british,935,London Review of Books
+WORK::freedomfilmfest,LOCATED_IN,PLACE::malaysia,936,FreedomFilmFest
+WORK::freedomfilmfest,PART_OF,WORK::the komas freedom film festival,936,FreedomFilmFest
+WORK::doc nyc,LOCATED_IN,PLACE::west village,937,Doc NYC
+WORK::doc nyc,LOCATED_IN,PLACE::chelsea,937,Doc NYC
+WORK::british journal of social psychology,LOCATED_IN,ORGANIZATION::british psychological society,938,British Journal of Social Psychology
+WORK::scott's run nature preserve,LOCATED_IN,PLACE::mclean,941,Scott's Run Nature Preserve
+WORK::scott's run nature preserve,LOCATED_IN,PLACE::fairfax county,941,Scott's Run Nature Preserve
+WORK::scott's run nature preserve,LOCATED_IN,PLACE::virginia,941,Scott's Run Nature Preserve
+WORK::scott's run nature preserve,LOCATED_IN,OTHER::united states,941,Scott's Run Nature Preserve
+WORK::scott's run nature preserve,PART_OF,OTHER::fairfax county park authority,941,Scott's Run Nature Preserve
+WORK::tysons galleria,LOCATED_IN,"PLACE::mclean, virginia",942,Tysons Galleria
+WORK::tysons galleria,LOCATED_IN,PLACE::tysons corner,942,Tysons Galleria
+WORK::poughkeepsie galleria,LOCATED_IN,PLACE::town of poughkeepsie,943,Poughkeepsie Galleria
+WORK::poughkeepsie galleria,LOCATED_IN,PLACE::dutchess county,943,Poughkeepsie Galleria
+WORK::poughkeepsie galleria,LOCATED_IN,PLACE::u.s. 9,943,Poughkeepsie Galleria
+WORK::poughkeepsie galleria,LOCATED_IN,PLACE::wappingers falls,943,Poughkeepsie Galleria
+PLACE::tysons,LOCATED_IN,PLACE::fairfax county,944,"Tysons, Virginia"
+PLACE::tysons,LOCATED_IN,PLACE::virginia,944,"Tysons, Virginia"
+PLACE::tysons,LOCATED_IN,PLACE::washington metropolitan area,944,"Tysons, Virginia"
+WORK::tysons corner center,LOCATED_IN,OTHER::tysons corner unincorporated area,945,Tysons Corner Center
+WORK::tysons corner center,LOCATED_IN,PLACE::fairfax county,945,Tysons Corner Center
+WORK::tysons corner center,LOCATED_IN,PLACE::virginia,945,Tysons Corner Center
+WORK::tysons corner center,LOCATED_IN,PLACE::united states,945,Tysons Corner Center
+WORK::tysons corner center,LOCATED_IN,PLACE::mclean,945,Tysons Corner Center
+WORK::tysons corner center,LOCATED_IN,PLACE::vienna,945,Tysons Corner Center
+WORK::cobb galleria centre,LOCATED_IN,PLACE::cumberland/galleria district,946,Cobb Galleria Centre
+WORK::cobb galleria centre,LOCATED_IN,PLACE::cobb county,946,Cobb Galleria Centre
+WORK::cobb galleria centre,LOCATED_IN,PLACE::atlanta,946,Cobb Galleria Centre
+WORK::cobb galleria centre,LOCATED_IN,PLACE::united states,946,Cobb Galleria Centre
+PLACE::west mclean,LOCATED_IN,PLACE::fairfax county,947,"West McLean, Virginia"
+PLACE::west mclean,LOCATED_IN,PLACE::virginia,947,"West McLean, Virginia"
+PLACE::west mclean,LOCATED_IN,PLACE::united states,947,"West McLean, Virginia"
+PLACE::mclean,LOCATED_IN,PLACE::tysons corner,948,McLean station
+PLACE::mclean,LOCATED_IN,PLACE::fairfax county,948,McLean station
+PLACE::mclean,LOCATED_IN,PLACE::virginia,948,McLean station
+PLACE::mclean,PART_OF,WORK::silver line,948,McLean station
+WORK::spring hill,LOCATED_IN,PLACE::tysons corner,950,Spring Hill station
+WORK::spring hill,LOCATED_IN,PLACE::fairfax county,950,Spring Hill station
+WORK::spring hill,LOCATED_IN,PLACE::virginia,950,Spring Hill station
+WORK::spring hill,PART_OF,WORK::silver line,950,Spring Hill station
+"ORGANIZATION::cardinal health, inc.",LOCATED_IN,"PLACE::dublin, ohio",951,Cardinal Health
+"ORGANIZATION::bankunited, inc.",LOCATED_IN,PLACE::miami lakes,953,BankUnited
+"ORGANIZATION::bankunited, inc.",LOCATED_IN,PLACE::florida,953,BankUnited
+"ORGANIZATION::bankunited, inc.",LOCATED_IN,PLACE::new york,953,BankUnited
+PERSON::bordan tkachuk,LOCATED_IN,OTHER::british,954,Bordan Tkachuk
+PERSON::bordan tkachuk,KNOWN_FOR,OTHER::the apprentice,954,Bordan Tkachuk
+"ORGANIZATION::compass minerals international, inc",LOCATED_IN,PLACE::kansas city,956,Compass Minerals
+ORGANIZATION::owens & minor,LOCATED_IN,"PLACE::mechanicsville, virginia",957,Owens &amp; Minor
+"ORGANIZATION::kingstone companies, inc.",LOCATED_IN,"PLACE::kingston, new york",958,Kingstone Companies
+"ORGANIZATION::payments, inc",LOCATED_IN,"PLACE::kingston, new york",958,Kingstone Companies
+PERSON::jonathan m. ansell,LIVES_IN,PLACE::binghamton,959,Jonathan Michael Ansell
+PERSON::jonathan m. ansell,NATIONALITY,NATIONALITY::american,959,Jonathan Michael Ansell
+ORGANIZATION::clean power finance,LOCATED_IN,PLACE::san francisco,960,Clean Power Finance
+ORGANIZATION::clean power finance,LOCATED_IN,PLACE::california,960,Clean Power Finance
+ORGANIZATION::pt mataram surya visi sinema,LOCATED_IN,PLACE::jogja indonesia,961,Aryanto Yuniawan
+WORK::aes+f,PRODUCED_BY,PERSON::tatiana arzamasova,963,AES+F
+WORK::aes+f,PRODUCED_BY,PERSON::lev evzovich,963,AES+F
+WORK::aes+f,PRODUCED_BY,PERSON::evgeny svyatsky,963,AES+F
+WORK::aes+f,PRODUCED_BY,PERSON::vladimir fridkes,963,AES+F
+PERSON::anani ben sason,LIVES_IN,PLACE::land of israel,964,Anani ben Sason
+PERSON::lev vladimirovich kuleshov,NATIONALITY,NATIONALITY::russian,965,Lev Kuleshov
+PERSON::lev vladimirovich kuleshov,NATIONALITY,NATIONALITY::soviet,965,Lev Kuleshov
+PERSON::lev vladimirovich kuleshov,KNOWN_FOR,OTHER::kuleshov effect,965,Lev Kuleshov
+PERSON::pamela b. gilbert,LIVES_IN,PLACE::united states,966,Pamela Gilbert
+PERSON::levni yilmaz,LIVES_IN,PLACE::san francisco,967,Lev Yilmaz
+PERSON::levni yilmaz,BORN_ON,DATE::1973,967,Lev Yilmaz
+WORK::passport,LOCATED_IN,PLACE::hong kong,971,Visa policy of Hong Kong
+PLACE::rabat,LOCATED_IN,PLACE::morocco,972,Rabat
+WORK::sinŭiju special administrative region,LOCATED_IN,PLACE::north korea,973,Sinuiju Special Administrative Region
+WORK::sinŭiju special administrative region,LOCATED_IN,PLACE::china,973,Sinuiju Special Administrative Region
+PLACE::caraga,LOCATED_IN,OTHER::philippines,974,Caraga
+PLACE::caraga,LOCATED_IN,OTHER::mindanao,974,Caraga
+WORK::ilocos region,LOCATED_IN,OTHER::luzon,976,Ilocos Region
+WORK::ilocos region,LOCATED_IN,PLACE::cordillera administrative region,976,Ilocos Region
+WORK::ilocos region,LOCATED_IN,PLACE::cagayan valley,976,Ilocos Region
+WORK::ilocos region,LOCATED_IN,PLACE::central luzon,976,Ilocos Region
+WORK::ilocos region,LOCATED_IN,PLACE::south china sea,976,Ilocos Region
+WORK::wolong special administrative region,LOCATED_IN,PLACE::sichuan,977,Wolong Special Administrative Region
+WORK::wolong special administrative region,LOCATED_IN,PLACE::ngawa tibetan and qiang autonomous prefecture,977,Wolong Special Administrative Region
+WORK::wolong special administrative region,LOCATED_IN,PLACE::wenchuan county,977,Wolong Special Administrative Region
+WORK::moroccan ambassador to china,LOCATED_IN,PLACE::rabat,978,Moroccan Ambassador to China
+WORK::liaison office of the central people's government in the hong kong special administrative region,LOCATED_IN,PLACE::hong kong special administrative region,979,Liaison Office (Hong Kong)
+WORK::basic law of the hong kong special administrative region of the people's republic of china,LOCATED_IN,ORGANIZATION::people's republic of china,980,Hong Kong Basic Law
+WORK::fuding railway station,LOCATED_IN,PLACE::fuding city,981,Fuding Railway Station
+PLACE::fuding city,LOCATED_IN,PLACE::ningde,981,Fuding Railway Station
+PLACE::ningde,LOCATED_IN,PLACE::fujian province,981,Fuding Railway Station
+WORK::fuding railway station,LOCATED_IN,PLACE::china,981,Fuding Railway Station
+PLACE::yingkou,LOCATED_IN,PLACE::liaoning,982,Yingkou
+PLACE::yingkou,LOCATED_IN,PLACE::people's republic of china,982,Yingkou
+PLACE::yingkou,LOCATED_IN,PLACE::bohai sea,982,Yingkou
+PLACE::yingkou,LOCATED_IN,WORK::liao river,982,Yingkou
+PLACE::fuding,LOCATED_IN,PLACE::ningde,983,Fuding
+PLACE::fuding,LOCATED_IN,PLACE::zhejiang,983,Fuding
+WORK::roman catholic diocese of yingkou,LOCATED_IN,PLACE::yingkou,984,Roman Catholic Diocese of Yingkou
+WORK::roman catholic diocese of yingkou,LOCATED_IN,PLACE::shenyang,984,Roman Catholic Diocese of Yingkou
+WORK::yingkou lanqi airport,LOCATED_IN,PLACE::lanqi village,985,Yingkou Lanqi Airport
+WORK::yingkou lanqi airport,LOCATED_IN,PLACE::xishi district,985,Yingkou Lanqi Airport
+WORK::yingkou lanqi airport,LOCATED_IN,PLACE::liaoning province,985,Yingkou Lanqi Airport
+WORK::yingkou lanqi airport,LOCATED_IN,PLACE::china,985,Yingkou Lanqi Airport
+PLACE::tongcheng,LOCATED_IN,PLACE::fuding,986,"Tongcheng Subdistrict, Fuding"
+PLACE::fuding,LOCATED_IN,PLACE::fujian,986,"Tongcheng Subdistrict, Fuding"
+PLACE::fujian,LOCATED_IN,PLACE::people's republic of china,986,"Tongcheng Subdistrict, Fuding"
+WORK::xiapu,LOCATED_IN,PLACE::ningde,987,Xiapu County
+PLACE::ningde,LOCATED_IN,PLACE::fujian,987,Xiapu County
+PLACE::ningde,LOCATED_IN,PLACE::people's republic of china,987,Xiapu County
+WORK::taimushan railway station,LOCATED_IN,PLACE::fuding city,988,Taimushan Railway Station
+PLACE::fuding city,LOCATED_IN,PLACE::ningde,988,Taimushan Railway Station
+PLACE::ningde,LOCATED_IN,PLACE::fujian province,988,Taimushan Railway Station
+PLACE::fujian province,LOCATED_IN,PLACE::china,988,Taimushan Railway Station
+WORK::yingkou east railway station,LOCATED_IN,PLACE::dashiqiao,989,Yingkou East Railway Station
+WORK::yingkou east railway station,LOCATED_IN,PLACE::liaoning province,989,Yingkou East Railway Station
+WORK::yingkou east railway station,LOCATED_IN,PLACE::china,989,Yingkou East Railway Station
+WORK::bayuquan railway station,LOCATED_IN,PLACE::bayuquan,990,Bayuquan Railway Station
+PLACE::bayuquan,LOCATED_IN,PLACE::yingkou,990,Bayuquan Railway Station
+PLACE::yingkou,LOCATED_IN,PLACE::liaoning,990,Bayuquan Railway Station
+PLACE::liaoning,LOCATED_IN,PLACE::china,990,Bayuquan Railway Station

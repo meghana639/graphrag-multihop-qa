@@ -1,0 +1,2 @@
+system,questions,top_k,supporting_doc_recall,exact_match,f1
+Vector RAG,100,5,0.76,0.3,0.44064285714285717

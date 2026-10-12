@@ -1,0 +1,11 @@
+
+datasets
+numpy
+torch
+sentence-transformers
+transformers
+accelerate
+neo4j
+streamlit
+fastapi
+uvicorn

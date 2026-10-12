@@ -1,0 +1,2 @@
+questions,vector_top5_recall,hybrid_candidate_recall,graphrag_top5_recall,vector_perfect,candidate_perfect,graphrag_perfect,improved_questions,unchanged_questions,worsened_questions
+100,0.75,0.815,0.79,52,65,60,8,92,0
