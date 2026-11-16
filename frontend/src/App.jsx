@@ -2,60 +2,80 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_URL =
-  import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+// Frontend-only demonstration.
+// This sample was generated previously by the GraphRAG pipeline.
+const sampleResult = {
+  question: "Were Scott Derrickson and Ed Wood of the same nationality?",
+  answer: "Yes.",
+  vector_candidates: [
+    "Ed Wood (film)",
+    "Ed Wood",
+    "Scott Parkin",
+    "Adam Collis",
+    "Woodson, Arkansas",
+  ],
+  hybrid_candidate_count: 9,
+  evidence: [
+    {
+      title: "Scott Derrickson",
+      from_vector: false,
+      from_graph: true,
+      reranker_score: 2.154086112976074,
+    },
+    {
+      title: "Ed Wood",
+      from_vector: true,
+      from_graph: false,
+      reranker_score: 0.5066560506820679,
+    },
+    {
+      title: "Ed Wood (film)",
+      from_vector: true,
+      from_graph: false,
+      reranker_score: -0.052937138825654984,
+    },
+    {
+      title: "Doctor Strange (2016 film)",
+      from_vector: false,
+      from_graph: true,
+      reranker_score: -4.008537292480469,
+    },
+    {
+      title: "Adam Collis",
+      from_vector: true,
+      from_graph: false,
+      reranker_score: -4.209660530090332,
+    },
+  ],
+};
 
 const suggestions = [
   "Were Scott Derrickson and Ed Wood of the same nationality?",
-  "Which people share the same nationality?",
-  "What relationships connect the entities in the knowledge graph?",
 ];
 
 function App() {
   const [question, setQuestion] = useState("");
   const [result, setResult] = useState(null);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState("");
+  const [notice, setNotice] = useState("");
 
-  const handleSubmit = async (event) => {
+  const handleSubmit = (event) => {
     event.preventDefault();
 
     const text = question.trim();
-    if (!text || loading) return;
+    if (!text) return;
 
-    setLoading(true);
-    setError("");
-    setResult(null);
-
-    try {
-      const response = await fetch(`${API_URL}/ask`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ question: text }),
-      });
-
-      const data = await response.json();
-
-      if (!response.ok) {
-        throw new Error(
-          typeof data.detail === "string"
-            ? data.detail
-            : "Unable to generate an answer."
-        );
-      }
-
-      setResult(data);
-    } catch (err) {
-      setError(
-        err instanceof TypeError
-          ? "Cannot connect to FastAPI. Make sure your backend is running."
-          : err.message
+    if (text !== sampleResult.question) {
+      setResult(null);
+      setNotice(
+        "This public demo currently contains one prerecorded example. " +
+          "Select the example question below to explore the GraphRAG results. " +
+          "Live AI inference is available in the local project."
       );
-    } finally {
-      setLoading(false);
+      return;
     }
+
+    setNotice("");
+    setResult(sampleResult);
   };
 
   return (
@@ -82,7 +102,7 @@ function App() {
         <div className="hero">
           <div className="eyebrow">
             <span className="status-dot" />
-            INTELLIGENT KNOWLEDGE RETRIEVAL
+            INTERACTIVE GRAPHRAG DEMO
           </div>
 
           <h1>
@@ -92,63 +112,56 @@ function App() {
           </h1>
 
           <p className="subtitle">
-            Explore complex questions through vector search,
-            knowledge graph expansion, cross-encoder reranking,
-            and AI-powered answer generation.
+            Explore how vector search, knowledge graph expansion,
+            cross-encoder reranking, and AI-powered answer generation
+            work together in a multi-hop question answering system.
           </p>
         </div>
 
         <section className="query-card">
           <div className="card-heading">
             <div>
-              <span className="section-label">YOUR QUESTION</span>
-              <h2>Ask GraphRAG</h2>
+              <span className="section-label">SAMPLE QUESTION</span>
+              <h2>Explore GraphRAG</h2>
             </div>
-            <span className="ai-badge">✦ AI POWERED</span>
+            <span className="ai-badge">✦ SAMPLE DEMO</span>
           </div>
+
+          <p className="subtitle" style={{ marginBottom: "18px" }}>
+            This hosted frontend demonstrates a previously generated
+            result. Live AI inference is not connected to this deployment.
+          </p>
 
           <form onSubmit={handleSubmit}>
             <textarea
               value={question}
-              onChange={(event) => setQuestion(event.target.value)}
-              placeholder="Ask a complex multi-hop question..."
+              onChange={(event) => {
+                setQuestion(event.target.value);
+                setResult(null);
+                setNotice("");
+              }}
+              placeholder="Select the example question below..."
               rows={4}
             />
 
             <div className="form-footer">
               <span>
-                Discover connections across your knowledge graph
+                Explore a prerecorded knowledge graph response
               </span>
-              <button
-                type="submit"
-                disabled={!question.trim() || loading}
-              >
-                {loading ? "Generating..." : "Generate Answer"}
-                <span>{loading ? "⌛" : "→"}</span>
+
+              <button type="submit" disabled={!question.trim()}>
+                View Sample Answer
+                <span>→</span>
               </button>
             </div>
           </form>
         </section>
 
-        {loading && (
-          <section className="query-card result-card">
-            <span className="section-label">PROCESSING</span>
-            <h2>Searching the knowledge graph...</h2>
-            <p>
-              Retrieving documents, exploring relationships,
-              reranking evidence, and generating your answer.
-            </p>
-          </section>
-        )}
-
-        {error && (
-          <section
-            className="query-card result-card"
-            role="alert"
-          >
-            <span className="section-label">REQUEST FAILED</span>
-            <h2>Something went wrong</h2>
-            <p>{error}</p>
+        {notice && (
+          <section className="query-card result-card" role="status">
+            <span className="section-label">DEMO INFORMATION</span>
+            <h2>Example question required</h2>
+            <p>{notice}</p>
           </section>
         )}
 
@@ -157,11 +170,11 @@ function App() {
             <div className="card-heading">
               <div>
                 <span className="section-label">
-                  GRAPH-ENHANCED RESPONSE
+                  PRERECORDED GRAPH-ENHANCED RESPONSE
                 </span>
-                <h2>Generated Answer</h2>
+                <h2>Sample Answer</h2>
               </div>
-              <span className="ai-badge">✦ AI RESULT</span>
+              <span className="ai-badge">✦ SAMPLE RESULT</span>
             </div>
 
             <p className="result-question">
@@ -172,73 +185,69 @@ function App() {
               <p>{result.answer}</p>
             </div>
 
+            <p style={{ marginTop: "14px", opacity: 0.7 }}>
+              This answer and its retrieval statistics were generated
+              previously. They are displayed for demonstration only.
+            </p>
+
             <div className="result-stats">
               <div className="stat">
-                <strong>
-                  {result.vector_candidates?.length ?? 0}
-                </strong>
+                <strong>{result.vector_candidates.length}</strong>
                 <span>Vector Matches</span>
               </div>
 
               <div className="stat">
-                <strong>
-                  {result.hybrid_candidate_count ?? 0}
-                </strong>
+                <strong>{result.hybrid_candidate_count}</strong>
                 <span>Hybrid Candidates</span>
               </div>
 
               <div className="stat">
-                <strong>
-                  {result.evidence?.length ?? 0}
-                </strong>
+                <strong>{result.evidence.length}</strong>
                 <span>Evidence Documents</span>
               </div>
             </div>
 
             <div className="evidence-section">
-              <h3>Supporting Evidence</h3>
+              <h3>Retrieved Evidence</h3>
 
-              {result.evidence?.length ? (
-                <div className="evidence-list">
-                  {result.evidence.map((item, index) => (
-                    <div
-                      className="evidence-item"
-                      key={`${item.title}-${index}`}
-                    >
-                      <div className="evidence-heading">
-                        <strong>{item.title}</strong>
-                        <span>
-                          Score:{" "}
-                          {Number(item.reranker_score).toFixed(3)}
-                        </span>
-                      </div>
-
-                      <div className="evidence-tags">
-                        {item.from_vector && (
-                          <span className="evidence-tag">
-                            Vector Search
-                          </span>
-                        )}
-                        {item.from_graph && (
-                          <span className="evidence-tag">
-                            Graph Expansion
-                          </span>
-                        )}
-                      </div>
+              <div className="evidence-list">
+                {result.evidence.map((item, index) => (
+                  <div
+                    className="evidence-item"
+                    key={`${item.title}-${index}`}
+                  >
+                    <div className="evidence-heading">
+                      <strong>{item.title}</strong>
+                      <span>
+                        Score:{" "}
+                        {Number(item.reranker_score).toFixed(3)}
+                      </span>
                     </div>
-                  ))}
-                </div>
-              ) : (
-                <p>No supporting evidence returned.</p>
-              )}
+
+                    <div className="evidence-tags">
+                      {item.from_vector && (
+                        <span className="evidence-tag">
+                          Vector Search
+                        </span>
+                      )}
+
+                      {item.from_graph && (
+                        <span className="evidence-tag">
+                          Graph Expansion
+                        </span>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
           </section>
         )}
 
         <section className="suggestions">
           <div className="section-heading">
-            <span className="section-label">GET INSPIRED</span>
-            <h2>Try an example question</h2>
+            <span className="section-label">EXPLORE AN EXAMPLE</span>
+            <h2>Try a sample question</h2>
           </div>
 
           <div className="suggestion-grid">
@@ -249,7 +258,7 @@ function App() {
                 onClick={() => {
                   setQuestion(item);
                   setResult(null);
-                  setError("");
+                  setNotice("");
                 }}
               >
                 <span className="suggestion-icon">↗</span>
@@ -288,6 +297,10 @@ function App() {
 
       <footer>
         GraphRAG Multi-Hop QA · Built with React, FastAPI & Neo4j
+        <p style={{ marginTop: "8px", opacity: 0.7 }}>
+          Public preview uses prerecorded results. Full AI pipeline
+          runs locally.
+        </p>
       </footer>
     </div>
   );
